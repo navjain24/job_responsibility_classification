@@ -17,6 +17,9 @@ def extractSentences(rootFolder):
 
 def extractSentencesFromSingleJob(jobRole, sourceFullFilePath):
     print(f"Processing {jobRole}:{sourceFullFilePath}")
+    with open(sourceFullFilePath) as f:
+        s = f.read()
+        print(s)
  
 
 extractSentences('./BRONZE_DATA')
