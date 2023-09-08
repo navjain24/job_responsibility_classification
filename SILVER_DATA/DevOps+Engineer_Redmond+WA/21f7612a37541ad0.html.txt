@@ -1,0 +1,15 @@
+4:1:Azure cloud engineers are responsible for developing and deploying cloud computing solutions for their clients.
+36:1:Must have in-depth knowledge of concepts within job function as would normally be obtained in seven plus years' work experience developing Enterprise Applications.
+7:1:Azure cloud engineers must stay informed of the latest developments in cloud technology to ensure their solutions are up-to-date and secure.
+15:1:This will involve working closely with IT functional areas, product owners and vendors to develop detailed design, execution and troubleshooting of strategic solutions in support of these systems.
+0:1:Primary City/State: Phoenix, Arizona
+ 
+  Department Name: IT Infrastructure
+ 
+  Work Shift: Day
+ 
+  Job Category: Information Technology
+ 
+  Primary Location Salary Range: $42.92 - $71.53 / hour, based on education & experience
+  In accordance with State Pay Transparency Rules.
+20:1:Ensure newly deployed systems / services can be integrated into the existing monitoring and management tools so that the performance of the service and deviations are easily anticipated and instrumented.
