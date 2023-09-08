@@ -1,0 +1,21 @@
+/BRONZE
+	/job_role
+		job_id_1.html
+		job_id_2.html
+		.
+		.
+		.
+
+/SILVER
+	/job_role
+		sentence_1.txt
+		sentence_2.txt
+		sentence_3.txt
+		.
+		.
+		.
+
+
+
+
+

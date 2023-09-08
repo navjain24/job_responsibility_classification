@@ -1,0 +1,22 @@
+job_role
+	master_sentence_1 - label1
+	master_sentence_2 - label2
+	master_sentence_3 - label3
+
+foreach sentence in sentences
+	foreach(masterSentence in masterSentences)
+	{
+	    calculatescore(sentence, mastersentence)
+	}
+
+	sort based on similarity score
+	take the top score. label the sentence same as master sentence
+
+	Increment the label freq count.
+
+
+
+
+
+	
+	
