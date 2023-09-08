@@ -1,0 +1,52 @@
+0:16128:Company Description
+We're a seven-time Best Company to Work For, where intelligent, talented people come together to do outstanding work - and have a lot of fun while they're at it.
+1:16128:Because we're a full-service consulting firm with a diverse client base, you can count on a steady stream of opportunities to work with cutting-edge technologies on projects that make a real difference.
+2:8832:Logic20/20's Global Delivery Model creates a connected experience for Logicians across geographies.
+3:13056:You'll have access to projects in different locations, the technology to support Connected Teams, and in-person and online culture events in our Connected Hub cities.
+4:17280:Job Description
+About the TeamThe Logic20/20 Advanced Analytics team combines data engineering, data science, and visual analytics to mitigate risk, optimize operations, and automate processes for the ultimate user experience.
+5:14208:Our lean-in learning culture is focused on building expertise and delivering high-value solutions with real business impact across industries, whether they are leveling up or blazing a trail.
+6:9984:“We build an environment where we really operate as One Team, building up each other’s careers and capabilities.”
+7:22272:– Adam Cornille, Senior Director, Advanced Analytics
+About YouLogic20/20 is seeking a Machine Learning Engineer for a remote opportunity to lead and support a team at one of the nation's top utilities companies on the west coast that is working on RSE calculations and improvement.
+8:12288:This is an exciting opportunity to make an impact by leveraging AI and ML techniques to create production-level systems through the application of machine learning models.
+9:2304:Qualifications
+Must have:
+10:29952:5+ years of experience building and deploying machine learning models to production in a cloud environment
+ 3+ years of hands-on Python experience
+ Strong experience with Terraform, Ansible, CloudFormation, Basel or Puppet
+ Ability to build CI/CD pipelines
+ Knowledge of professional enterprise software development and practices including software lifecycle, best coding practices, version control, architecture, testing and deployment
+11:1536:Preferred:
+12:7680:Experience working in the Utilities industry
+ Master's degree/PhD in computer science or related field
+13:7296:Additional Information**All your information will be kept confidential according to EEO guidelines.
+14:32640:Compensation range: $130,000 - $200,000, depending on experienceAbout Logic20/20To learn more about Logic20/20, please visit: https://www.logic2020.com/careers/life-at-logic
+Core ValuesAt Logic20/20, we are guided by three core values: Drive toward Excellence, Act with Integrity & Foster a Culture of We.
+15:13440:These values were generated and agreed upon by our employees—and they help us pursue our goal of being one of the best companies to work for and to work with.
+16:13440:Learn more at https://www.logic2020.com/company/our-values.
+Logic20/20 BenefitsWhy Logic20/20?
+17:6912:It’s our goal to be one of the best companies to work for.
+18:9984:One piece of the puzzle is an evolving set of benefits that extend past medical, dental, and 401(k).
+19:1920:You will have
+20:53376:Career Development – A built-in program from day 1, providing a mentor and individually-directed training opportunities, plus access to leaders across the company
+
+
+ PTO, Paid Holidays, & Voluntary Leave – Worry-free time off to recharge and pursue your personal goals
+
+
+ Community & Committees – As part of our “Culture of We,” Logic20/20 invests in providing many social, interest, and learning opportunities
+
+
+ Recognition – From peer recognition, swag, and the chance to win a once-in-a-lifetime type of award, we make your Logic20/20 journey stand out
+
+
+ Referral Programs & Bonuses – Employee, project, and sales referral programs with paid incentives
+21:12672:Equal Opportunity StatementWe believe that people should be celebrated: for their talents, ideas, and skills, but most of all, for what makes them unique.
+22:25344:We prohibit harassment and/or discrimination based on age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status, or any other basis as protected by federal, state, or local law.
+23:21888:To learn more about our DE&I initiatives, please visit: https://www.logic2020.com/company/diversity-equity-inclusion
+Privacy PolicyDuring the recruitment and hiring process, we gather, process, and store some of your personal data.
+24:3456:We consider data privacy a priority.
+25:4992:For further information, please view our company privacy policy.
+26:9600:Job Type: Full-time
+Pay: $130,000.00 - $200,000.00 per year

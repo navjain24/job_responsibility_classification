@@ -1,0 +1,26 @@
+0:11520:Summary of Position:
+  In this role, you will work cross-functionally to gather requirements, design proper controls, and implement the strategy.
+1:6912:This includes team systems and tools, lab networks, and access to cloud infrastructure.
+2:9600:This position will be working with information technology to design and develop networks and systems based on the needs of the organization.
+3:7296:The Engineer will conduct research, analyze data, develop prototypes, and troubleshoot errors.
+4:101760:Essential Functions:
+ 
+   Provision and manage customer's infrastructure, including EC2, CloudFormation Templates, AppStream, and Load Balancers
+   Build dashboards and alarming to drive Operational Excellence
+   Work with a wide range of technologies, and customer products
+   Build client Application Environments including VPC, EC2, RDS, SSM, S3
+   Architect and setup infrastructure on client site and client gov-cloud environments
+   Analyze and Support the setup of new devices connectivity to applications
+   Monitor network connectivity between all internal and external systems
+   Work closely with Application leads to understand needs and plan for infrastructure demands
+   Drive automation of routine tasks to help scale the operations
+   Conduct research, analyze data, develop prototypes, and troubleshoot errors
+   Design and develop networks and systems based on the needs of the organization
+   Maintain hardware architecture documentation for all infrastructure and networking components
+   Support Identity and Access Management (IAM) initiatives building highly secure working environments
+   Work collaboratively with internal security teams and key stakeholders to intake requirements and deliver a customer obsessed IAM experience
+   Develop tools and processes that collect and rationalize data from different sources
+   Develop tools and frameworks to reduce our operations workload
+   Work closely with our Network Engineering teams to ensure fast, smooth software roll-outs
+   Identify and troubleshoot recurring platform issues with an effective escalation of senior-level engineering teams
+   Contribute to documentation, process, and procedures

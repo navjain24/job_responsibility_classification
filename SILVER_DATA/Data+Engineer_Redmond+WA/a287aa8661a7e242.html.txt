@@ -1,0 +1,74 @@
+0:11904:Our Purpose
+ 
+ 
+ 
+   We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible.
+1:11520:Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential.
+2:9984:Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company.
+3:8832:We cultivate a 
+  
+   culture of inclusion
+   for all employees that respects their individual strengths, views, and experiences.
+4:11136:We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.
+5:18432:Title and Summary
+ 
+  Senior Software Engineer / Data Engineer - TECH061
+  Ekata, a Mastercard company, is the global standard in identity verification, providing businesses worldwide the ability to link any digital transaction to the human behind it.
+6:18048:Our Ekata Identity Engine, the first and only of its kind, uses complex machine learning to combine features derived from the billions of transactions within our proprietary network and the data from our graph to deliver industry leading risk assessment solutions.
+7:12288:We are looking for a Software Engineer who thrives on designing, coding, and maintaining large data processing systems, primarily in the Spark framework using Scala.
+8:9984:Our ideal candidate will understand the challenges of working with data at scale and have a firm knowledge of algorithms and processing complexity.
+9:12288:Our team is a mix of software engineers and data analysts working to ensure our inputs, algorithms, and publishing artifacts are of the highest quality and efficiency.
+10:8832:Our output is critical to the accuracy of our Risk Analysis APIs which power top e-commerce sites.
+11:4608:Constant improvement and innovation is part of our process.
+12:5376:Your ability to learn and grow will be recognized and rewarded.
+13:13056:As a Senior Software Engineer for the Graph and Tools Team, you will:
+  
+ 
+  Develop big data processing systems using Scala, Apache Spark, Airflow and related technologies.
+14:4992:Increase the capabilities and efficiency of our data processing pipeline.
+15:4224:Investigate problems when they occur and develop solutions.
+16:8448:Insist on highest coding standards, follow and create best practices for clean code, tests, and architecture.
+17:9984:Plan and document our development by delivering well-written engineering designs for review by the Product, Privacy, and Security teams.
+18:8832:Manage a sense of urgency and risks on project timelines and propose creative strategies for delivering constant business value.
+19:59904:Our ideal Software Engineer will have:
+  
+ 
+  Bachelor's degree in Computer Science or equivalent experience
+  Strong data structures, algorithm design, and problem-solving skills
+  Aptitude to learn new languages and technologies as necessary
+  Ability to write well-organized, readable, and testable code that follows best practices
+  Experience with Scala, Java, or other strongly typed languages
+  Experience with functional programming
+  Good verbal and written communication skills
+  Experience using web service APIs
+  Familiarity with AWS services including EC2, S3, DynamoDB, and EMR
+ 
+  #IdentitiySolutions
+  In the US, Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
+20:14208:If you require accommodations or assistance to complete the online application process, please contact reasonable_accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting.
+21:5376:Do not include any medical or health information in this email.
+22:4992:The Reasonable Accommodations team will respond to your email promptly.
+23:39936:Corporate Security Responsibility
+ 
+ 
+   All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:
+ 
+ 
+  
+   
+     Abide by Mastercard’s security policies and practices;
+   
+  
+   
+     Ensure the confidentiality and integrity of the information being accessed;
+   
+  
+   
+     Report any suspected information security violation or breach, and
+   
+  
+   
+     Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.
+24:6912:Pay Ranges
+ 
+  Seattle, Washington: $129,000 - $199,000 USD

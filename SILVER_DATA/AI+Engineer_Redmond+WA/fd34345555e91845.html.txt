@@ -1,0 +1,46 @@
+0:13824:About HiveHive is the leading provider of cloud-based AI solutions for content understanding, trusted by the world’s largest, fastest growing, and most innovative organizations.
+1:12672:The company empowers developers with a portfolio of best-in-class, pre-trained AI models, serving billions of customer API requests every month.
+2:9984:Hive also offers turnkey software applications powered by proprietary AI models and datasets, enabling breakthrough use cases across industries.
+3:11136:Together, Hive’s solutions are transforming content moderation, brand protection, sponsorship measurement, context-based ad targeting, and more.
+4:13824:Hive has raised over $120M in capital from leading investors, including General Catalyst, 8VC, Glynn Capital, Bain & Company, Visa Ventures, and others.
+5:7296:We have over 250 employees globally in our San Francisco, Seattle, and Delhi offices.
+6:6144:Please reach out if you are interested in joining the future of AI!
+7:9984:Staff Software EngineerIn order to execute our vision, we need to grow our team of best-in-class engineers.
+8:18048:We are looking for developers who are excited about launching new products and features into production, who can work autonomously and aren’t afraid to try new technologies, and who don’t back down from the challenges of scale.
+9:19968:Our ideal candidate has experience building core services and web-based APIs from the ground up, cares just as much about the product itself as the technology that powers it, and is capable of both structuring and writing clean, maintainable code.
+10:1152:Responsibilities
+11:71040:Design, implement or improve features in a variety of backend systems including our REST APIs, microservices, data ingestion and processing systems, and distributed task/job processing systems
+ Write and maintain scalable, performant and secure code that can be shared across platforms
+ Meaningfully contribute to the product and core backend systems by suggesting and executing improvements
+ Improve engineering standards, tooling, processes and security
+ Practice test-driven development
+ Debug production issues across services and multiple levels of the stack
+ Participate in on-call rotations, as needed, to ensure prompt and effective resolution of critical technical issues
+ Utilize OWASP top 10 techniques to secure code from vulnerabilities
+ Maintain awareness of industry best practices for data maintenance handling as it relates to your role
+ Adhere to policies, guidelines and procedures pertaining to the protection of information assets
+ Report actual or suspected security and/or policy violations/breaches to an appropriate authority
+12:1536:Minimum Requirements
+13:23808:You have a Bachelor's Degree in computer science or a related field
+ You have 8+ years of experience building web applications
+ You have successfully implemented highly-available distributed systems/microservices
+ You have delivered scalable backend APIs
+ You have strong interpersonal and communication skills with a bias towards action
+14:1536:Preferred Requirements
+15:19584:Master’s degree or PhD in Engineering, Computer Science, or a related technical field
+ Hands on technical leadership experience leading project teams and setting technical direction
+ Experience architecting and developing solutions to ambiguous problems with significant impact
+ Interest and ability to learn other coding language
+16:8448:Who We AreWe are a group of ambitious individuals who are passionate about creating a revolutionary AI company.
+17:11904:At Hive, you will have a steep learning curve and an opportunity to contribute to one of the fastest growing AI start-ups in San Francisco.
+18:8064:The work you do here will have a noticeable and direct impact on the development of the company.
+19:6528:Thank you for your interest in Hive and we hope to meet you soon!
+20:9216:Employees are eligible to participate in a number of Company-sponsored benefits, including health, vision and dental insurance.
+21:8064:Employees are also eligible to participate in a gym membership as part of our commitment to employee wellness.
+22:8448:In addition, employees will be entitled to paid vacation in accordance with the Company's vacation policy.
+23:9984:Hired applicant may receive an equity grant in the form of an option to purchase stock in the future for a specified price.
+24:10368:Job Type: Full-time
+Pay: $200,000.00 - $300,000.00 per year
+Schedule:
+25:1920:Monday to Friday
+26:2688:Work Location: In person

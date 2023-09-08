@@ -1,0 +1,50 @@
+0:32256:3+ years of administrative experience in networking, storage systems, operating systems and hands-on systems engineering experience 
+ * Bachelor's degree in Computer Science or related field, or four years of equivalent experience 
+ * 2+ years of experience in Systems Administration, Network Administration, AWS Cloud App development, DevOps or Site Reliability Engineering 
+ * 2+ years of experience building automated tools or services in Java, Python, Node.
+1:22272:js, Bash, REST APIs, and JSON encoding 
+ * Experience with agile software development practices 
+ * 3+ years of proven operating systems knowledge Linux/Unix 
+ The Amazon DynamoDB Storage Services team is looking for a talented Systems Development Engineer to join our rapidly growing team in Atlanta.
+2:7680:Are you interested in building operational tooling for hyper-scale database services in the cloud?
+3:5376:Are you passionate about process automation and self-healing systems?
+4:9216:Do you want to have direct and immediate impact on hundreds of thousands of users who use AWS DynamoDB?
+5:4992:If this sounds interesting to you, come join us!
+6:14592:Here at DynamoDB, we build and manage a highly scalable, distributed key-value and document database service and focus on the hard problems so customers can focus on their business.
+7:11520:Many of the world's fastest growing businesses depend on the scale and performance of DynamoDB to support their mission-critical workloads.
+8:13056:Our mission is to provide customers with best-in-class cloud database services to store, query, and analyze the enormous datasets that their businesses generate.
+9:10368:We build distributed storage, index, and query systems that are scalable, low cost, and easy to manage and use.
+10:6144:Joining the Amazon DynamoDB Storage Services team gives you the opportunity to:
+11:26112:Join a fast-growing team within DynamoDB as we expand to the East Coast 
+ Solve challenging operational problems for a large scale and distributed system 
+ Build services and tooling to operate a dynamically changing production environment 
+ Key job responsibilities 
+A System Development Engineer is responsible for building and supporting tools and workflows that safeguard and automate operational success.
+12:10752:This may include creating production hardware management workflows and tools, test cluster orchestration setup, and performance benchmarking environments.
+13:9216:You’ll dive deep into operational issues and propose technical and cultural changes to retain and improve the customer experience.
+14:13056:Other responsibilities include being an active reviewer of the team’s technology solutions and operations and helping new teammates understand the team’s customers, systems, and processes.
+15:10752:You will also be responsible for thoroughly diagnosing problems in all aspects of operations, including hardware, software, and operating environments.
+16:14976:About the team 
+We are a team within the DynamoDB Storage Services organization to provide infrastructure services for the Storage Node fleet and serving other engineers on the team for in terms of test environments.
+17:12288:These infrastructure services include the on-boarding and qualification of new hardware platforms, developing and maintaining test environment frameworks, 
+production deployment pipeline definition and maintenance.
+18:6912:We are open to hiring candidates to work out of one of the following locations:
+19:2688:Seattle, WA, USA
+20:14976:Experience with CI/CD pipelines build processes 
+ Experience with distributed systems at scale 
+ Experience working in a high pace DevOps 
+ 4+ years’ experience in a large-scale software development environment.
+21:40320:Working experience and good understanding of the AWS environment, including VPC, EC2, EBS, S3, Cloud Formation/CDK 
+ Working knowledge of operating a database or storage system, or any large-scale cloud infrastructure services 
+ Hands on experience with monitoring tools such as AWS CloudWatch 
+ Proven ability to troubleshoot and identify the root cause of issues 
+ A history of dealing well with ambiguity, prioritizing needs, and delivering measurable results in a dynamic environment 
+ Amazon is committed to a diverse and inclusive workplace.
+22:17280:Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+23:12288:For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+24:5760:Our compensation reflects the cost of labor across several US geographic markets.
+25:13440:The base pay for this position ranges from $103,400/year in our lowest geographic market up to $201,200/year in our highest geographic market.
+26:10752:Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience.
+27:3456:Amazon is a total compensation company.
+28:18432:Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits.
+29:14208:For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site.

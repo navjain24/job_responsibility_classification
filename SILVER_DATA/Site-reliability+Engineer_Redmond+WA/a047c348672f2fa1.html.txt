@@ -1,0 +1,61 @@
+0:6528:NVIDIA has continuously reinvented itself over the past several decades.
+1:8064:It’s a unique legacy of innovation that’s motivated by outstanding technology and amazing people.
+2:8448:Today, we’re tapping into the unlimited potential of AI to define the next era of computing.
+3:11136:An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world.
+4:7680:NVIDIA is at the forefront of generative AI models, from language to images.
+5:8832:Doing what’s never been done before takes vision, innovation, and the world’s best talent.
+6:11136:As an NVIDIAN, you’ll be immersed in a diverse, encouraging environment where everyone is inspired to do their best work.
+7:18048:What you’ll be doing:
+ 
+ 
+   As a Senior Site Reliability Engineer, you will have the responsibility for provisioning and operating our high-availability systems that provide automated control, monitoring, and alerting at our production data centers.
+8:8832:Your duties will include:
+ 
+ 
+  
+   
+     Ensuring high levels of systems reliability and availability in a global enterprise data center setting.
+9:4224:Identifying, resolving, and analyzing system issues.
+10:4224:Optimizing system performance and ensuring security.
+11:9600:Providing systems support and administration in TCP/IP network environments, including both IPv4 and IPv6.
+12:5376:Implementing remote access capabilities for out-of-band administration.
+13:5376:Automate provisioning systems for rapid and consistent deployments.
+14:4992:Collaborate with development teams to improve efficiencies.
+15:9216:What we need to see:
+ 
+ 
+  
+   
+     Strong understanding and hands-on experience with server administration in production data center environments.
+16:4608:Proven track record of technical leadership in site reliability.
+17:8832:Excellent problem-solving skills and an ability to thrive under pressure..
+   
+  
+   
+     Strong written and verbal communication skills.
+18:8448:Bachelor's degree in Computer Science, Information Systems, or a related field, or equivalent experience.
+19:6144:5+ years of experience in systems administration, particularly with Linux systems.
+20:16128:Ways to stand out from the crowd:
+ 
+ 
+  
+   
+     Certifications such as the Red Hat Certified System Administrator (RHCSA), CompTIA Linux+, or Linux Professional Institute Certification (LPIC).
+21:6528:Experience with cloud services like AWS, Google Cloud, or Microsoft Azure.
+22:10368:Knowledge of or experience with containerization technologies like Docker and Kubernetes, can VM technologies like KVM.
+23:8832:Familiarity with infrastructure as code (IaC) tools such as Ansible, Terraform, or Puppet.
+24:5376:Understanding of and experience with security standards for and networking environments.
+25:4608:Experience in automating routine system administration tasks.
+26:4992:Active participation in relevant professional or open-source communities.
+27:8064:NVIDIA is widely considered to be one of the technology world’s most desirable employers.
+28:8448:We have some of the most forward-thinking and hardworking people in the world working for us.
+29:6528:If you're creative and autonomous, we want to hear from you.
+30:6528:The base salary range is $118,400 - $224,250.
+31:9216:Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+32:4608:You will also be eligible for equity and 
+         
+          benefits
+         .
+33:8832:NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer.
+34:26112:As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+35:768:

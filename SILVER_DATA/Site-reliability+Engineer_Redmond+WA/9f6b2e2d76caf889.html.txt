@@ -1,0 +1,83 @@
+0:14976:Be Part of Building the Future 
+   Dremio is The Easy and Open Data Lakehouse, providing self-service analytics with data warehouse functionality and data lake flexibility across all of your data.
+1:13056:Dremio increases agility with a revolutionary data-as-code approach that adopts Git concepts to enable data experimentation, version control, and governance.
+2:14208:In addition, Dremio breaks down data silos by simplifying ingestion into the lakehouse, and also allowing queries directly on databases and data warehouses.
+3:17280:All of this is available through a fully managed service that not only eliminates the need to maintain infrastructure and software, but also automatically optimizes the data in the lakehouse to maximize performance for every workload.
+4:6528:Founded in 2015, Dremio is headquartered in Santa Clara, CA.
+5:10752:Investors include Cisco Investments, Insight Partners, Lightspeed Venture Partners, Norwest Venture Partners, Redpoint Ventures, and Sapphire Ventures.
+6:3456:For more information, visit www.
+7:2304:dremio.
+8:1536:com.
+9:7680:Connect with Dremio on GitHub, LinkedIn, Twitter, and Facebook.
+10:13440:If you, like us, say "bring it on" to exciting challenges that really do change the world, we have endless opportunities where you can make your mark.
+11:13824:About the role 
+  Dremio's SREs ensure that internal and externally visible services have reliability and uptime appropriate to users' needs and a fast rate of improvement.
+12:10368:You will be joining a small team of experienced SREs helping to deliver a world class experience to Dremio Cloud customers.
+13:10752:Our systems, like many, are joint-cognitive, made up of both people and software: complex and therefore intrinsically hazardous.
+14:5760:We understand and expect that catastrophe is always just around the corner.
+15:11520:What you'll be doing 
+ 
+  Drive continuous improvements to our usage of Kubernetes, our Operators, and the GitOps deployment paradigm.
+16:9984:Extend our networking, service mesh and Kubernetes systems to support connectivity between GCP, AWS and Azure.
+17:16128:Collaborate with Engineering teams to support services before they go live through activities such as system design consulting, developing software platforms and frameworks, monitoring/alerting, capacity planning, production readiness and service reviews.
+18:9984:Help define and instrument Service Level indicators and objectives (SLIs/SLOs) with service owners in the Engineering teams.
+19:6912:Develop SLO-based on-call strategies for service owners and their teams.
+20:16128:Collaborate within our virtual Observability team: develop and improve observability (tracing, events, metrics, profiling, logging and exceptions) of the Dremio Cloud product.
+21:8064:Ability to debug and optimize code written by others and automate routine tasks.
+22:9216:You recognize complexity and are familiar with multiple techniques to manage it but recognize the folly in complete rewrites.
+23:7296:Evangelize and advocate for resilience engineering and reliability practices across our organization.
+24:8064:Scale systems sustainably through automation and evolve systems by pushing for changes that improve reliability and velocity.
+25:7296:Join an on-call rotation for systems and services that the SRE team owns.
+26:4992:Practice sustainable incident response and post-incident investigation analysis.
+27:5376:Use techniques developed in and around the Learning from Incidents community.
+28:8832:Drive the cultural, technical, and process changes to move towards a true continuous delivery model within the company.
+29:13056:What we're looking for 
+ 
+  7+ years of relevant experience in the following areas: SRE, DevOps, Distributed Systems, Cloud Operations, Software Engineering.
+30:8064:Expertise in Kubernetes, Istio, Terraform, ArgoCD/Flux.
+31:8832:Expertise with software defined networking infrastructure: dedicated and partner interconnects, VPNs, BGP.
+32:8448:Excellent command of cloud services on GCP/AWS/Azure, CI/CD pipelines.
+33:7680:Have moderate-advanced experience in Python/Go, and at least reading knowledge of Java.
+34:6528:Interested in designing, analyzing and troubleshooting large-scale distributed systems.
+35:8832:Have a systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.
+36:7296:Great ability to debug and optimize code and automate routine tasks.
+37:6528:Solid background in software development and architecting resilient and reliable applications.
+38:10752:Bonus points if you have 
+ 
+  Hands-on experience with large-scale production Kubernetes clusters (<=1000 nodes).
+39:4608:Developed SLIs/SLOs for production systems.
+40:6528:Hands-on experience using Honeycomb for OpenTelemetry trace analysis.
+41:3840:Engagement with the Learning from Incidents community.
+42:6528:Familiarity with seminal work of Allspaw, Woods, Cook et al.
+43:39552:What we offer 
+ 
+  Medical, dental and vision insurance 
+  401(k) Plan 
+  Short term / long term disability and life insurance 
+  Pre-IPO stock options 
+  Flexible PTO 
+  16 hours of volunteer time off 
+  12 company paid holidays, including Juneteenth 
+  Remote work options 
+  Monthly "Get Stuff Done" (GSD) Days 
+  Paid parental leave 
+  Employee Assistance Program (EAP) 
+  Quarterly swag surprise 
+  
+ **Certain benefits are only allowed to full-time Dremio employees and may not be the same across all locations.
+44:13056:#LI-JW1 #LI-Remote 
+  The base salary range for this position is $154,545to $209,091 per year.
+45:21888:The base salary actually offered to a successful candidate will take into account various relevant and non-discriminatory business factors including, without limitation, the candidate's geographic location, job-related experience, knowledge, and skills, and education, as well as internal equity considerations.
+46:7680:A successful candidate may also be eligible to earn additional compensation including commissions and/or bonuses.
+47:10368:What we value 
+   At Dremio, we hold ourselves to high standards when it comes to People, Thinking, and Action.
+48:11520:Our Gnarlies (that's what we call our employees) communicate with clarity, drive accountability, and are respectful towards each other.
+49:9600:We confront brutal facts and focus on results while operating with a sense of urgency and building a "flywheel".
+50:8064:People who like to jump in and drive momentum will thrive in our #GnarlyLife.
+51:5376:Dremio is an equal opportunity employer supporting workforce diversity.
+52:17280:We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, protected veteran status, disability status, or any other unlawful factor.
+53:8832:Dremio is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process.
+54:6144:To request accommodation due to a disability, please inform your recruiter.
+55:8448:Dremio has policies in place to protect the personal information that employees and applicants disclose to us.
+56:4224:Please click here to review the privacy notice.
+57:768:

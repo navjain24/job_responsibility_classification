@@ -1,0 +1,51 @@
+0:16512:Who we are 
+  At Cloudticity, our mission is to make every human on earth healthier by enabling healthcare organizations to leverage public clouds like AWS and GCP to deliver modern innovations and key insights.
+1:14208:We enable healthcare organizations to be more effective at what they do by providing them with the tools, infrastructure, and guidance to build highly secure, available, and scalable solutions.
+2:7296:Our Cloudticity Oxygen™ platform automates the vast majority of managed services tasks.
+3:9600:As a result, we provide the most secure, agile, and responsive managed services available to the healthcare industry today.
+4:11136:Data, analytics, and predictable forecasts are becoming increasingly important to us as our company reaches its next phase of maturity and reporting requirements.
+5:6528:We are adding a Cloud Engineer to our team to support our rapid growth.
+6:18432:As a customer-centric Cloud Engineer, you will be responsible for the day-to-day operation of Cloud Engineering, working with customers on professional services engagements, Cloudticity’s help desk, and customer support services.
+7:5376:Responsibilities include: 
+  
+  Provide timely and effective solutions for customer requests.
+8:4224:Ensure overall customer satisfaction with help desk requests.
+9:6528:Identify, analyze and resolve infrastructure vulnerabilities and application deployment issues.
+10:5760:Periodic on-call rotations for 24/7 support requests.
+11:4992:Expand your AWS/GCP experience and skills.
+12:16512:Ongoing support of L2 Support Engineering tasks (deployments of new services)
+ 
+  
+  
+  We are seeking someone with: 
+  
+  Authorized to work in the U.S. 
+  Practical experience with AWS of at least three years.
+13:4224:Basic knowledge of networking and network layer topology.
+14:4224:Basic understanding of Windows and Linux operating systems.
+15:5376:AWS Solutions Architect Associate certification (or better) required.
+16:5376:AWS Developer/Terraform Developer Associate certifications preferred.
+17:7680:Real World experience w/GCP and experience deploying Terraform on GCP preferred.
+18:3456:Passion for delivering outstanding customer service.
+19:3072:Superior verbal and written communication.
+20:3072:Seriously, this is important.
+21:5760:Demonstrated ability to thrive in a fast-growing, dynamic company.
+22:4992:Willing to be part of an on-call rotation.
+23:6912:Willing to (sometimes) work off-hours during maintenance windows as work requires.
+24:13440:Some cool perks of working here:
+  
+ 
+  
+   An opportunity to work with a highly collaborative and entrepreneurial company with great coworkers who enjoy having fun and working hard.
+25:3072:Competitive salaries and annual bonuses.
+26:7680:Comprehensive health insurance available (medical, dental, and vision) for you and your family.
+27:5760:Ridiculously flexible Paid Time Off and working hours/location policies.
+28:4224:Employer-matching 401(k) plan.
+29:4992:Choice of top-end MacBook or Windows laptop.
+30:2304:Work from home.
+31:1536:Forever.
+32:4224:Cloudticity is an Equal Opportunity Employer.
+33:17280:At Cloudticity, almost everything matters except your age, gender, identity, the color of your skin, how you relate to the universe, who you choose to sleep with, or anything else of that nature.
+34:7296:Our culture unites us, and we celebrate all our differences with fervor.
+35:8832:If you’re smart and passionate about healthcare technology, we’ll embrace you just as you are.
+36:768:

@@ -1,0 +1,84 @@
+0:8064:The Data team leverages data from our autonomous vehicles and operations to determine autonomy and service readiness.
+1:5760:We provide the foundation for strategic decision-making at Zoox.
+2:12288:You will develop and implement the next generation of our data pipeline to ensure visibility into our business as we scale toward the launch of an autonomous mobility service.
+3:9984:You will define the system and build the pipeline to enable Zoox to develop and scale with a data-first culture.
+4:13056:You will join a diverse, experienced team with rapidly growing scope and responsibility while also having access to one of the most unique data sets in the autonomous vehicle industry.
+5:6144:Hence, we are seeking all skill levels to grow with the team.
+6:95616:Responsibilities
+   
+    
+      Design, build, and maintain a platform used by Zoox teams to build large-scale data pipelines
+      Drive platform efficiency improvements to reduce latency and improve data freshness
+      Support data-driven engineering decisions through improved observability and key metrics
+      Partner with engineering teams to support long-term scaling of their data pipelines
+    
+   
+  
+  
+ 
+  
+   Requirements
+   
+    
+      Strong fluency with Python, C/C++, or Java
+      Good experience building and maintaining production systems at scale
+      Good experience with streaming technologies (e.g. Kafka, Kinesis)
+      Good experience with relational databases and non-relational (NoSQL) databases
+      Good experience with infrastructure-as-code tools (e.g. Terraform, …)
+      Strong written and verbal communication skills
+    
+   
+  
+  
+ 
+  
+   Bonus Qualifications
+   
+    
+      Experience with data warehouse platforms (e.g. Redshift, BigQuery, Databricks, …)
+      Experience building scalable and maintainable data pipelines
+      Experience with AWS ECS and/or Kubernetes
+      Experience with a workflow manager such as Airflow
+    
+   
+  
+  
+ 
+  
+   $164,000 - $234,000 a year
+  
+  
+ 
+  
+   Compensation
+  
+  
+    There are three major components to compensation for this position: salary, Amazon Restricted Stock Units (RSUs), and Zoox Stock Appreciation Rights.
+7:6528:The salary will range from $164,000 to $234,000.
+8:5760:A sign-on bonus may be part of a compensation package.
+9:7680:Compensation will vary based on geographic location, job-related knowledge, skills, and experience.
+10:26112:Zoox also offers a comprehensive package of benefits including paid time off (e.g. sick leave, vacation, bereavement), unpaid time off, Zoox Stock Appreciation Rights, Amazon RSUs, health insurance, long-term care insurance, long-term and short-term disability insurance, and life insurance.
+11:13824:Vaccine Mandate
+  
+  
+    Employees working in this position will be required to have received a vaccine approved by the U.S. Food and Drug Administration and/or the World Health Organization.
+12:11520:In addition, employees who are eligible for a COVID-19 booster vaccine (“Booster”) will be required to receive a Booster.
+13:8832:Employees will be required to show proof of vaccination status upon receipt of a conditional offer of employment.
+14:11136:That offer of employment will be conditioned upon, among other things, an Applicant’s ability to show proof of vaccination status.
+15:8064:Please note the Company provides reasonable accommodations in accordance with applicable state, federal, and local laws.
+16:11904:About Zoox
+  
+  
+    Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market.
+17:13440:Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments.
+18:11520:We’re looking for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.
+19:9984:Follow us on LinkedIn
+  
+  
+  
+    A Final Note:
+  
+  
+    You do not need to match every listed expectation to apply for this position.
+20:15744:Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.
+21:768:

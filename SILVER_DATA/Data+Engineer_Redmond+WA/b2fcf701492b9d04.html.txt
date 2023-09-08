@@ -1,0 +1,12 @@
+0:8064:We are looking for a Data Engineer to help us with implementing new data capabilities at our clients.
+1:8832:This is contract, and part-time or full-time, remote, and potentially contract to hire.
+2:22272:What You’re Good At
+ 
+   Building Data Pipelines
+   Python
+   AWS
+   BI/DW architectures
+   Flask, Django etc.
+   Relational data bases
+   Working with other software engineers; Experience working with Data Scientists a plus; Experience with data science tools, ML, etc. a plus.
+3:768:

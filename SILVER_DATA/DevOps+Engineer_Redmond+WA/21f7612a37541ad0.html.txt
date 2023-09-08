@@ -1,0 +1,68 @@
+0:20736:Primary City/State: Phoenix, Arizona
+ 
+  Department Name: IT Infrastructure
+ 
+  Work Shift: Day
+ 
+  Job Category: Information Technology
+ 
+  Primary Location Salary Range: $42.92 - $71.53 / hour, based on education & experience
+  In accordance with State Pay Transparency Rules.
+1:3456:Health care is full of possibilities.
+2:6144:Information Technology plays a pivotal role in excellent patient care at Banner Health.
+3:6912:If you’re looking to leverage your abilities – you belong at Banner Health.
+4:7296:Azure cloud engineers are responsible for developing and deploying cloud computing solutions for their clients.
+5:13056:On any given day, they may be involved in tasks such as configuring cloud infrastructure, deploying applications, monitoring services, and resolving technical issues.
+6:6528:They also collaborate with various stakeholders to ensure projects are completed according to specifications.
+7:10752:Azure cloud engineers must stay informed of the latest developments in cloud technology to ensure their solutions are up-to-date and secure.
+8:11136:Banner Health is seeking a DevOps Engineer III, and the ideal candidate will have experience with cloud configuration and container lifecycle management products.
+9:12672:Banner Health IT was awarded Inside Pro and Computerworld's 100 Best Places to work in IT for 2020, 2021, 2022, and 2023!
+10:11136:Within Banner Health Corporate, you will have the opportunity to apply your unique experience and expertise in support of a nationally-recognized healthcare leader.
+11:6144:We offer stimulating and rewarding careers in a wide array of disciplines.
+12:15360:Whether your background is in Human Resources, Finance, Information Technology, Legal, Managed Care Programs or Public Relations, you'll find many options for contributing to our award-winning patient care.
+13:6144:POSITION SUMMARY
+  This position is a highly experienced individual contributor in Development Operations.
+14:15360:The DevOps Engineer III will perform the tasks necessary to analyze, design, configure, implement and support PaaS solutions, related services, processes, applications, and integrations.
+15:13440:This will involve working closely with IT functional areas, product owners and vendors to develop detailed design, execution and troubleshooting of strategic solutions in support of these systems.
+16:12288:The position includes involvement with resolving application and configuration issues/concerns, providing ongoing analysis of performance, implementation of approved changes, and ensuring continual service improvements.
+17:18816:This position will split time on operational activities and on improvements that deliver engineering solutions that improve instrumentation, ease of deployment, service orchestration and other aspects of production support – reduce the burden of manual work involved as systems and user volumes scale.
+18:8832:Take responsibility for all aspects of application production support, deployment and monitoring and develop tools to support these activities.
+19:11904:Design and build tools and solutions with a strong bias towards automating as many aspects of support as possible to reduce or eliminate trivial support activities.
+20:13440:Ensure newly deployed systems / services can be integrated into the existing monitoring and management tools so that the performance of the service and deviations are easily anticipated and instrumented.
+21:2304:CORE FUNCTIONS
+  1.
+22:8064:Interprets internal and external business challenges and recommends best practices to improve services, processes or products.
+23:1536:2.
+24:2688:Solves complex problems.
+25:7680:Takes a broad perspective including coordination with others outside own work unit, to identify innovative solutions.
+26:1536:3.
+27:6528:Anticipates customer needs; assesses requirements and identifies new solutions.
+28:9600:Interacts primarily with department and cross-department peers, supervisor, customers, peers’ managers, patients and physicians.
+29:1536:4.
+30:4992:Makes decisions guided by policies in non- standard situation.
+31:4992:Impacts the achievement of operational, project or service objectives.
+32:7680:Monitors and controls costs of own work and may manage budgets for moderate sized projects or programs.
+33:9216:Performs all functions according to established policies, procedures, regulatory and accreditation requirements, as well as applicable professional standards.
+34:9984:Provides all customers of Banner Health with an excellent service experience by consistently demonstrating our core and leader behaviors each and every day.
+35:4992:MINIMUM QUALIFICATIONS
+  Bachelor’s degree or equivalent working knowledge.
+36:11136:Must have in-depth knowledge of concepts within job function as would normally be obtained in seven plus years' work experience developing Enterprise Applications.
+37:10752:Strong understanding of each service across the full IT life-cycle and be ready to take requests for infrastructure services, applications and environments.
+38:12288:Experience designing solutions (Monitoring / process orchestration / capacity management / deployment) that can scale and potentially be leveraged by other parts of the organization.
+39:6144:Hands on experience working in both Agile and DevOps development methodologies.
+40:4608:Must possess strong knowledge of programming and cloud technology.
+41:3840:Needs experience in medium scale project planning.
+42:5376:Successful candidate will have skills to mentor less experienced team members.
+43:8832:Requires strong communication and presentation skills to explain and resolve complex technical issues to technical and non-technical audiences.
+44:5760:Requires ability to communicate and interact across facilities and at various levels.
+45:9600:As is typical in this industry, variable shifts and hours and carrying/responding to a pager may be required.
+46:8448:PREFERRED QUALIFICATIONS
+  Cloud platform Certifications: AZ-301, AZ-400, and AZ-500.
+47:4992:Three to four years' experience implementing Enterprise Cloud Solutions.
+48:8064:Significant development and operations / engineering experience with the ability to apply that knowledge to solve complex problems.
+49:6144:Strong working knowledge of Java/C++/C#/.
+50:5376:Net Core, hardware environment, and use of program logic.
+51:4224:Additional related education and/or experience preferred.
+52:8448:EOE/Female/Minority/Disability/Veterans
+  Our organization supports a drug-free work environment.
+53:1536:Privacy Policy

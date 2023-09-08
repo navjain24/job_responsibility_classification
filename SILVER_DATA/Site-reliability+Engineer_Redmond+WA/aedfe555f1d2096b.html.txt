@@ -1,0 +1,61 @@
+0:13440:About Hive
+Hive is the leading provider of cloud-based AI solutions for content understanding, trusted by the world’s largest, fastest growing, and most innovative organizations.
+1:12672:The company empowers developers with a portfolio of best-in-class, pre-trained AI models, serving billions of customer API requests every month.
+2:9984:Hive also offers turnkey software applications powered by proprietary AI models and datasets, enabling breakthrough use cases across industries.
+3:11136:Together, Hive’s solutions are transforming content moderation, brand protection, sponsorship measurement, context-based ad targeting, and more.
+4:13824:Hive has raised over $120M in capital from leading investors, including General Catalyst, 8VC, Glynn Capital, Bain & Company, Visa Ventures, and others.
+5:7296:We have over 250 employees globally in our San Francisco, Seattle, and Delhi offices.
+6:6144:Please reach out if you are interested in joining the future of AI!
+7:12672:DevOps and Systems TeamOur unique machine learning needs led us to open our own data centers, with an emphasis on distributed high performance computing integrating GPUs.
+8:8064:Even with these data centers, we maintain a hybrid infrastructure with public clouds when the right fit.
+9:14976:As we continue to commercialize our machine learning models, we also need to grow our DevOps and Site Reliability team to maintain the reliability of our enterprise SaaS offering for our customers.
+10:8832:Our ideal candidate is someone who is able to thrive in an unstructured environment and takes automation seriously.
+11:8064:You believe there is no task that can’t be automated and no server scale too large.
+12:10368:You take pride in optimizing performance at scale in every part of the stack and never manually performing the same task twice.
+13:1152:Responsibilities
+14:41088:Automate manual operational processes
+ Improve workflows of developer, data, and machine learning teams
+ Manage secure integration and deployment tooling
+ Create, maintain, monitor, and audit secure infrastructure
+ Manage a diverse array of technology platforms, following best practices and procedures
+ Participate in on-call rotation and root cause analysis
+ Maintain awareness of industry best practices for data maintenance handling as it relates to your role
+ Adhere to policies, guidelines and procedures pertaining to the protection of information assets
+ Report actual or suspected security and/or policy violations/breaches to an appropriate authority
+15:1152:Requirements
+16:39936:Minimum 3 - 5 years of previous experience in development, operations, IT, or a related field
+ Comfortable working on Linux infrastructures (Debian) via the CLIAble to learn quickly in a fast-paced environment
+ Able to debug, optimize, and automate routine tasks
+ Able to multitask, prioritize, and manage time efficiently independently
+ Able to physically lift equipment at least 30 pounds
+ Can communicate effectively across teams and management levels
+ Degree in computer science, or similar, is an added plus!
+17:1536:Technology Stack
+18:62208:Operating Systems - Linux/Debian Family/Ubuntu
+ Configuration Management - Chef
+ Containerization - Docker
+ Container Orchestrators - Mesosphere/Kubernetes
+ Scripting Languages - Python/Ruby/Node/Bash
+ CI/CD Tools - Jenkins
+ Network hardware - Arista/Cisco/Fortinet
+ Hardware - HP/SuperMicro
+ Storage - Ceph, S3
+ Database - Scylla, Postgres, Pivotal GreenPlum
+ Message Brokers: RabbitMQ
+ Logging/Search - ELK Stack
+ AWS: VPC/EC2/IAM/S3
+ Networking: TCP / IP, ICMP, SSH, DNS, HTTP, SSL / TLS, Storage systems, RAID, distributed file systems, NFS / iSCSI / CIFS
+19:8448:Who We Are
+We are a group of ambitious individuals who are passionate about creating a revolutionary AI company.
+20:11904:At Hive, you will have a steep learning curve and an opportunity to contribute to one of the fastest growing AI start-ups in San Francisco.
+21:8064:The work you do here will have a noticeable and direct impact on the development of the company.
+22:6528:Thank you for your interest in Hive and we hope to meet you soon!
+23:9216:Employees are eligible to participate in a number of Company-sponsored benefits, including health, vision and dental insurance.
+24:8064:Employees are also eligible to participate in a gym membership as part of our commitment to employee wellness.
+25:8448:In addition, employees will be entitled to paid vacation in accordance with the Company's vacation policy.
+26:9984:Hired applicant may receive an equity grant in the form of an option to purchase stock in the future for a specified price.
+27:10368:Job Type: Full-time
+Pay: $160,000.00 - $250,000.00 per year
+Schedule:
+28:1920:Monday to Friday
+29:2688:Work Location: In person

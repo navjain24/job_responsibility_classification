@@ -1,0 +1,81 @@
+0:14976:About Us 
+  AstrumU is a data services company based in Bellevue, WA that is leveling the playing field by identifying skills gap recommendations, so that individuals can achieve their career objectives.
+1:9984:AstrumU quantifies skills and affinities developed through education, training, and professional experiences of all types.
+2:14592:The AstrumU AI Translation Engine ingests verified data from learning, skills, and labor market outcomes to measure, map and make recommendations based on the probable impact to outcomes.
+3:13824:We are on a mission to quantify the return on educational investments for all learners, education providers and employers, so everyone can maximize their potential in the Future of Work.
+4:21504:Using predictive models constantly updated to meet the evolving needs of a changing economy, our platform allows institutions to accurately forecast the labor market value of educational experiences to equip students, faculty, and advisors with information on how learning translates to marketable skills in the workforce.
+5:14592:Going beyond publicly-available data and job boards, we are the only technology solution that uses industry-verified data—from proprietary employer sources—to match educational inputs to workforce outcomes.
+6:11904:Our investors currently include Kingdom Capital, Ignition Partners, Correlation Ventures, City Light Capital, the University of Kansas, Arizona State University and private investors.
+7:13056:About the Role 
+ At AstrumU we are focused on our customer’s needs, relying heavily on data for product development, customer engagement, and marketplace optimization.
+8:12672:To ensure all these areas are effectively served, we look to DevOps engineers to support the development and operation of software through tools, environments, and practices.
+9:7680:We are looking for a candidate who can thrive in a small cross-functional team environment.
+10:6144:Successful candidates will possess technical aptitude alongside effective, respectful communication skills.
+11:13440:We value quick learners capable of focusing on priority tasks while adequately capturing new tasks as they arise (vs multi-tasking which is inefficient).
+12:9984:Specifically, we are looking for a DevOps Engineer to be responsible for underpinning good development and release management processes.
+13:12672:This includes managing tools and testing environments, source and artifact management, maintaining development and compliance standards, and creating/supporting Infrastructure as Code (IaC).
+14:3456:Your Responsibilities 
+  
+  Availability and capacity management.
+15:6912:You can manage the service components to ensure they meet business needs and performance targets.
+16:2304:Development process optimization.
+17:9216:You will know about the importance of developing process efficiency and the common ways in which processes are optimized.
+18:4608:You will support specific activities to improve development processes.
+19:4992:You can spot or identify deficiencies in complex systems.
+20:2688:Information security & compliance.
+21:6528:You understand information security and can design solutions and services with security controls embedded.
+22:6144:You are comfortable operating within and improving a SOC Type 2 compliant environment.
+23:3840:Programming and build (software engineering).
+24:12672:You know how to collaborate with others when necessary to review specifications and then use these agreed specifications to design, code, test, and document solutions 
+  Service support.
+25:6528:You like to solve problems and approach troubleshooting with a logical methodology.
+26:12288:Communication: You will have the ability to communicate (written & verbal) complex technical scenarios and situations to a variety of technical & non-technical audiences.
+27:1920:Systems design.
+28:7680:You can see the forest through the trees to help design effective systems to support business needs.
+29:10752:You can produce detailed designs and document your use of required standards, methods, and tools, including prototyping tools where appropriate.
+30:4608:You know how to identify and implement appropriate patterns.
+31:5760:You can design systems that balance risk/complexity with meaningful outcomes.
+32:1920:Systems integration.
+33:9600:You can build and test interfaces between systems and can work on more complex integrations as part of a wider team.
+34:1920:User focus.
+35:6912:You can identify and engage with users or stakeholders to collate user needs evidence.
+36:4992:You can identify and define research that fits user needs.
+37:8448:You know how to use quantitative and qualitative data about users to turn user focus into outcomes.
+38:27648:Your Skills and Qualifications 
+  
+  2+ years of experience with microservice architecture, containerization, and container orchestration (e.g., Docker, Kubernetes, Istio) 
+  3+ years working with DevOps automation in support of CI/CD, cost-efficiency, coding/scripting, artifact management, and security.
+39:18048:2+ years coding in various languages, standards, and frameworks, such as YAML, Helm, JSON, Typescript/JavaScript, Python, Go, GraphQL, Elasticsearch, and Node.
+40:80640:js 
+  2+ years supporting Cloud Native applications (Azure preferred) 
+  3+ years managing automation and CI/CD tools like CircleCI, GitHub Actions, Terraform, Pulumi, Codefresh, or Jenkins 
+  3+ years working within Agile/Kanban DevOps frameworks 
+  Familiarity with data pipelines and processing large quantities of streaming data (Apache, Kafka preferred) 
+  Familiarity with networking protocols, security, and concepts: TCP, UDP, SSH, DNS, LDAP, TLS, Firewalls 
+  Familiar with Relational and NoSQL databases (Postgres preferred) 
+  Understanding of logging tools and infrastructure management products, like Datadog and Azure Sentinel 
+  The security-First mindset to support SOC 2 compliance standards across our codebase, network, and services in a transparent and proactive manner
+ 
+  
+  
+  What We Offer 
+  AstrumU pays a gross annualized base salary range for this position of $130,000 to $168,000 based on qualifications, skills, experience, and company values and culture alignment.
+41:8064:Hiring at the maximum of the range is not typical to allow for future and continued compensation growth.
+42:44160:Additionally, the following key benefits are offered for this full-time role (more details provided after hire):
+  
+  
+  
+  Choice of PPO or HSA plans for medical, dental, and vision insurance; 100% company-paid premiums for employee only; dependents can be added for an employee-paid premium cost 
+  Company-provided short & long-term disability, and life insurance plans 
+  Flexible Spending Account 
+  401K Retirement Savings Plan 
+  Self-managed PTO 
+  10 company-paid holidays per year 
+  Stock options 
+  Commuter transportation benefit & free parking
+ 
+  
+  
+  AstrumU is an equal opportunity employer.
+43:31104:All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.
+44:768:

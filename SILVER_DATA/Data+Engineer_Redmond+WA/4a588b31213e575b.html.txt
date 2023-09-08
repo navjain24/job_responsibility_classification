@@ -1,0 +1,67 @@
+0:10752:Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology.
+1:15744:By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold.
+2:14976:Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center.
+3:16896:As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
+4:16128:As a core part of the Data Engineering Team, you will be collaborating with stakeholders across the company to design, build and implement data pipelines and models that serve the core data product to end users.
+5:6912:You will have a hand in helping shape the data landscape at Anduril.
+6:14976:Who you are:
+   
+    
+      We’re looking for software and data engineers who have the ability to deal with ambiguity and with a strong desire to understand the needs and problems of our internal partners.
+7:4992:Below are some additional experiences we think help engineers succeed.
+8:63360:You will:
+   
+    
+      Collaborate on the design and improvements of the data infrastructure
+      Partner with operations, product, and engineering to advocate best practices and build supporting systems and infrastructure for the various data needs
+      Create data pipelines that stitch together various data sources in order to produce valuable data products that drive the business
+      Create real-time data pipelines and build models using tools like python and DBT
+    
+   
+  
+  
+ 
+  
+   You will love this role if you have:
+   
+    
+      3+ years of experience in a data engineering role building products, ideally in a fast-paced environment
+      Good foundations in Python or another object oriented language
+      Experience with Spark, PySpark, Glue, SQL, DBT and Redshift
+      Experience building high volume log ingestion and storage pipelines
+      Experience with AWS, Azure, or GCP security ecosystem and tooling
+      Experience working with containerization.
+9:4608:We are a “serverless” shop here!
+10:33408:Knowledge of visualization tools, such as Tableau
+      Strong at simplifying data, expressing information in charts and tables
+      Understand the importance of engineering with security’s best practices in mind
+      You are empathetic: you are eager to see the world from your users’ perspective
+      You’re energized by ambiguity & a self-starter: you love to drive the direction of ambiguous projects
+      You are motivated by our mission.
+11:11136:We are working to solve the biggest problems in defense
+      Must be able to obtain and hold a U.S. Top Secret security clearance.
+12:18816:$132,000 - $198,000 a year
+  
+  
+ 
+  
+   Although we list out what we generally look for, we are very likely missing other attributes and skills that you have that could make you a great fit, but are not currently listed.
+13:15360:Research has shown this especially applies to women and other marginalized groups, who tend to apply if they check 100% of every box, versus men who apply if they hit roughly 60%.
+14:8448:The point we’re getting at, it doesn’t hurt to take a chance and apply!
+15:11904:#LI-CL1
+  
+  
+  
+    The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only.
+16:12672:Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations.
+17:9600:Highly competitive equity grants are included in all offers and are considered part of Anduril’s total compensation package.
+18:16896:Additionally, Anduril offers top-tier benefits, including comprehensive medical, dental, and vision plans, employee life and disability, mental health and family planning benefits with all premiums paid by Anduril.
+19:7680:Anduril provides fully paid medical leave, paid company holidays, and paid time off.
+20:15744:A professional development stipend is available to all Andurilians and all on-site meals are fully subsidized during the work week through use of our gourmet kitchens.
+21:11136:The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process.
+22:7680:Anduril is an equal-opportunity employer committed to creating a diverse and inclusive workplace.
+23:13440:The Anduril team is made up of incredibly talented and unique individuals, who together are disrupting industry norms by creating new paths towards the future of defense technology.
+24:35712:All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion, sex, gender identity, sexual orientation, national origin, disability, uniform service, Veteran status, age, or any other protected characteristic per federal, state, or local law, including those with a criminal history, in a manner consistent with the requirements of applicable state and local laws, including the CA Fair Chance Initiative for Hiring Ordinance.
+25:14976:We actively encourage members of recognized minorities, women, Veterans, and those with disabilities to apply, and we work to create a welcoming and supportive environment for all applicants throughout the interview process.
+26:10752:If you are someone passionate about working on problems that have a real-world impact, we’d love to hear from you!
+27:768:
