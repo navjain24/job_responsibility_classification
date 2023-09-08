@@ -1,0 +1,1 @@
+For another client with high volume data, we developed and implemented a hybrid data processing solution using Azure Stream Analytics and Azure Databricks to reduce data refresh time from 3 hours to less than 30 minutes.

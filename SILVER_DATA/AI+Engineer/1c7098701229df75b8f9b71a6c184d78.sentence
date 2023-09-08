@@ -1,0 +1,6 @@
+Everything involved in applying a ML model to a production use case, including, designing and coding up the neural network, gathering and refining data, training and tuning the model, deploying it at scale with high throughput and uptime, and analyzing the results in the wild in order to continuously update and improve accuracy and speed
+ Interface closely with the Backend and DevOps teams as well as with our internal data labeling services
+ Utilize OWASP top 10 techniques to secure code from vulnerabilities
+ Maintain awareness of industry best practices for data maintenance handling as it relates to your role
+ Adhere to policies, guidelines and procedures pertaining to the protection of information assets
+ Report actual or suspected security and/or policy violations/breaches to an appropriate authority
