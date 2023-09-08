@@ -1,8 +1,7 @@
 import * as st from './sentenceTransformer.js';
 import * as math from './math.js';
 
-async function testEmbedding()
-{
+async function testEmbedding() {
     const s1 = "Write code in TypeScript"; //Control
     const s2 = "Develop code using Java"; // Treatment
 
