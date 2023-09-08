@@ -1,8 +1,7 @@
 import puppeteer from 'puppeteer';
 import cheerio from 'cheerio';
 import fs from 'fs';
-import { makeDirIfNeeded } from './common.js';
-import { BRONZE_DATA } from './common.js';
+import { makeDirIfNeeded, RAW_JOB_DATA } from './common.js';
 
 const INDEED_URL = 'https://www.indeed.com';
 
@@ -10,7 +9,7 @@ export async function scrapeRawData(jobRole, location) {
     const jobIds = await getJobIdsFromIndeed(jobRole, location);
     console.log(`Found ${jobIds.length} job listings on the job search site.`);
 
-    // Write raw descriptions to file(s) (BRONZE)
+    // Write raw descriptions to file(s) (RAW)
     let promises = [];
     for (const jobId of jobIds) {
         try {
@@ -37,7 +36,7 @@ async function getRawJobDetailPage(jobRole, location, jobId) {
 
     await browser.close();
 
-    const rootFolder = BRONZE_DATA
+    const rootFolder = RAW_JOB_DATA
     makeDirIfNeeded(rootFolder);
 
     const parentFolder = `${jobRole}`;
@@ -54,10 +53,13 @@ async function getRawJobDetailPage(jobRole, location, jobId) {
 
 async function getJobIdsFromIndeed(jobRole, location) {
     const searchUrl = `${INDEED_URL}/jobs?q=${jobRole}&l=${location}&sc=0kf:jt(fulltime);`;
+    console.log(searchUrl);
 
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
     await page.goto(searchUrl);
+
+    await page.screenshot(`${jobRole}_${location}_screenshot.jpeg`);
 
     const pageData = await page.evaluate(() => {
         return {

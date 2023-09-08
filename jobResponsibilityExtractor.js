@@ -49,7 +49,7 @@ function extractResponsibilitiesFromSingleJob(jobRole, sourceFullFilePath) {
     const destinationFilePath = `${destinationFolder}/${fileName}.txt`;
 
     fs.writeFileSync(destinationFilePath, jobDescription);
-    console.log(`Extracted job description from: ${fileName} at file:${destinationFilePath}\n`);
+    console.log(`Extracted job description from: ${sourceFullFilePath} to file: ${destinationFilePath}\n`);
 
     /*
     sentences.forEach(async (sentence, index) => {
