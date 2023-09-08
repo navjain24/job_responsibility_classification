@@ -181,8 +181,8 @@ async function extractResponsibilitiesFromSingleJob(jobRole, location, fileName)
   const destinationFilePath = `${destinationFolder}/${fileName}.txt`;
   var destinationWriteStream = fs.createWriteStream(destinationFilePath);
   
-  sentences.forEach((sentence, index) => {
-    const embedding = st.createEmbedding(sentence);
+  sentences.forEach(async (sentence, index) => {
+    const embedding = await st.createEmbedding(sentence);
     destinationWriteStream.write(`${index}:${embedding}:${sentence.trim()}\n`);
   });
 }
