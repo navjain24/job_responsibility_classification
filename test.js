@@ -1,5 +1,5 @@
-import * as st from './sentenceTransformer.js';
-import * as math from './math.js';
+import * as st from './NodeJS/sentenceTransformer.js';
+import * as math from './NodeJS/math.js';
 import fs from 'fs';
 
 const BRONZE_DATA = 'BRONZE_DATA';

@@ -1,8 +1,8 @@
 import fs from 'fs';
 
 import { scrapeRawData } from './jobExtractor.js';
-import * as st from './sentenceTransformer.js';
-import { extractSentences } from './sentenceExtractor.js';
+import * as st from '../sentenceTransformer.js';
+import { extractSentences } from '../sentenceExtractor.js';
 import { extractResponsibilities } from './jobResponsibilityExtractor.js';
 import { BRONZE_DATA, RAW_JOB_DATA } from './common.js';
 
