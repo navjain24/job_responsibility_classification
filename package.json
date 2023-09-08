@@ -1,0 +1,22 @@
+{
+  "name": "job_responsibility_classification",
+  "version": "1.0.0",
+  "description": "This package scraps job description from job sites and classifies the responsibilities.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navjain24/job_responsibility_classification.git"
+  },
+  "keywords": [
+    "jobs"
+  ],
+  "author": "Arnav Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navjain24/job_responsibility_classification/issues"
+  },
+  "homepage": "https://github.com/navjain24/job_responsibility_classification#readme"
+}
