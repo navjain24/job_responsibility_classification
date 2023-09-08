@@ -25,5 +25,6 @@
     "natural": "^6.5.0",
     "wink-eng-lite-web-model": "^1.5.2",
     "wink-nlp": "^1.14.3"
-  }
+  },
+  "type": "module"
 }

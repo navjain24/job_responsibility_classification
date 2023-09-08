@@ -1,2 +1,0 @@
-24:1:You know how to collaborate with others when necessary to review specifications and then use these agreed specifications to design, code, test, and document solutions 
-  Service support.

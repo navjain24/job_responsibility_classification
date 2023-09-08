@@ -1,4 +1,4 @@
-const axios = require ('axios');
+import axios from 'axios';
 
 const model_id = "sentence-transformers/all-MiniLM-L6-v2"
 const hf_token = "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"
@@ -22,7 +22,7 @@ async function getHuggingFaceEmbedding(sentence) {
     }
   }
 
-module.exports.createEmbedding = async function(sentence){
+export async function createEmbedding(sentence){
     const response = await getHuggingFaceEmbedding(sentence);
     console.log(response);
     return response.length;

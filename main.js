@@ -1,13 +1,13 @@
-const puppeteer = require('puppeteer');
-const cheerio = require('cheerio');
-const fs = require('fs');
+import puppeteer from 'puppeteer';
+import cheerio from 'cheerio';
+import fs from 'fs';
 
-const st = require('./sentenceTransformer.js');
+import * as st from './sentenceTransformer.js';
 
 //wink-nlp
-const winkNlp = require ('wink-nlp');
+import winkNlp from 'wink-nlp';
 // Load english language model — light version.
-const model = require( 'wink-eng-lite-web-model' );
+import model from 'wink-eng-lite-web-model';
 // Instantiate winkNLP.
 const nlp = winkNlp( model );
 
