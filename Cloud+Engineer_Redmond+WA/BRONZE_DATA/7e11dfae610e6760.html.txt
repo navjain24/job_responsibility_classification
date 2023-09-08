@@ -1,0 +1,124 @@
+0:Swyfft Holdings, LLC, consists of Swyfft, LLC and Core Programs,
+1:LLC.
+2:Both are fast-growing, tech-enabled MGA’s that are disrupting the traditional insurance industry by re-imagining how you price and bind home insurance and commercial package products.
+3:From lightning-fast quotes to hassle-free claims servicing, Swyfft Holdings, LLC leverages big data to provide the very best customer service experience in the industry.
+4:We're growing, we’re expanding and we're looking for “tech-savvy” folks like you to join our team!
+5:About the Position:
+  
+  
+  As a Senior Data Engineer, you will be instrumental in supporting the development and use of our data
+6:systems.
+7:Your goal is to ensure that information flows timely and accurately to and from the organization as well as within.
+8:As a successful Senior Data Engineer will bring forth a strong understanding of databases and data analysis procedures.
+9:You are a highly technical SQL expert with strong problem-solving skills and excellent troubleshooting capabilities.
+10:In a perfect world, you might even have some previous experience working for an insurtech or an analytics measurement platform.
+11:This position is a 100% remote
+12:U.S.
+13:based opportunity.
+14:Some travel for day-to-day work, team meetings, and training will be required.
+15:Key Responsibilities: (What you'll be asked to do)
+  
+  
+  
+  Build efficient ways to organize, store and analyze data while maintaining availability and
+16:consistency.
+17:Create processes and enforce policies for effective data
+18:management.
+19:Formulate techniques for quality data collection to ensure adequacy, accuracy and legitimacy of
+20:data.
+21:Devise and implement efficient and secure procedures for data handling and analysis with attention to all technical
+22:aspects.
+23:Establish rules and procedures for data sharing with upper management and external
+24:stakeholders.
+25:Support others in the daily use of data systems and ensure compliance to legal and company
+26:standards.
+27:Provide assistance with reports and data extraction when
+28:needed.
+29:Monitor and analyze information and data systems and evaluate their performance to discover ways of enhancing them (such as new technologies and
+30:upgrades).
+31:Ensure digital databases and archives are protected from security breaches and data
+32:losses.
+33:Troubleshoot data-related problems and authorize maintenance or modifications
+ 
+  
+  
+  The Successful Candidate: (what we're looking for)
+  
+  
+  
+  You have a strong understanding of databases and data analysis
+34:procedures.
+35:You have an analytical mindset and strong problem-solving
+36:skills.
+37:You have excellent communication and collaboration
+38:skills.
+39:You have intense attention to detail and quality
+40:assurance.
+41:Some Requirements:
+  
+  
+  
+  Expertise in SQL (MS and
+42:PostgreSQL).
+43:Familiarity with modern database and information system
+44:technologies.
+45:Expertise in both Tableau Desktop and
+46:Server.
+47:7+ years of experience as a data
+48:manager.
+49:Excellent understanding of data administration and management functions such as collection, analysis, and
+50:distribution.
+51:Understanding of data warehousing and star
+52:schemas.
+53:Basic familiarity with predictive analysis and data visualization
+54:techniques.
+55:Solid understanding of R and Python environment configuration and basic
+56:programming.
+57:Expert level in Microsoft
+58:Excel.
+59:Understanding of spatial database functionality is a
+60:plus.
+61:Education:
+  
+  
+  
+  Bachelors’ degree or equivalent experience required in a related
+62:field.
+63:Advanced degrees or Certifications are a
+64:plus.
+65:Computer Skills:
+  
+  
+  
+  You are familiar with predictive analysis and data visualization techniques using relevant tools such as: Tableau, Dataiku, R,
+66:Python.
+67:Must be proficient with MS Office and other internal insurance related programs, systems or
+68:applications.
+69:Ability to communicate effectively using programs such as Slack & MS
+70:Teams.
+71:You are comfortable sharing screens and video chatting.
+72:Other:
+  
+  
+  
+  Reliable high-speed internet connectivity
+73:required.
+74:Designated quiet work from home
+75:space.
+76:We Have a Great Benefits
+77:Package!
+78:20 days of PTO annually 
+  Medical, Dental, Vision 
+  Short- and Long-Term Disability (Company Paid) 
+  Life & AD&D (Company Paid) 
+  Healthcare, Dependent Care and Transit FSA 
+  401K with a generous matching contribution and no vesting schedule
+ 
+  
+  
+  It is the policy of Swyfft to provide equal employment opportunities to all employees and applicants for employment without regard to race, religion, color, ethnic origin, gender, gender identity, age, marital status, veteran status, sexual orientation, disability, or any other basis prohibited by applicable federal, state, or local
+79:law.
+80:EOE/AA/M/D/V/F.
+81:Please Note: Swyfft is not accepting 3rd party agency resumes for this position, please do not forward resumes to our careers email address or Swyfft
+82:employees.
+83:Swyfft will not be responsible for any fees related to unsolicited resumes.

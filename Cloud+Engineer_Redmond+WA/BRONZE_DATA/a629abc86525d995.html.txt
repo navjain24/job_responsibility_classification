@@ -1,0 +1,27 @@
+0:**this role is open to fully remote work**
+  
+  
+ At Starbucks, our mission is to inspire and nurture the human spirit – one person, one cup, and one neighborhood at a
+1:time.
+2:Starbucks Technologists work to achieve this mission using cutting-edge technology delivered to our partners, customers, stores, roasters, and global communities.
+3:We are looking for talented Senior Full-Stack developers with AWS Connect Telephony experience to join us as we make a meaningful impact on Starbucks technology, our Partners, and our
+4:customers.
+5:This position contributes to Starbucks success by delivering high-quality, reliable, and stable technologies and security capabilities in support of the Starbucks Telephony platform which manages numerous call centers with a combined total of over 10 million calls per
+6:year.
+7:This position is accountable for the installation, configuration, monitoring, analysis, maintenance, and technical support of the platform.
+8:This role will also help ensure our systems model and performs in accordance with Starbucks guiding principles.
+9:Summary of Key Responsibilities 
+ 
+  Communicates highly complex ideas and concepts to non-technical peers and customers 
+  Ability to establish cross-functional, collaborative relationships with business and technology partners 
+  Support the development team and perform activities to resolve developer issues in a timely and accurate fashion 
+  Engineer build and release processes 
+  Ability to effectively manage and partner with technology vendors to deliver against business objectives 
+  Conducts research and makes recommendations on standards, products, and services 
+  Ensures application and infrastructure architectural solutions are stable, secure, and compliant with Company standards and practices 
+  Implements all technologies in accordance with Information Security's guiding principles for highly sensitive data 
+  Provide high-availability operational support and automate solutions across the environment 
+  Implements deep telemetry capabilities to provide ongoing success and performance metrics 
+  Implements service monitoring across all platforms to ensure continuous availability and operational continuity of critical systems 
+  Upholds company policies, and legal/regulatory requirements, such as PCI 
+  Implements and maintains system configurations and baselines to support secure application development software control best practices and standards

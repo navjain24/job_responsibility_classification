@@ -1,0 +1,59 @@
+0:Minimum qualifications:
+  
+  Bachelor's degree in Computer Science or equivalent practical
+1:experience.
+2:4 years of experience in data center architectures and components
+3:(i.e., servers, storage, backup, networking, virtualization technology).
+4:Experience in cloud migration, disaster recovery, application/servers assessment, and
+5:discovery.
+6:Preferred qualifications:
+  
+  Master's degree in Computer Science or related technical
+7:field.
+8:Experience with deployment methodologies and technologies (CI/CD, Chef, Puppet,
+9:Ansible).
+10:Experience with one or more of the following: public cloud platforms, infrastructure, storage,
+11:platforms.
+12:Experience in areas of networking including Linux, software-defined networking, virtualization, open protocols, application acceleration and load balancing, DNS, virtual private networks, and their application to PaaS/IaaS
+13:technologies.
+14:Experience in security matters
+15:(e.g., authentication protocols, identity and access management systems, key management systems, encryption, securing cloud architectures, network, and end-points security).
+16:Experience with Linux system administration or Enterprise
+17:applications.
+18:About the job
+   The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in the
+19:cloud.
+20:Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware.
+21:Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life.
+22:As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
+23:As a Customer Engineer, you will work to introduce Google Cloud to our
+24:customers.
+25:You will help prospective/existing customers and partners understand the power of Google Cloud, develop creative cloud solutions and architectures to solve their business challenges, and problem-solve any potential technical roadblocks.
+26:Google Cloud accelerates organizations’ ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise.
+27:We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology – all on the cleanest cloud in the industry.
+28:Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+29:The US base salary range for this full-time position is $139,000-$213,000 + bonus + equity + benefits.
+30:Our salary ranges are determined by role, level, and location.
+31:The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations.
+32:Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training.
+33:Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+34:Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.
+35:Learn more about benefits at Google.
+36:Responsibilities
+   
+   Utilize technical experience to help customers determine if Google Cloud Platform is right for
+37:them.
+38:Prepare and deliver product messaging in an effort to highlight Google Cloud Platform value proposition and unique differentiators using whiteboarding, slide presentations, product demonstrations, trial management, and Request for Information (RFI) response
+39:documents.
+40:Work with Google Cloud Platform products to demonstrate and prototype integrations in customer/partner
+41:environments.
+42:Provide recommendations on integration strategies, enterprise architectures, and platforms/application infrastructure required to successfully implement a complete
+43:solution.
+44:Provide advice to customers to optimize Google Cloud Platform
+45:effectiveness.
+46:Google is proud to be an equal opportunity workplace and is an affirmative action
+47:employer.
+48:We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+49:We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+50:See also Google's EEO Policy and EEO is the Law.
+51:If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.

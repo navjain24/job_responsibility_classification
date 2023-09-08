@@ -1,0 +1,126 @@
+0:Software Engineer
+  
+   072806
+  
+ 
+ 
+ 
+  
+    
+    
+    Life at Capgemini 
+    
+   
+    Capgemini supports all aspects of your well-being throughout the changing stages of your life and
+1:career.
+2:For eligible employees, we offer: 
+    
+   
+    
+     Flexible work  
+     Healthcare including dental, vision, mental health, and well-being programs  
+    
+   
+  
+  
+   
+    
+     Financial well-being programs such as 401(k) and Employee Share Ownership Plan  
+     Paid time off and paid holidays  
+     Paid parental leave  
+     Family building benefits like adoption assistance, surrogacy, and cryopreservation  
+     Social well-being benefits like subsidized back-up child/elder care and tutoring  
+    
+   
+  
+  
+   
+    
+     Mentoring, coaching and learning programs  
+     Employee Resource Groups  
+     Disaster Relief  
+    
+   
+   
+    About Capgemini Engineering 
+    
+   
+    World leader in engineering and R&D services, Capgemini Engineering combines its broad industry knowledge and cutting-edge technologies in digital and software to support the convergence of the physical and digital
+3:worlds.
+4:Coupled with the capabilities of the rest of the Group, it helps clients to accelerate their journey towards Intelligent Industry.
+5:Capgemini Engineering has more than 55,000 engineer and scientist team members in over 30 countries across sectors including Aeronautics, Space, Defence, Naval, Automotive, Rail, Infrastructure & Transportation, Energy, Utilities & Chemicals, Life Sciences, Communications, Semiconductor & Electronics, Industrial & Consumer, Software & Internet.
+6:Capgemini Engineering is an integral part of the Capgemini Group, a global leader in partnering with companies to transform and manage their business by harnessing the power of
+7:technology.
+8:The Group is guided every day by its purpose of unleashing human energy through technology for an inclusive and sustainable future.
+9:It is a responsible and diverse organization of over 360,000 team members in more than 50 countries.
+10:With its strong 55-year heritage and deep industry expertise, Capgemini is trusted by its clients to address the entire breadth of their business needs, from strategy and design to operations, fuelled by the fast evolving and innovative world of cloud, data, AI, connectivity, software, digital engineering and platforms.
+11:The Group reported in 2022 global revenues of €22 billion.
+12:Get the Future You Want |
+13:Capgemini discloses salary range information in compliance with state and local pay transparency
+14:obligations.
+15:The disclosed range represents the lowest to highest salary we, in good faith, believe we would pay for this role at the time of this posting, although we may ultimately pay more or less than the disclosed range and the range may be modified in the future.
+16:The disclosed range takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to, geographic location, relevant education, qualifications, certifications, experience, skills, seniority, performance, sales or revenue-based metrics, and business or organizational needs.
+17:At Capgemini, it is not typical for an individual to be hired at or near the top of the range for their role.
+18:The base salary range for the tagged location is [$ 65,200 - $138,944 /yr].
+19:This role may be eligible for other compensation including variable compensation, bonus, or
+20:commission.
+21:Full-time regular employees are eligible for paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees.
+22:Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and
+23:determinable.
+24:The amount and availability of any bonus, commission, or any other form of compensation that is allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law
+ 
+ 
+ 
+   Job description: 
+   We are looking for a strong Software Engineer to help one of our Enterprise Clients design, architect and write the documentation for an entire
+25:system.
+26:This person will code entire software solutions and identify and fix issues within their area of expertise.
+27:Key responsibilities: 
+   
+   Proactively create and review team contributions 
+   Participate as a "code owner" and partner with collaborators in
+28:code-reviews.
+29:Automate unit, integration, and end to end testing solutions and incorporate them with the testing
+30:lifecycle.
+31:Be able to run your code in pre-production and ensure quality.
+32:Deploy your solutions across environments and platforms, including production
+33:releases.
+34:Provide operational support of your code and all code within your domain.
+35:Teardown old solutions, products, and resources when no longer
+36:needed.
+37:Resolve issues within the team and prevent problems from
+38:occurring.
+39:Be proactive and identify, resolve, mitigate and prevent technical issues, risks, and provide solutions.
+40:Must Haves: 
+   
+   Experience with Microsoft strongly preferred 
+   4-6 years of software engineering experience 
+   Computer Science degree or equivalent experience 
+   3+ years of experience with C#,
+41:core,
+42:3+ years of build experience 
+   5+ years of experience in CICD tools (Source Control, Build, Deploy) 
+   3+ years (GitHub, Jenkins, Spinnaker) 
+   3+ years of experience in DevOps deployments
+  
+   
+   
+   EEOC 
+   Capgemini is an Equal Opportunity Employer encouraging diversity in the
+43:workplace.
+44:All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age religion, disability, sexual orientation, genetics, veteran status, marital status, or any other characteristic protected by law.
+45:This is a general description of the Duties, Responsibilities and Qualifications required for this
+46:position.
+47:Physical, mental, sensory, or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed.
+48:Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.
+49:Click the following link for more information on your rights as an Applicant
+50:Job Programmer/Analyst
+ 
+ 
+   Schedule Full-time
+ 
+ 
+   Primary Location US-WA-Redmond
+ 
+ 
+   Organization Engineering & R&D Services

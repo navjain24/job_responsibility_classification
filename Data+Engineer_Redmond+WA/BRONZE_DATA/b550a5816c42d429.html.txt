@@ -1,0 +1,72 @@
+0:Our Opportunity: 
+  Chewy is seeking a Senior Data Engineer - Discovery for our Discovery Labs team in Bellevue,
+1:WA.
+2:In this position, you will help us build scalable, robust data solutions for Discovery at Chewy.
+3:You will demonstrate a passion for delivering outstanding customer experience, experience of building scalable solutions and will bring communication skills that allow you to instill trust in the team that you are working with.
+4:Millions of pet parents with unique needs visit Chewy.com looking for products for their beloved pets.
+5:We have the task to decide what products would be most useful to them and help them discover those products.
+6:How do we do this?
+7:Meet Personalization team @ Chewy.
+8:We use best of machine learning techniques and continuously test the outcomes to simplify product discovery for pet parents looking for their pet needs on Chewy.com.
+9:Our exceptional multi-disciplinary team of data scientists, data engineers, software engineers and product managers work together to power personalized recommendations and product discovery for pet parents.
+10:Our team has single threaded ownership of the space allowing us to decide impactful products that we can experiment, measure with metrics and deliver at a fast pace.
+11:What You'll Do: 
+  You love building tools and data pipelines, can create clear and effective reports and data visualizations, and can partner with stakeholders to answer key business
+12:questions.
+13:You will also have the opportunity to display your skills in the following areas: 
+  
+  Design, implement, and automate deployment of our distributed system for collecting and processing log events from multiple sources 
+  Design data schema and operate internal data warehouses and SQL/NoSQL database systems 
+  Write Extract-Transform-Load (ETL) jobs and Spark/Hadoop jobs to calculate business metrics 
+  Own the design, development, and maintenance of ongoing metrics, reports, analyses, dashboards,
+14:etc.
+15:to drive key business decisions 
+  Monitor and troubleshoot operational or data issues in the data pipelines 
+  Drive architectural plans and implementation for future data storage, reporting, and analytic solutions 
+  
+  What You'll Need: 
+  
+  Bachelor's degree in Computer Science, Mathematics, Statistics, Finance, related technical field, or equivalent work experience 
+  8+ years of Relevant work experience in analytics, data engineering, business intelligence or related
+16:field.
+17:6+ years Extensive experience in implementing big data processing technology: Hadoop, Apache Spark,
+18:etc.
+19:6+ years Experience using SQL queries, experience in writing and optimizing SQL queries in a business environment with large-scale, complex datasets 
+  6+ years Detailed knowledge of data warehouse technical architecture, infrastructure components, ETL and reporting/analytic tools and environments
+ 
+  
+  
+  Bonus: 
+  
+  Graduate degree in Computer Science, Mathematics, Statistics, Finance, related technical field 
+  Experience in data visualization software (Tableau/Qlikview) or open-source project 
+  Strong ability to effectively communicate with both business and technical teams 
+  Demonstrated experience delivering actionable insights for a consumer business 
+  Proficiency with search technologies (Elasticsearch and the Elastic stack) 
+  Coding proficiency in at least one modern programming language (Python, Ruby, Java, etc) 
+  Experience with AWS technologies including Redshift, RDS, S3, EMR 
+  
+ Compensation & Benefits: 
+  The salary range for this position is
+20:$107,000-$215,000.
+21:The specific salary offered to a candidate may be influenced by a variety of factors including but not limited to the candidate’s relevant experience, education, and work location.
+22:In addition, this position is eligible for 401k and a new hire and annual equity grant.
+23:We offer different types of insurance, such as medical/Rx, vision, dental, life, disability, hospital indemnity, critical illness, and
+24:accident.
+25:We offer parental leave, family services benefits, backup dependent care, flexible spending accounts, telemedicine, pet adoption reimbursement, employee assistance program, and many discounts including 10% off pet insurance and 20% off at Chewy.com.
+26:Non-exempt hourly team members accrue paid time off (PTO) while salaried-exempt team members have unlimited PTO, subject to manager
+27:approval.
+28:Non-exempt hourly team members in Fulfillment Centers and Customer Service are also eligible for additional unplanned unpaid time off (UTO).
+29:Team members will receive six paid holidays per year.
+30:Team members may be eligible for paid sick and family leave in compliance with applicable state and local regulations.
+31:#LI-Hybrid
+ 
+   Chewy is committed to equal
+32:opportunity.
+33:We value and embrace diversity and inclusion of all Team Members.
+34:If you have a disability under the Americans with Disabilities Act or similar law, and you need an accommodation during the application process or to perform these job requirements, or if you need a religious accommodation, please contact CAAR@chewy.com.
+35:If you have a question regarding your application, please contact
+36:HR@chewy.com.
+37:To access Chewy's Customer Privacy Policy, please click
+38:here.
+39:To access Chewy's California CPRA Job Applicant Privacy Policy, please click here.

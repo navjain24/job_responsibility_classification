@@ -1,0 +1,94 @@
+0:About Appen
+ 
+ 
+ 
+   Appen is a leader in AI enablement for critical tasks such as model improvement, supervision, and
+1:evaluation.
+2:To do this we leverage our global crowd of over one million skilled contractors, speaking over 180 languages and dialects, representing 130 countries.
+3:In addition, we utilize the industry's most advanced AI-assisted data annotation platform to collect and label various types of data like images, text, speech, audio, and video.
+4:Our data is crucial for building and continuously improving the world's most innovative artificial intelligence systems and Appen is already trusted by the world's largest technology
+5:companies.
+6:Now with the explosion of interest in generative AI, Appen is helping leaders in automotive, financial services, retail, healthcare, and governments the confidence to deploy world-class AI products.
+7:At Appen, we are purpose
+8:driven.
+9:Our fundamental role in AI is to ensure all models are helpful, honest, and harmless, so we firmly believe in unlocking the power of AI to build a better world.
+10:We have a learn-it-all culture that values perspective, growth, and innovation.
+11:We are customer-obsessed, action-oriented, and celebrate winning together.
+12:At Appen, we are committed to creating an inclusive and diverse
+13:workplace.
+14:We are an equal opportunity employer that does not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+15:Position Summary
+ 
+  
+ 
+ 
+   As a Product and Engineering HRBP at Appen, based in Bellevue, you will play a vital role in supporting the product and engineering functions by providing strategic and operational HR
+16:partnership.
+17:You will collaborate closely with product and engineering leaders, managers, and employees to deliver HR programs and initiatives that align with the company's objectives, drive employee engagement, and foster a high-performance culture.
+18:Your expertise in HR practices and knowledge of the product development and engineering industries will be instrumental in attracting, developing, and retaining top talent in these areas.
+19:Key Responsibilities:
+ 
+ 
+   
+ 
+ 
+   HR Business Partnering:
+ 
+ 
+   Serve as a trusted advisor to product and engineering leaders and managers, offering guidance on a range of HR topics, including talent acquisition, performance management, employee relations, compensation, and career
+20:development.
+21:Collaborate with stakeholders to identify HR needs, challenges, and opportunities within the product and engineering functions and develop strategies to address them effectively.
+22:Provide coaching and support to managers on employee development, performance improvement, and career planning.
+23:Talent Acquisition and Retention:
+ 
+ 
+  Partner with the Talent Acquisition team to develop and implement effective recruitment strategies for product and engineering positions, ensuring a diverse and inclusive candidate
+24:pool.
+25:Participate in the interview process, assess candidates' technical skills, cultural fit, and potential for success in the organization.
+26:Support onboarding activities for new product and engineering hires, ensuring a smooth transition and positive experience.
+27:Employee Engagement and Development:
+ 
+ 
+  Design and implement initiatives to enhance employee engagement, satisfaction, and retention within the product and engineering
+28:functions.
+29:Collaborate with product and engineering leaders to identify training and development needs, and create programs that promote employee growth, technical skill enhancement, and career progression.
+30:Monitor employee performance and provide guidance to managers on performance management, including goal setting, performance feedback, and recognition.
+31:HR Program Implementation:
+ 
+ 
+  Support the implementation of HR programs and initiatives, such as performance management, talent review, compensation planning, and succession
+32:planning.
+33:Ensure compliance with employment laws, regulations, and company policies, providing guidance to managers and employees as needed.
+34:Data Analysis and Reporting:
+ 
+ 
+  Utilize HR data and analytics to identify trends, insights, and areas for improvement within the product and engineering
+35:functions.
+36:Generate regular reports and dashboards on HR metrics, such as headcount, turnover, employee engagement, and performance, to inform decision-making and measure the effectiveness of HR programs.
+37:Partner with hiring managers to understand their talent needs and develop effective recruitment strategies.
+38:Collaborate with cross-functional teams, such as Talent Acquisition, and hiring managers, to ensure a seamless recruitment process an excellent candidate experience
+  Monitoring the recruitment process to ensure hiring priorities are established and that talent needs are met in a timely manner
+   Conduct in-depth interviews and assess candidate skills, qualifications, and cultural fit
+   Provide feedback and insights to hiring managers on market trends, candidate feedback, and other relevant
+39:information.
+40:Qualifications:
+ 
+   Bachelor's degree in Human Resources, Business Administration, or a related field (Master's degree
+41:preferred).
+42:Minimum of 5 years of HRBP or HR generalist experience, with a focus on supporting product development and engineering functions.
+43:In-depth knowledge of HR best practices, employment laws, and regulations.
+44:Strong understanding of the product development and engineering industries, including familiarity with software development lifecycle, technical roles, and emerging trends.
+45:Excellent interpersonal and communication skills, with the ability to build relationships, influence stakeholders, and resolve employee relations issues.
+46:Proven experience in talent acquisition, employee engagement, performance management, and organizational development.
+47:Analytical mindset, comfortable working with HR data and generating insights for informed decision-making.
+48:Ability to work independently, manage multiple priorities, and thrive in a fast-paced, dynamic environment.
+49:#LI-Onsite
+ 
+ 
+ 
+   Appen is the global leader in data for the AI Lifecycle with more than 25 years’ experience in data sourcing, annotation, and model
+50:evaluation.
+51:Through our expertise, platform, and global crowd, we enable organizations to launch the world’s most innovative artificial intelligence products with speed and at scale.
+52:Appen maintains the industry’s most advanced AI-assisted data annotation platform and boasts a global crowd of more than 1 million contributors worldwide, speaking more than 235 languages.
+53:Our products and services make Appen a trusted partner to leaders in technology, automotive, finance, retail, healthcare, and government.
+54:Appen has customers and offices globally.

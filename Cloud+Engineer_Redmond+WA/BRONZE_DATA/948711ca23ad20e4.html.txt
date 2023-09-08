@@ -1,0 +1,77 @@
+0:Company Background
+Landmark Global are the experts in international delivery by combining postal networks and alternative delivery
+1:providers.
+2:We are part of the North American division of bpost, Belgium’s national postal service, with expertise in parcels & logistics.
+3:Bpost employs more than 20,000 people, handles billions of shipments per year and delivers to more than five million addresses every day.
+4:For more than a decade, Landmark Global, with its roots in SoCal, has enabled our customers to expand globally.
+5:Our business has grown from basic international mail and parcel delivery to full service, end-to-end solutions.
+6:This includes parcel delivery, fulfillment, proprietary technology and trade consulting, which provide our clients the capability to sell to millions of customers worldwide.
+7:We are strategically located close to our customers worldwide, covering most time zones.
+8:Our technology is web-based, scalable and agile.
+9:Mercury, our proprietary web-based software, was developed on the foundations of our logistics expertise and client requests.
+10:We provide a flexible application that works with any existing technologies.
+11:Position Summary
+We’re growing quickly across 4 continents and have many exciting technologies to
+12:support!
+13:We are looking for someone with strong knowledge and experience of supporting cloud & internal server infrastructure to support our flagship, homegrown web application in addition to other corporate systems.
+14:This position will help transform our infrastructure to the next level of automation, security and stability.
+15:Job Description
+Core responsibilities will include the following areas:
+● Maintain and monitor the cloud infrastructure in
+16:AWS.
+17:● Deploy/Update cloud instances using Chef.
+18:● Define network and security structure using CloudFormation.
+19:● Check for security issues in AWS using tools such as Trendmicro Cloud Conformity and Rapid 7 IDR.
+20:● Maintain and monitor the network infrastructure between AWS and our 10+ North America locations.
+21:● Create/maintain scripts to automate processes.
+22:● Research new technology for improvements
+● Work closely with the Development and IT Operations teams to provide needed tools and
+23:resources.
+24:● Additional duties as assigned.
+25:Position Requirements
+● 4-6 years relevant work
+26:experience.
+27:● Bachelor’s degree preferred, but not required.
+28:● Strong knowledge of Chef and other services offered in AWS.
+29:● Experience with application containerization (Docker, Kubernetes).
+30:● Experience with vagrant with Virtualbox and QEMU.
+31:● Experience with implementation of CI/CD.
+32:● Strong understanding of cloud security.
+33:● Strong knowledge of Linux operating system.
+34:Landmark Global is an equal opportunity employer.
+35:All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations, and ordinances.
+36:Landmark Global is committed to ensuring that its online application process provides an equal employment opportunity to all job seekers, including individuals with disabilities.
+37:If you believe you need a reasonable accommodation in order to search for a job opening or to submit an application, please contact us by visiting www.landmarkglobal.com.
+38:We will work to assist disabled job seekers whose disability prevents them from being able to apply online.
+39:Candidate Privacy Notice – Learn about how we use the personal data you submit as a job applicant by visiting our website at
+40:Job Type: Full-time
+Pay:
+41:-
+42:per year
+Benefits:
+
+ 401(k)
+ Dental insurance
+ Employee assistance program
+ Health insurance
+ Life insurance
+ Paid time off
+ Referral program
+ Vision insurance
+
+Compensation package:
+
+ Bonus pay
+
+Schedule:
+
+ 8 hour shift
+ Monday to Friday
+
+Experience:
+
+ CI/CD implementation: 2 years (Required)
+ Cloud infrastructure maintenance: 2 years (Required)
+ Chef: 3 years (Required)
+
+Work Location: Remote

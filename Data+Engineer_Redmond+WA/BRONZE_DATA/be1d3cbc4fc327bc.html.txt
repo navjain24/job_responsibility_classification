@@ -1,0 +1,75 @@
+0:System1 is one of the largest customer acquisition companies in the world whose growth depends heavily on a very talented data engineering
+1:team.
+2:The Data Engineering team at System1 is focused on building frameworks, processes, and automation to ensure smooth running data pipelines and
+3:infrastructure.
+4:We process billions of records per day, for the benefit of multiple business functions like business intelligence, data science & machine learning, traffic quality and analytics.
+5:You would be working in a fast-paced environment where system scalability, reliability, usability, efficiency are the
+6:goals.
+7:Come join us!
+8:The Role You Will Have:
+ 
+   Designing and developing data processing
+9:infrastructure.
+10:Developing new and improving existing data pipelines, extracting from external API sources or internal events.
+11:Developing self-serve data solutions, self-correcting robust ETL pipelines.
+12:Continuously improving monitoring and alerting coverage.
+13:Self-driving proof of concept for new technologies, new patterns and writing technical specifications for data architecture projects.
+14:Identifying scaling bottlenecks and how to prevent them.
+15:Performing maintenance of existing infrastructure, investigating issues and failures.
+16:Conducting SQL data investigations, and optimizations..
+17:Participate in peer code reviews and produce high quality documentation
+ 
+ 
+  What You Will Bring:
+ 
+   Bachelors or Masters degree in Computer
+18:Science/Engineering.
+19:Programming proficiency in Python is required.
+20:Experience in Cloud ecosystems like AWS is required.
+21:GCP, Azure are preferred.
+22:SQL expertise, and preferably SQL query optimization experience.
+23:Database design skills, both relational and non-relational, SQL and NoSQL.
+24:Experience with Cloud data warehouses like BigQuery, Snowflake, Redshift preferred.
+25:Modern orchestration platforms such as Airflow.
+26:Good data engineering fundamentals, ETL experience and analytics skills required.
+27:~Knowledge of data engineering mechanics, flow, distribution, optimization.
+28:~Data organization, distribution, latency, observability.
+29:~Distributed big data processing and storage systems.
+30:Kubernetes, docker, containerization strategies, Linux/UNIX would be good.
+31:Experience with Kafka would be a plus.
+32:What We Have to Offer:
+ 
+   Competitive salary + bonus + equity
+   Generous PTO + 11 company holidays
+   Open sick time
+   100% covered Medical, Dental, Vision for employees
+   401k with match
+   Health & Dependent Care Flex Spending Account
+   Paid professional development
+   Leadership & growth opportunities
+   Virtual company and team building events
+   #LI-Remote
+   #LI-Hybrid
+   #BI-Hybrid
+   #BI-Remote
+   #LI-AW1
+ 
+ 
+ 
+   The
+33:U.S.
+34:base salary range for this full-time position is 
+  $116,500 - $186,600 + bonus + equity +
+35:benefits.
+36:Our salary ranges are determined by role, level, and location.
+37:The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations.
+38:Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training.
+39:Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+40:Please note that the compensation details listed in U.S.
+41:role postings reflect the base salary only, and do not include bonus, equity, or benefits.
+42:System1 offers flexible work arrangements for most employees (unless they hold positions which are identified as having to be 100% onsite in Marina del Rey, CA, Bellevue, WA or Guelph, ON
+43:Canada).
+44:Most System1 full-time employees choose to work in a hybrid environment, splitting their time between working in our offices and working remotely.
+45:System1 allows fully-remote work in the following approved locations: Arizona, Colorado, Georgia, Hawaii, Minnesota, Missouri, New Jersey, New York, North Carolina, Oklahoma, Oregon, Pennsylvania, Tennessee, Texas and Virginia.
+46:Prospective U.S.
+47:employees who live outside of any of these states will need to establish residency in one of the approved states prior to employment.

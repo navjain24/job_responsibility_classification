@@ -1,0 +1,67 @@
+0:A Bachelor's degree in Computer Science, Engineering, Mathematics, or a related field, or three or more years of work experience in service operations as an
+1:equivalent.
+2:2+ years of experience in scripting or programming languages such as C/C++, Go,
+3:Python.
+4:3+ years of experience in operating large-scale distributed
+5:systems.
+6:2+ years of experience in operating or developing large scale infrastructure and automation
+7:(CICD).
+8:Project Kuiper is an initiative to launch a constellation of Low Earth Orbit satellites that will provide low-latency, high-speed broadband connectivity to unserved and underserved communities around the
+9:world.
+10:As part of this role you will join DevOps team building automated CICD pipeline for satellite software.
+11:Key job responsibilities 
+
+ 
+ Continuously collaborating with various satellite software teams teams to automate build, test and deploy
+12:pipelines.
+13:Build software solutions to manage infrastructure needed to operate our system at large
+14:scale.
+15:Participate in major engineering projects end-to-end with cross-functional
+16:stakeholders.
+17:Lead design, implementation, and delivery of software build in ambiguous and complex problem
+18:spaces.
+19:Take lead in identifying and solving architecture deficiencies or areas where your team’s software bottlenecks the innovation of other
+20:teams.
+21:You help your team deliver higher quality software faster (or fail faster to get to the right solution).
+22:Communicate your ideas effectively to achieve the right outcome for your team and
+23:customer.
+24:Seek diverse perspectives, and incorporate feedback to create a better outcome.
+25:Drive software best practices
+26:(e.g., security, quality, operational excellence, etc.).
+27:Export Control Requirement:
+ Due to applicable export control laws and regulations, candidates must be a
+28:U.S.
+29:citizen or national, U.S.
+30:permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S.
+31:as a refugee or granted asylum.
+32:A day in the life 
+Build software for CICD to automated satellite software build, deploy and test for multiple cross-functional
+33:teams.
+34:About the team 
+The Builder Operations Team is looking for a DevOps engineer who has experience building CICD infrastructure and SDLC pipelines for satellite software built on proprietary hardware with various test equipment controlling
+35:it.
+36:Your technical expertise will be used to create, execute, and optimize builds and automate satellites SDLC through CICD functional testing, spacecraft validation, and chart the path to reliably integrating and launching thousands of satellites.
+37:We are open to hiring candidates to work out of one of the following locations: 
+
+ Redmond, WA, USA 
+
+ 
+ 
+ Strong knowledge of test methodology and tools, with demonstrated experience in a DevOps
+38:role.
+39:Coding experience with automated build and testing frameworks, tools, and
+40:services.
+41:Experienced in Agile or Scrum software development
+42:methodologies.
+43:Amazon is committed to a diverse and inclusive
+44:workplace.
+45:Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+46:For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+47:Our compensation reflects the cost of labor across several US geographic
+48:markets.
+49:The base pay for this position ranges from $103,400/year in our lowest geographic market up to $201,200/year in our highest geographic market.
+50:Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience.
+51:Amazon is a total compensation company.
+52:Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits.
+53:For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits.
+54:Applicants should apply via our internal or external career site.

@@ -1,0 +1,48 @@
+0:Production Engineers at Facebook are hybrid software/systems engineers who ensure that Facebook's services run smoothly and have the capacity for future
+1:growth.
+2:They are embedded in every one of Facebook's product and infrastructure teams and are core participants in every significant engineering effort underway in the company.Our team is comprised of varying levels of experience and backgrounds, from new grads to industry veterans.
+3:Relevant industry experience is important (Site Reliability Engineer (SRE), Systems Engineer, Software Engineer, DevOps Engineer, Network Engineer, Systems Administrator, Linux Administrator, Database Administrator or similar role), but ultimately less so than your demonstrated abilities and attitude.
+4:We sail into uncharted waters every day at Facebook in Production Engineering, and we are always learning.This position is full-time.
+5:Production Engineer Responsibilities:  
+ 
+  Own back-end services like our Hadoop data warehouses, front-end services like Messenger and Newsfeed, infrastructure components like our Memcache infrastructure, and everything in between
+   Write and review code, develop documentation and capacity plans, and debug the hardest problems, live, on some of the largest and most complex systems in the world
+   Together with your engineering team, you will share an on-call rotation and be an escalation contact for service incidents
+   Partner alongside the best engineers in the industry on the coolest stuff around, the code and systems you work on will be in production and used by billions of users all around the world
+ 
+  
+  
+  
+ Minimum Qualifications: 
+ 
+   Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical
+6:experience.
+7:Degree must be completed prior to joining Meta.
+8:Engineering degree, or a related technical discipline, or equivalent work experience
+   4+ years experience with operating systems and TCP/IP network fundamentals
+   4+ years experience coding in higher-level languages
+9:PHP, Python, C++, or Java)
+   4+ years experience in configuration and maintenance of applications such as web servers, load balancers, relational databases, storage systems and messaging systems
+   4+ years experience learning software, frameworks and APIs
+ 
+  
+  
+  
+ Preferred Qualifications: 
+ 
+   BS or MS in Computer Science
+ 
+  
+  
+  
+  
+  
+ 
+  Meta is proud to be an Equal Employment Opportunity and Affirmative Action
+10:employer.
+11:We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+12:You may view our Equal Employment Opportunity notice here.
+13:We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+14:We may use your information to maintain the safety and security of Meta, its employees, and others as required or permitted by law.
+15:You may view Meta's Pay Transparency Policy, Equal Employment Opportunity is the Law notice, and Notice to Applicants for Employment and Employees by clicking on their corresponding links.
+16:Additionally, Meta participates in the E-Verify program in certain locations, as required by law

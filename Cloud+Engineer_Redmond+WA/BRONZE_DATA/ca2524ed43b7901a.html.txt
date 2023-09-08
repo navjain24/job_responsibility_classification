@@ -1,0 +1,81 @@
+0:At Pulumi, we're building the Cloud Engineering Platform enabling the future of developer-first
+1:infrastructure.
+2:We believe that programming the cloud should be just as productive, joyful, and flow-inducing as your local dev loop.
+3:We want to make janky internal developer portals and homegrown infrastructure DSLs a thing of the past.
+4:Every engineer deserves delightful tools.
+5:We employ a unique philosophy toward achieving this goal: 
+  
+  We succeed and fail as a team 
+  An inclusive environment bubbles the best ideas to the top 
+  Our customers sit at the center of every decision 
+  We achieve the best results through openness and honesty, even when uncomfortable 
+  Work smart, but bias for action and results 
+  Our natural curiosity for technology keeps us always learning 
+  Think big, dream, and define the future of engineering in the cloud 
+  
+ While Pulumi is headquartered in Seattle,
+6:WA., we are dedicated to being a remote first company.
+7:This role will be located remotely in the United States.
+8:Responsibilities: 
+  Our team builds the SaaS offering built on top of the Pulumi OSS
+9:project.
+10:Thousands of companies rely on our Cloud Engineering Platform to be productive and ship software to their customers every day.
+11:We deliver features that enable enterprises to adopt Pulumi at scale and reimagine the way that developers interact with infrastructure.
+12:We believe that internal developer portals can be a joy to use.
+13:We ship applications, APIs, and services to make that a reality.
+14:On any given day at Pulumi you might find yourself: 
+  
+  Shipping new SaaS features end to end from collecting customer feedback to architectural design and delivery 
+  Working with our UX designers to craft and instrument a new and delightful onboarding flow 
+  Building out infrastructure, backend APIs, and frontend UI to enable full-text search over the full corpus of Pulumi-managed cloud resources 
+  Designing and building the next version of core security features like role-based access control 
+ 
+ We're Looking For Someone With: 
+  We're hiring motivated engineers from entry-level to principal, but it helps if you have experience and excitement for: 
+  
+  Backend engineering in a language like Go, C#, Java,
+15:etc.
+16:Frontend engineering in JavaScript/TypeScript and a modern web development framework like React, Angular, or
+17:Vue.
+18:Schema, index, and query design for MySQL or Postgres 
+  Experience designing cloud infrastructure on AWS, Azure, GCP, or
+19:Kubernetes.
+20:Ability to learn elasticsearch, prompt engineering, and applied ML/AI/LLM
+21:engineering.
+22:Compensation: 
+ 
+  Base Salary Hiring Range: $180,500 to $227,850 
+  All full time employee offers at Pulumi include base salary, bonus or variable, equity and benefits (details
+23:below).
+24:Pulumi Benefits: 
+   
+   Health - We offer competitive medical, dental, vision, and supplemental
+25:insurance.
+26:It is free for our direct employees to be on our insurance.
+27:Time Off - Unlimited personal time off (PTO) we ask that employees take at least 3 weeks off during the year in addition to the two annual company-wide wellness weeks and 13 US
+28:holidays.
+29:401K with employer match 
+   Parental Leave - 20 weeks paid parental leave for the birthing parent or primary caregiver, and 16 for non-birthing parent or secondary
+30:caregiver.
+31:Remote-First - We are a 100% remote-first company with employees in nearly 20 states, and growing internationally; we encourage asynchronous communication and
+32:autonomy.
+33:We also provide an annual work from anywhere fund to help cover the employee costs of working remotely.
+34:Professional Development & Growth - We encourage a lifelong learning mindset and every employee is given an annual professional development
+35:budget.
+36:Equity - As a small but growing startup, we all act like owners and you will earn equity in the
+37:company.
+38:Additional Funds - We offer employees a monthly wellness fund to be spent on anything physical and/or mental wellbeing
+39:related.
+40:We also provide a quarterly happiness fund to be used toward anything that makes our employees happy!
+41:About Pulumi: 
+   Pulumi is reimagining how developers and DevOps teams create and manage cloud software, through a unique combination of developer tools and system
+42:innovation.
+43:The company leads with an open source platform that embraces real programming languages, tools, and techniques, and offers an innovative SaaS product that helps team collaborate.
+44:Pulumi was founded in 2017 by developer and cloud experts from many corners of our industry to deliver innovative approaches to cloud software
+45:development.
+46:Since emerging from stealth in mid-2018, we are accelerating our platform momentum and product adoption.
+47:The team is built on a culture of openness, diversity, respect, and thinking big.
+48:At Pulumi, we don't just accept difference, we look for it, celebrate it, support it, and thrive on it for the benefit of our employees, our products, and our
+49:customers.
+50:Pulumi is proud to be an equal opportunity workplace and is committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status.
+51:If you have a disability or special need that requires accommodation, please let us know.

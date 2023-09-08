@@ -1,0 +1,40 @@
+0:Cloud Engineer - Contract 
+ Visa: W2(USC/GC/H4/L2/GC-EAD/H1-B, Hire Friendly) 
+ C2C 
+ RATE 70-90 DOE 
+ PLEASE APPLY ONLY VIA OUR WEBSITE 
+ Website Job listing here: Job Listing 1348
+  
+  Description  15+ Years Experience Required Location:Seattle,WA
+  
+  Hybrid 2-3 days a week onsite
+  
+  Business Line: Business Unit Enablement Reports to: VP, Public Cloud Transformation Services - Modernization Enablement FLSA Status: Contract Date: June 2023 
+ Basic Purpose: 
+ The Cloud Engineer is responsible for designing, implementing, and supporting the foundational AWS infrastructure including but not limited to AWS organizations/accounts, Landing Zone, networking, security, identity, and targeted business
+1:applications/integrations.
+2:They work as part of the larger Cloud organization consisting of Networking, IT Security, Development, Operations, and Site Reliability Engineering teams to build effective, secure, and scalable solutions to meet explosive business growth.
+3:Primary Responsibilities: Develop and maintain AWS Landing Zone resources such as accounts, VPCs, IAM,
+4:etc.
+5:Work closely with acquisition Cloud Security/Engineering staff to align security policies, IaC blueprints, and security guardrails.
+6:Implement network connectivity between various Cloud Providers and Organizations Create and maintain approved Terraform IaC modules to ensure consistency and security Assist with application migrations from acquisition AWS Orgs.
+7:Design and implement best practices for operational excellence, security, reliability, performance, efficiency, and cost optimization across Cloud platforms Create and maintain documentation related to the Cloud Program Mentor junior team members on secure Cloud Ops design principles and IaC 
+ Job Requirements: Bachelor's degree in Information Technology or equivalent experience AWS Cloud Architect Associate certification or equivalent 5+ years' AWS technical experience, preferably in Financial Services Strong knowledge of Terraform, source control, and CI/CD pipelines (Github Actions) Strong Cloud Architecture, Networking, Security, and Operations knowledge Experience with Access Management technologies, best practices, and IdP (Okta) Experience working with Linux/UNIX and Docker or other container technologies Familiarity with DMZ based network architectures and associated infrastructure Able to work as part of a high performing, collaborative team with limited supervision 
+ 
+ Go to our Website Job listing here: Job Listing 1348 
+ Please download and complete this Matrix prior to
+8:submission.
+9:PM 1348 
+ Then 
+ USE either "APPLY BUTTON" or "EAST APPLY BUTTON" TO SUBMIT RESUME AND SKILLS MATRIX 
+ Job Listing 1348 
+ The send an email to the listers email address with just candidate name and job
+10:number.
+11:NO need to attached resume or anything else.
+12:Thanks, 
+ 
+ Jay Kernes 
+ Certec Consulting, inc 
+ Fax 888-523-7832 
+ 
+ We are certified as a Women's Business Enterprise (WBE)

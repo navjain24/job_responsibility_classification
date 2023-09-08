@@ -1,0 +1,71 @@
+0:Our Company 
+
+ Changing the world through digital experiences is what Adobe’s all
+1:about.
+2:We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences!
+3:We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+4:We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal
+5:opportunity.
+6:We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+7:Adobe Research is looking for research scientists working on generative AI models for image and video synthesis to help us build the next generation of creative
+8:tools.
+9:We are especially looking for experience in video generation.
+10:We seek candidates with strong expertise in the field, as evidenced by peer-reviewed academic publications, combined with hands-on industrial research experience.
+11:As a Research Scientist at Adobe, you will be joining an outstanding team of researchers building the future of digital
+12:experiences.
+13:You will have the opportunity to develop novel ideas suitable for academic publication, to mentor interns, and to participate in our university collaboration program.
+14:We also work with product teams to implement those ideas as advanced features in Adobe's products and reach millions of people worldwide!
+15:Job Responsibilities 
+
+ Conduct innovative research and development in Generative AI 
+
+ Develop and transfer novel technologies to Adobe products 
+
+ Research and develop novel large-scale foundation models in Generative AI 
+
+ Collaborate with extraordinary researchers and engineers to bring research ideas to production 
+
+ Publish and present your work in premier scientific venues in AI/ML or related fields 
+
+ Provide technical mentorship and
+16:guidance.
+17:What you'll need to succeed
+18:Ph.D.
+19:in Computer Science, AI/ML or related fields 
+
+ Excellent publication record in Computer Science, AI/ML or related fields 
+
+ Excellent communication skills and a great teammate 
+
+ Experience in state-of-the-art Generative AI technologies, such as GAN and/or diffusion models 
+
+ Strong record of publications in image/video generation and image/video editing 
+
+ Experience with large-scale generative model training 
+
+ 
+Preferred experience:
+ working with large-scale datasets 
+
+ working with product teams on technology transfers 
+Our compensation reflects the cost of labor across several
+20:U.S.
+21:geographic markets, and we pay differently based on those defined markets.
+22:The U.S.
+23:pay range for this position is $121,300 -- $238,700 annually.
+24:Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience.
+25:Your recruiter can share more about the specific salary range for the job location during the hiring process.
+26:At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission
+27:plans.
+28:Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).
+29:In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity
+30:award.
+31:Adobe is proud to be an Equal Employment Opportunity and affirmative action
+32:employer.
+33:We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law.
+34:Learn more.
+35:Adobe aims to make
+36:Adobe.com accessible to any and all users.
+37:If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.
+38:Adobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s
+39:employees.

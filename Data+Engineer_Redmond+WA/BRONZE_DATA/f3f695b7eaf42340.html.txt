@@ -1,0 +1,61 @@
+0:Responsibilities
+The candidate should be strong in analyzing the business and providing
+1:solutions.
+2:The candidate will play a critical role in Analyzing the existing applications and building data models using Azure Data Stack(e.g., ADF, ADL, Azure SQL, Azure Analytics, Synapse, etc.), COSMOS, Kusto & Power BI.
+3:Responsible for overall design, development, and team coordination on BI systems/applications.
+4:Communicate standards, defend technology, scoping decisions to information technology management and development
+5:teams.
+6:Participate in Business Requirements and Functional Requirements meetings, identify gaps in requirements, and drive discussion around appropriate solutions.
+7:Design and code high quality database solutions within a fast-paced monthly release cycle.
+8:Manage errors gracefully.
+9:Document code and work completed.
+10:Conduct thorough unit testing of code and document the unit test cases.
+11:Conduct appropriate performance testing to ensure all solutions will meet SLAs and performance criteria.
+12:Provide support as needed throughout Test and User Acceptance Testing phases.
+13:Create Technical Design Specification documentation that clearly articulates the design and code being implemented.
+14:Provide client communication as appropriate to project.
+15:Develop new reports and provide technical support for the applications.
+16:Strong technical background 1) Kusto 2)Comsos 3) PowerBI 4)PowerShell 5) Sql 6)Azure Data Factory 7) Scope Scripting
+ Ability to work independently and as part of a
+17:team.
+18:Excellent communication skills.
+19:Ability to understand business problem and produce solutions.
+20:Expert in Advanced Analytics through Python.
+21:Preparing data flows and building pipeline using Azure Data stack
+
+Required
+
+ SQL Server 2012 Analysis Services (SSAS);
+ Synapse;
+ Microsoft SQL Server 2019;
+ Microsoft Power BI;
+ Cosmos;
+ SQL Server Database Administration;
+ SQL Server 2012 Development;
+ Agile Software Development;
+ Business Intelligence(BI)
+
+Job Type: Full-time
+Pay:
+22:-
+23:per hour
+Benefits:
+
+ Dental insurance
+ Health insurance
+ Vision insurance
+
+Experience level:
+
+ 5 years
+
+Schedule:
+
+ 8 hour shift
+
+Experience:
+
+ Microsoft SQL Server: 3 years (Preferred)
+ Agile: 3 years (Preferred)
+
+Work Location: In person

@@ -138,9 +138,12 @@ async function extractResponsibilities(jobRole, location)
   const files = fs.readdirSync(sourceFolder)
 
   //process all files using forEach
-  files.forEach(async function (file) {        
-    const fullFilePath = `${parentFolder}/${BRONZE_DATA}/${file}`;
-    await extractResponsibilitiesFromSingleJob(fullFilePath);
+  files.forEach(async function (file) {      
+    if(file.endsWith("html"))
+    {  
+      const fullFilePath = `${parentFolder}/${BRONZE_DATA}/${file}`;
+      await extractResponsibilitiesFromSingleJob(fullFilePath);
+    }
   });
 }
 

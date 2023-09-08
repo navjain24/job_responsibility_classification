@@ -1,0 +1,49 @@
+0:TerraClear's mission is to free farmers from the worst jobs on the
+1:farm.
+2:Our path begins by automating the most hated job on the farm - rock picking.
+3:Rocks slow farming, damage equipment, and lead to downtime while seeding and harvesting.
+4:Solving this problem frees farmers to focus on higher-value tasks and bring their operations into a new era of farming.
+5:Our team is a close group who believe in the power of collaboration and teamwork, the value of getting our hands dirty and learning from the farmers we
+6:serve.
+7:You will thrive at TerraClear with a positive attitude and enthusiasm.
+8:We are looking for a full-time Dev Ops / IT Infrastructure Engineer to manage automated software build environments, code releases, AWS cloud environments and production processing
+9:environments.
+10:Your success will allow the company to a) have repeatable, stable build and release processes, b) optimize our use of AWS resources and c) maximize production environment uptime and utilization.
+11:Salary range =
+12:$95k-$140k.
+13:In this role, you will: 
+  
+  Manage / optimize use of AWS services to ensure we only pay for what we need 
+  Manage CI automated build and test environments, including monitoring new versions of 3rd party dependencies and coordinating upgrades as needed 
+  Enhance CI and testing processes to ensure delivery of stable products 
+  Own build and deployment of application stacks across multiple
+14:environments.
+15:Monitor health & welfare of applications and underlying infrastructure 
+  Implement best practices for the design and ongoing management of production, stage and development environment infrastructure, including network, access rights, servers, and applications in partnership with outsourced IT and TerraClear engineering teams 
+  Responsible for production environment availability, as well as future evolution and capacity planning 
+  Assist outsourced IT and internal team members in non-production IT activities as needed 
+  Work in Agile environment to prioritize tasks and deliver technical milestones on schedule
+ 
+  
+ What we're looking for: 
+  
+  3-5 years professional experience 
+  Demonstrated experience with Amazon Web Services, such as IAM, API Gateway, EBS, Elastic Compute Cloud (EC2), Elastic Block Store (EBS), Cognito, S3, Aurora, Lambda and Key Management, Terraform 
+  Demonstrated CI/CD experience in commercial software environment 
+  Proficient with git and git workflows 
+  Experience with container technology such as Docker and Kubernetes 
+  System administration experience with Linux and Windows operating systems 
+  Strong knowledge of software development lifecycle 
+  Experience designing, implementing and supporting IT infrastructure and service delivery 
+  In-depth knowledge of networking technologies / concepts and computer hardware 
+  Positive attitude and strong communication and team skills 
+  BS in Software Engineering, Computer Science, IT (or related field) or commensurate work experience 
+  Applicants must be authorized to work for ANY employer in the
+16:US.
+17:We are unable to sponsor or take over sponsorship of employment Visa at this time.
+18:If you're excited about TerraClear, fit the above qualifications and are passionate about solving hard problems, please apply
+19:now!
+20:TerraClear is an Equal Opportunity Employer committed to fostering an inclusive culture with extraordinary
+21:employees.
+22:We provide employment opportunities without regard to any legally protected status.
+23:If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know.

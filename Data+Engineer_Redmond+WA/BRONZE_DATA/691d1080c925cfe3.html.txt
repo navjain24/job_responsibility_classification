@@ -1,0 +1,51 @@
+0:Company Introduction 
+  OneSource Regulatory Technology hosts a number of innovative solutions to enhance job performance in the Pharmaceutical
+1:space.
+2:OSR Technology is looking for an experienced and dedicated data engineer to join our product solutions team!
+3:Job Description 
+  OneSource Regulatory is trying to identify a full-time contractor with at least 4+ years of experience to assist us with ongoing R&D
+4:projects.
+5:We are looking for a data engineer to pull data from various sources and do all the necessary steps to clean, normalize, possibly annotate, and finally load the data into
+6:databases.
+7:The candidate should be able to develop and implement a strategy for testing the data integrity of the collected data.
+8:This role requires extreme attention to detail to ensure data quality is top priority.
+9:Responsibilities 
+  
+  Well versed in parsing and synthesizing of XML and/or JSON
+10:documents.
+11:Curating of data that can involve some intermediate to advanced web
+12:scraping.
+13:(data may need to be fetched via SFTP, FTP, Wget, Curl, REST APIs, GraphQL queries from spots on the Internet) 
+  Proficiency with Linux command line and various simple tools, such as grep, wc, sed, awk, find, ls, cat, piped commands and possibly some very light Bash shell scripting, setting up crontab schedules and programs 
+  Must have basic knowledge of SQL with the following databases: PostGres, MySQL, Google BigQuery 
+  Must have basic knowledge of No-SQL database knowledge such as MongoDB or similar 
+  Familiarity with basic Cloud technology such as storage buckets, cloud serverless functions 
+  Must have experience extracting text and images from PDF files 
+  Knowledge of Puppeteer or other automatable web client technologies 
+  Understanding JavaScript, HTML/CSS and HTTP methods (for understanding page structure for web scraping)
+ 
+  
+ Skills 
+  
+  Solid experience with Python and Python Libraries such as Pandas, requests, etc 
+  Skill set should match up with required responsibilities listed above 
+  Strong English skills
+14:(e.g.
+15:grammatical analysis and rhetorical structure) 
+  Team Player 
+  Great communication skills
+ 
+  
+  
+  Bonus Skills 
+  
+  Experience within the Pharmaceutical Space 
+  Ability to expose data via C# NETCore and/or GraphQL 
+  Google Cloud Platform (Cloud Buckets, Google Cloud Functions
+16:Python,
+17:Ability to parallelize data manipulation and scraping via Python multi-threading,
+18:etc.
+19:Python BeautifulSoup 
+  Scrapy 
+  Docker (setting up Kubernetes style processing if warranted for data scraping/data ingestion/normalization) 
+  Multithreading concepts

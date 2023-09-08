@@ -1,0 +1,65 @@
+0:Are you someone who likes to collaborate with team members to solve technical
+1:problems?
+2:We are passionate about building a cloud solution for our internal and external customers and partners and value eternal curiosity, technical capability, and a drive for efficiency.
+3:In this role you will collaborate with product and development teams on building and automating solutions, managing the cloud infrastructure, building and owning code deployment procedures, and improving operational efficiency of our Enterprise Products.
+4:You are a great fit for this role if you are: 
+  
+  Experienced with scripting, automation, infrastructure-as-code, and monitoring to minimize outages in cloud or hybrid-cloud infrastructures 
+  Comfortable designing, building, automating, and supporting a Windows based multi-tier
+5:architectures.
+6:At Delta Dental of Washington our vision is that all people can enjoy good oral and overall health, with no one left
+7:behind.
+8:We succeed because of a shared commitment to a set of values that guide everything we do – for our customers, for our communities, and for each other.
+9:We are Accountable.
+10:We lean in with Courage.
+11:We stay Curious.
+12:We are Inclusive.
+13:We act with Integrity.
+14:We offer a highly competitive medical, dental and vision plans as well offering an 8% 401k match and all employees start accruing vacation and sick time from their very first
+15:day.
+16:We empower employee development through our tuition reimbursement plan, professional development plans, and employee-led communities.
+17:The pay range for this position for Western Washington varies between
+18:$95,160.00 – $135,420.00, and for Eastern Washington varies between $76,830.00 - $109,335.00.
+19:Washington Dental Service and its affiliates, including Delta Dental of Washington and Arcora Foundation, intends to offer the selected candidate a base pay within this range, dependent on job-related, non-discriminatory factors such as experience.
+20:Base pay will also be adjusted based on the candidate's geographic location.
+21:Essential Responsibilities include the following: The list of responsibilities listed is not intended to be
+22:comprehensive.
+23:Washington Dental Service and its affiliates, including Delta Dental of Washington and Arcora Foundation reserve the right to change the responsibilities at any time with or without notice.
+24:Provision, manage and maintain the Windows and AWS infrastructure/services that supports our environments 
+  Support and develop tools to automate tasks for code and infrastructure deployment and monitoring 
+  Use IT Service Management (ITSM) tools to triage and respond to incidents and customer issues 
+  Improve performance, scalability, and cost-efficiency of systems and services 
+  Execute, or work with development teams on, remediation of security vulnerabilities 
+  
+ Experience, skills, and education do you need to have to succeed in the position: The requirements listed below are representative of the knowledge, skill, and/or ability required to successfully perform the essential functions of the
+25:position.
+26:3+ years’ experience designing, building, and deploying Windows based solutions on AWS Well-Architected framework (other cloud providers will be considered if skill are transferrable) in a software development, DevOps/SRE or cloud engineer capacity 
+  3+ years' experience with Microsoft Windows Server operating systems (2012 and newer) 
+  Experience writing CloudFormation templates, PowerShell, and/or Python scripts to provision and configure infrastructure in AWS 
+  Automation and orchestration (Puppet, Chef, Ansible, Terraform, Kubernetes, etc) tools and technologies 
+  Good grasp of cyber security and ability to apply in a regulated environment 
+  Ability to prioritize work effectively to meet team, department, and company
+27:goals.
+28:Hands-on experience in the following technologies is helpful: 
+  
+  Identity and Access Management
+29:(e.g.
+30:Cognito, Auth0, SiteMinder, Okta) 
+  AWS application infrastructure
+31:(e.g.
+32:WAF, ELB, API Gateway, CloudFront, Docker) 
+  Infrastructure as Code
+33:(e.g.
+34:CDK, Lambda, CloudFormation) 
+  Application Performance Management
+35:(e.g.
+36:Dynatrace, New Relic) 
+  
+ Washington Dental Service and its affiliates, including Delta Dental of Washington and Arcora Foundation is an Equal Opportunity/Affirmative Action
+37:employer.
+38:All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status.
+39:Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+  The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or
+40:applicant.
+41:However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.
+42:41 CFR

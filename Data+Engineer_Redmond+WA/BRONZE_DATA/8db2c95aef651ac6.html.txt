@@ -1,0 +1,110 @@
+0:Crane Aerospace & Electronics seeks mid-level Data Engineer to join our Lynnwood, WA
+1:team.
+2:This is a hybrid/remote position.
+3:The Data Engineer will be responsible for supporting and updating existing data solutions as well as creating new data solution using Microsoft Azure BI
+4:stack.
+5:The Data Engineer will partner with Senior Data Architect and our business teams to identify data analytics opportunities, define functional and non-functional requirements for technology or process solutions, and develop data workflows and processes to achieve a business solution.
+6:The candidate should be knowledgeable of a variety of techniques to provide actionable insights while familiar with manipulating, cleaning, and analyzing large
+7:datasets.
+8:The candidate must be comfortable with ambiguity and able to converse with Data Architect/Business analyst to better understand data and business problems.
+9:They must have familiarity with software development tools and processes.
+10:Knowledge of ERP and other business systems and data models is preferred.
+11:Essential Functions: 
+   
+   Maintain/Update existing data platform solutions and data models created using Azure platform/Power
+12:BI.
+13:Understand user requirements for how data is used to make
+14:decisions.
+15:Includes process mapping, optimization, and technology enablement.
+16:Extract data from various data sources; perform exploratory data analysis, cleanse, massage, and aggregate data to develop end to end data and analytics
+17:solutions.
+18:Efficiently use relevant Azure services related to data and analytics to build Enterprise Data warehouse/Data Lake 
+   Help support day to day activities of the Modern Analytics team; this may include creating knowledge base articles, updates to platform manuals and documentation, best practices and guidance, and diagnostics of issues that are raised as well as promoting and advocating for the value of advanced modeling
+19:techniques.
+20:Participate in demos and user acceptance reviews while working with the technical team on the creation of design documents and
+21:artifacts.
+22:Collaborate with others on the team and business teams to deliver new, innovative solutions to Crane Aerospace & Electronics
+23:users.
+24:Desire to learn new areas and tools required to enable BI
+25:solutions.
+26:Interact with infrastructure teams to coordinate technology
+27:deployment.
+28:Must Have Qualifications : 
+   
+   Sound knowledge of Data Warehousing with dimensional modelling 
+   Hands on Knowledge of Azure Data Factory V2/Azure SQL server/ Azure Data Lake Gen2 
+   
+    6-7 years of demonstrated experience delivering multiple data solutions with ETL development - both on-premises and in the cloud (2+ years in Azure preferred) 
+   
+   Hands on Knowledge of Power BI data models, reports, and dashboards 
+   
+    3-4 years of demonstrated experience with report development using tools such as Power BI, QLIK 
+   
+   Data analysis training or experience working with structured and/or unstructured datasets 
+   Knowledge about Azure Services, Computation using Azure Databricks/ Synapse/Python 
+   Strong problem-solving skills with an emphasis on analysis and resolution of complex functional areas and technical issues across
+29:teams.
+30:Preferred Qualifications : 
+   · Knowledge of ERP and other business systems and data models 
+   
+   REST APIs, PowerShell, Azure Functions, Logic Apps 
+   Experience with analyzing telemetry data 
+   Experience with machine learning platforms and Tools 
+   Experience with Azure DevOps 
+   Familiarity with custom development, open-source products implementation, systems integration 
+   
+  Min Education: Bachelor or higher degree in computer science, Engineering, Information Systems, or other quantitative fields 
+  Eligibility Requirement: This position may require access to Controlled Data or
+31:Information.
+32:Where the position requires such access only US persons will be considered.
+33:As a US Department of Defense contractor, we are bound by International Traffic in Arms Regulations (ITAR).
+34:Working Conditions : 
+   
+   Standard office
+35:environment.
+36:Work requires substantial visual concentration on
+37:detail.
+38:Working conditions are normal for a manufacturing
+39:environment.
+40:Manufacturing operations may require the use of safety equipment to include but not limited to: eye safety glasses, gowns, masks, hearing protectors, heel/wrist straps and any other required
+41:PPE.
+42:May be exposed to unusual environmental conditions such as loud noises, cold temperatures, confined spaces, dust, or
+43:fumes.
+44:Ability to carry laptops and other equipment weighing up to 25
+45:lbs.
+46:Ability to travel to various Crane Co locations, if and as required for
+47:projects.
+48:Standing: 10% *percentage is approximate and may vary depending on work task 
+  Sitting: 90% *percentage is approximate and may vary depending on work task 
+  Lifting (in pounds): up to 25 pounds 
+   Pushing (in pounds): up to 10 pounds 
+   Mental/Visual: use of computer, calculator, filing cabinets 
+   Workspace (line, cube,
+49:cubicle/desk 
+   About Crane Aerospace & Electronics: 
+   Crane Aerospace & Electronics supplies critical systems and components to the aerospace and defense
+50:markets.
+51:You will find Crane Aerospace & Electronics in some of the toughest environments: from engines to landing gear; from satellites to medical implants and from missiles to unmanned aerial systems (UAS).
+52:Crane Aerospace offers a full line of products for sensing both position (proximity) and pressure of mechanical, flight control and air data
+53:systems.
+54:All incorporate flight proven, highly reliable technology and are in use on many commercial and military aircraft.
+55:We are committed to operational excellence and world-class
+56:processes.
+57:We employ Lean manufacturing techniques to optimize manufacturing efficiency and accuracy on all product lines.
+58:Our products are known for their technical strength, proven reliability and overall value.
+59:Salary range: $114,212 to
+60:$140,000.
+61:Several factors contribute to actual salary, including experience in a similar role or performing comparable job responsibilities, skills, training, and other qualifications.
+62:Compensation packages also include comprehensive benefits, 401K contribution and match, Paid Time Off, paid holidays, tuition reimbursement and more.
+63:Some roles may be eligible for participation in performance-based bonus programs.
+64:You can see a list of our benefits at
+65:or visit our website at
+66:for more information on our company and great opportunities 
+   In our efforts to maintain a safe and drug-free workplace, Crane Aerospace & Electronics requires that candidates complete a satisfactory background
+67:check.
+68:FAA sensitive positions require employees to participate in a random drug test pool.
+69:This description has been designed to indicate the general nature and level of work being performed by employees within this
+70:classification.
+71:It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job.
+72:Crane Company is an Equal Opportunity Employer and does not discriminate on the basis of race, color, creed, religion, sex, national origin, marital status, age, sexual orientation, gender identity, disability, pregnancy, medical condition, genetic information, protected veteran status or any other characteristic protected under federal, state, or applicable local
+73:law.
