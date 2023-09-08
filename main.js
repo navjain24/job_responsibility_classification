@@ -2,6 +2,11 @@ const puppeteer = require('puppeteer');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
+const natural = require('natural');
+// Tokenizer for Natural library
+const tokenizer = new natural.SentenceTokenizer();
+
+
 const INDEED_URL = 'https://www.indeed.com';
 const BRONZE_DATA = 'BRONZE_DATA';
 const SILVER_DATA = 'SILVER_DATA';
@@ -30,11 +35,12 @@ async function processJobRole(jobRole, location)
 
   //BRONZE
   //Scrape raw data from the URL
-  await scrapeRawData(jobRole, location);
+  //await scrapeRawData(jobRole, location);
 
   //SILVER
   //Extract responsibilities to Silver data folder
-  //TODO
+  await extractResponsibilities(jobRole, location);
+
   console.log(`Finished processing Job Role: ${jobRole}\nLocation: ${location}\n`);
 }
 
@@ -55,7 +61,7 @@ async function scrapeRawData(jobRole, location)
     }
   }
 
-  console.log(`Scraped raw data for Job Role: ${jobRole}; Location: ${location}`);
+  console.log(`Scraped raw data for Job Role: ${jobRole}; Location: ${location}`);  
 }
 
 async function getJobIdsFromJobSearchSite(url) {    
@@ -115,6 +121,48 @@ async function getRawJobDetailPage(jobRole, location, jobId) {
   fs.writeFileSync(`${destinationFolder}/${jobId}.html`, rawDetail);      
   return rawDetail;
 }
+
+async function extractResponsibilities(jobRole, location)
+{
+  const parentFolder = `${jobRole}_${location}`;
+  
+  const sourceFolder = `${parentFolder}/${BRONZE_DATA}`;
+
+  console.error(`[Silver] Processing folder: ${sourceFolder}`);
+
+  const files = fs.readdirSync(sourceFolder)
+
+  let allSentences = [];
+  
+  //process all files using forEach
+  files.forEach(async function (file) {        
+    const fullFilePath = `${parentFolder}/${BRONZE_DATA}/${file}`;
+    const currentSentences = await extractResponsibilitiesFromSingleJob(fullFilePath);
+    console.log(`Extracted ${currentSentences.length} from ${fullFilePath}`);
+    allSentences.concat(currentSentences);
+  });
+
+  const destinationFolder = `${parentFolder}/${SILVER_DATA}`;
+  await makeDirIfNeeded(destinationFolder);
+}
+
+async function extractResponsibilitiesFromSingleJob(fullFilePath)
+{
+  console.log(`Processing file: ${fullFilePath}`); 
+
+  //jobDescriptionText
+  const pageDataHtml = fs.readFileSync(fullFilePath, 'utf8');
+  const $ = cheerio.load(pageDataHtml);
+  
+  let jobDescriptionElement = $("#jobDescriptionText");
+  const jobDescription = jobDescriptionElement.text();
+
+  const sentences = await tokenizer.tokenize(jobDescription);
+  //console.log(`Extracted ${sentences} from ${fullFilePath}`);
+
+  return sentences;
+}
+
 
 async function makeDirIfNeeded(dirName) {
   try {
