@@ -130,7 +130,7 @@ async function extractResponsibilities(jobRole, location)
   const destinationFolder = `${parentFolder}/${SILVER_DATA}`;
   await makeDirIfNeeded(destinationFolder);
 
-  const destinationFilePath = `${destinationFolder}/sentences.csv`;
+  const destinationFilePath = `${destinationFolder}/sentences.txt`;
 
 
   console.log(`[Silver] Processing folder: ${sourceFolder}`);
@@ -162,8 +162,8 @@ async function extractResponsibilitiesFromSingleJob(fullFilePath, writeStream)
   const jobDescription = jobDescriptionElement.text();
 
   const sentences = await tokenizer.tokenize(jobDescription);
-  sentences.forEach((sentence) => {
-    writeStream.write(sentence);
+  sentences.forEach((sentence, index) => {
+    writeStream.write(`${index}:${sentence.trim()}\n`);
   });
 }
 
