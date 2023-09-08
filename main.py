@@ -4,4 +4,4 @@ from sentenceEmbedder import *
 
 
 extractSentences(BRONZE_DATA)
-embedSentences(f"{SILVER_DATA}_2")
+embedSentences(SILVER_DATA)

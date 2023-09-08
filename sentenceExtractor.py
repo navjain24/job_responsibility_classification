@@ -21,7 +21,7 @@ def extractSentencesFromSingleJob(jobRole, sourceFullFilePath):
 
     # Create a new file for each sentence and store the same
     # The content hash of the text is the file name.
-    destinationRootFolder = f"{SILVER_DATA}_2"
+    destinationRootFolder = SILVER_DATA
     makeDirIfNeeded(destinationRootFolder)
 
     destinationFolder = f"{destinationRootFolder}/{jobRole}"

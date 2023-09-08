@@ -1,5 +1,5 @@
 import fs from 'fs';
-import { makeDirIfNeeded, SILVER_DATA, createHash } from './common.js';
+import { makeDirIfNeeded, createHash, SILVER_DATA_nodejs } from './common.js';
 
 //wink-nlp
 import winkNlp from 'wink-nlp';
@@ -45,7 +45,7 @@ function extractSentencesFromSingleJob(jobRole, sourceFullFilePath) {
 
     // Create a new file for each sentence and store the same
     // The content hash of the text is the file name.
-    const destinationRootFolder = SILVER_DATA
+    const destinationRootFolder = SILVER_DATA_nodejs
     makeDirIfNeeded(destinationRootFolder);
 
     const destinationFolder = `${destinationRootFolder}/${jobRole}`;
