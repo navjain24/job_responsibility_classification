@@ -132,16 +132,22 @@ async function extractResponsibilities(jobRole, location)
 
   const files = fs.readdirSync(sourceFolder)
 
-  let allSentences = [];
-  
+  let allSentencePromises = [];
+
   //process all files using forEach
   files.forEach(async function (file) {        
     const fullFilePath = `${parentFolder}/${BRONZE_DATA}/${file}`;
-    const currentSentences = await extractResponsibilitiesFromSingleJob(fullFilePath);
-    console.log(`Extracted ${currentSentences.length} from ${fullFilePath}`);
-    allSentences.concat(currentSentences);
+    const currentSentences = extractResponsibilitiesFromSingleJob(fullFilePath);
+    
+    allSentencePromises.push(currentSentences);
   });
 
+  const allSentences = await Promise.all(allSentencePromises);
+
+  allSentences.forEach(function (sentences){
+   console.log(`Extracted ${sentences.length} sentences.`);
+  });
+  
   const destinationFolder = `${parentFolder}/${SILVER_DATA}`;
   await makeDirIfNeeded(destinationFolder);
 }
@@ -157,10 +163,7 @@ async function extractResponsibilitiesFromSingleJob(fullFilePath)
   let jobDescriptionElement = $("#jobDescriptionText");
   const jobDescription = jobDescriptionElement.text();
 
-  const sentences = await tokenizer.tokenize(jobDescription);
-  //console.log(`Extracted ${sentences} from ${fullFilePath}`);
-
-  return sentences;
+  return tokenizer.tokenize(jobDescription);
 }
 
 
