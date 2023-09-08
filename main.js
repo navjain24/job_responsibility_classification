@@ -9,10 +9,10 @@ const model = require( 'wink-eng-lite-web-model' );
 // Instantiate winkNLP.
 const nlp = winkNlp( model );
 
-const natural = require('natural');
+/* const natural = require('natural');
 // Tokenizer for Natural library
 const tokenizer = new natural.SentenceTokenizer();
-
+ */
 
 const INDEED_URL = 'https://www.indeed.com';
 const BRONZE_DATA = 'BRONZE_DATA';
@@ -42,7 +42,7 @@ async function processJobRole(jobRole, location)
 
   //BRONZE
   //Scrape raw data from the URL
-  await scrapeRawData(jobRole, location);
+  //await scrapeRawData(jobRole, location);
 
   //SILVER
   //Extract responsibilities to Silver data folder
