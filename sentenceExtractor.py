@@ -44,5 +44,3 @@ def extractSentencesFromSingleJob(jobRole, sourceFullFilePath):
                 f.write(sentence)
                 print(f"Extracted a sentence from: {sourceFullFilePath} to file: {destinationFilePath}")
  
-
-extractSentences('./BRONZE_DATA')
