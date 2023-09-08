@@ -1,0 +1,19 @@
+Technology Stack
+
+ Operating Systems - Linux/Debian Family/Ubuntu
+ Configuration Management - Chef
+ Containerization - Docker
+ Container Orchestrators - Mesosphere/Kubernetes
+ Scripting Languages - Python/Ruby/Node/Bash
+ CI/CD Tools - Jenkins
+ Network hardware - Arista/Cisco/Fortinet
+ Hardware - HP/SuperMicro
+ Storage - Ceph, S3
+ Database - Scylla, Postgres, Pivotal GreenPlum
+ Message Brokers: RabbitMQ
+ Logging/Search - ELK Stack
+ AWS: VPC/EC2/IAM/S3
+ Networking: TCP / IP, ICMP, SSH, DNS, HTTP, SSL / TLS, Storage systems, RAID, distributed file systems, NFS / iSCSI / CIFS
+
+Who We Are
+We are a group of ambitious individuals who are passionate about creating a revolutionary AI company.

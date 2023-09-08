@@ -1,0 +1,1 @@
+Refreshes are captured through stream analytics and the updated data is pushed to Azure Data Lake Storage (ADLS).

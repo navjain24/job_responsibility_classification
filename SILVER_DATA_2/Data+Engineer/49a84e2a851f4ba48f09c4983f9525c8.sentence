@@ -1,0 +1,1 @@
+To reduce forecast runtime and achieve near real-time analysis, we modified the existing R libraries to SparkR.

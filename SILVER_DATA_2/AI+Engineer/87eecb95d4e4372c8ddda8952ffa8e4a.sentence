@@ -1,0 +1,24 @@
+Responsibilities
+
+ Everything involved in applying a ML model to a production use case, including, designing and coding up the neural network, gathering and refining data, training and tuning the model, deploying it at scale with high throughput and uptime, and analyzing the results in the wild in order to continuously update and improve accuracy and speed
+ Interface closely with the Backend and DevOps teams as well as with our internal data labeling services
+ Utilize OWASP top 10 techniques to secure code from vulnerabilities
+ Maintain awareness of industry best practices for data maintenance handling as it relates to your role
+ Adhere to policies, guidelines and procedures pertaining to the protection of information assets
+ Report actual or suspected security and/or policy violations/breaches to an appropriate authority
+
+Requirements
+
+ You have an undergraduate or graduate degree in computer science or similar technical field, with significant coursework in mathematics or statistics
+ You have 1-2 years industry machine learning experience
+ You have successfully trained and deployed a deep learning machine model (image, NLP, video, or audio) into production, with measurably improved performance over baseline, either in industry or as a personal project
+ You have strong experience with a high-level machine learning frameworks such as Tensorflow, Caffe, or Torch, and familiarity with the others
+ You know the ins and outs of Python, especially as it applies to the above ML frameworks
+ You are capable of quickly coding and prototyping data pipelines involving any combination of Python, Node, bash, and linux command-line tools, especially when applied to large datasets consisting of millions of files
+ You have a working knowledge of the following technologies, or are not afraid of picking it up on the fly: C++, Scala/Spark, SQL, Cassandra, Docker
+ You are up-to-date on the latest deep neural net research and architectures, both in understanding the theory and motivations behind the techniques, as well as how to implement them in the ML framework of your choice
+ You have great communication skills and ability to work with others
+ You are a strong team player, with a do-whatever-it-takes attitude
+
+Who We Are
+We are a group of ambitious individuals who are passionate about creating a revolutionary AI company.

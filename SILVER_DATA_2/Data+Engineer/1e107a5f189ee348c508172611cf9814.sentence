@@ -1,0 +1,1 @@
+An Azure Logic App reads the image content utilizing Optical Character Recognition (OCR) API to update attendance records.
