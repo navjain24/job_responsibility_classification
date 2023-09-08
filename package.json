@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/navjain24/job_responsibility_classification#readme",
   "dependencies": {
+    "@xenova/transformers": "^2.5.1",
     "axios": "^1.4.0",
     "natural": "^6.5.0",
     "wink-eng-lite-web-model": "^1.5.2",
