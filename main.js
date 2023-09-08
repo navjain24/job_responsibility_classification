@@ -183,7 +183,7 @@ async function extractResponsibilitiesFromSingleJob(jobRole, location, fileName)
   
   sentences.forEach(async (sentence, index) => {
     const embedding = await st.createEmbedding(sentence);
-    destinationWriteStream.write(`${index}:${embedding}:${sentence.trim()}\n`);
+    destinationWriteStream.write(`${index}:${embedding.length}:${sentence.trim()}\n`);
   });
 }
 
