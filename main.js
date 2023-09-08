@@ -135,22 +135,16 @@ async function extractResponsibilities(jobRole, location)
 
   console.log(`[Silver] Processing folder: ${sourceFolder}`);
 
-
-  // Write the data to a CSV file
-  var writeStream = fs.createWriteStream(destinationFilePath);
-  var header= "Job Role"+"\t"+"Job Location"+"\t"+"Sentence"+"\n";
-  writeStream.write(header);
-
   const files = fs.readdirSync(sourceFolder)
 
   //process all files using forEach
   files.forEach(async function (file) {        
     const fullFilePath = `${parentFolder}/${BRONZE_DATA}/${file}`;
-    await extractResponsibilitiesFromSingleJob(fullFilePath, writeStream);
+    await extractResponsibilitiesFromSingleJob(fullFilePath);
   });
 }
 
-async function extractResponsibilitiesFromSingleJob(fullFilePath, writeStream)
+async function extractResponsibilitiesFromSingleJob(fullFilePath)
 {
   console.log(`Processing file: ${fullFilePath}`); 
 
@@ -162,8 +156,13 @@ async function extractResponsibilitiesFromSingleJob(fullFilePath, writeStream)
   const jobDescription = jobDescriptionElement.text();
 
   const sentences = await tokenizer.tokenize(jobDescription);
+   
+  //Create a new file to store the output
+  const destinationFilePath = `${fullFilePath}.txt`;
+  var destinationWriteStream = fs.createWriteStream(destinationFilePath);
+  
   sentences.forEach((sentence, index) => {
-    writeStream.write(`${index}:${sentence.trim()}\n`);
+    destinationWriteStream.write(`${index}:${sentence.trim()}\n`);
   });
 }
 
