@@ -20,6 +20,6 @@ Here is the updated pipeline (https://github.com/navjain24/job_responsibility_cl
         Store each embedding into its own file with the .embedding extension in GOLD_DATA folder.
 
 Next:
-Use the master list to generate embeddings (waiting on you) for each master job responsibility.
+Use the master list to generate embeddings for each master job responsibility.
 Compare each embedding with master list embeddings and rank the embeddings with a similarity score
 Generate a report with top N job responsibilities per job role.
