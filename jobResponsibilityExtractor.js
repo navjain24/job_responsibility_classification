@@ -1,6 +1,6 @@
 import cheerio from 'cheerio';
 import fs from 'fs';
-import { makeDirIfNeeded, SILVER_DATA } from './common.js';
+import { makeDirIfNeeded, BRONZE_DATA } from './common.js';
 import path from 'path';
 
 export async function extractResponsibilities(rootFolder) {
@@ -39,7 +39,7 @@ function extractResponsibilitiesFromSingleJob(jobRole, sourceFullFilePath) {
     //const sentences = se.extractSentences(jobDescription);
 
     //Create a new file to store the output
-    const destinationRootFolder = SILVER_DATA
+    const destinationRootFolder = BRONZE_DATA
     makeDirIfNeeded(destinationRootFolder);
 
     const destinationFolder = `${destinationRootFolder}/${jobRole}`;
