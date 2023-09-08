@@ -1,14 +1,14 @@
-0:Tangelo aims to improve healthy food access and promote healthier lifestyles by making nutritious, affordable, and delicious food options accessible through a benefits platform for low-income families and those with chronic conditions.
-1:Our platform provides subsidized medically tailored meals and healthy grocery delivery at reduced costs, or even free, through partnerships with insurance companies, governments, universities, non-profits, and employers.
-2:The Lead DevSecOps Engineer at Tangelo will be responsible for ensuring the security and reliability of our technology solutions.
-3:This includes designing, developing, and maintaining secure systems and processes, monitoring the quality of data and network security, and presenting findings and insights to stakeholders.
-4:In this role, you will have the opportunity to work on a range of projects, from implementing secure data visualization dashboards to writing secure scripts for serverless functions.
-5:You will also play a key role in ensuring the safety and privacy of our customers' data and optimizing business strategies.
-6:We are looking for someone with a passion for security, a strong work ethic, and a commitment to excellence.
-7:You should possess a deep understanding of security protocols, network security, and secure data storage solutions.
-8:The ideal candidate will be a self-starter and have the ability to work in a fast-paced, dynamic environment.
-9:If you have the skills and experience we're looking for and are motivated by the opportunity to make a difference in the security of our technology, then we want to speak with you!
-10:Role Scope:
+0:235:Tangelo aims to improve healthy food access and promote healthier lifestyles by making nutritious, affordable, and delicious food options accessible through a benefits platform for low-income families and those with chronic conditions.
+1:220:Our platform provides subsidized medically tailored meals and healthy grocery delivery at reduced costs, or even free, through partnerships with insurance companies, governments, universities, non-profits, and employers.
+2:129:The Lead DevSecOps Engineer at Tangelo will be responsible for ensuring the security and reliability of our technology solutions.
+3:189:This includes designing, developing, and maintaining secure systems and processes, monitoring the quality of data and network security, and presenting findings and insights to stakeholders.
+4:182:In this role, you will have the opportunity to work on a range of projects, from implementing secure data visualization dashboards to writing secure scripts for serverless functions.
+5:123:You will also play a key role in ensuring the safety and privacy of our customers' data and optimizing business strategies.
+6:108:We are looking for someone with a passion for security, a strong work ethic, and a commitment to excellence.
+7:115:You should possess a deep understanding of security protocols, network security, and secure data storage solutions.
+8:109:The ideal candidate will be a self-starter and have the ability to work in a fast-paced, dynamic environment.
+9:180:If you have the skills and experience we're looking for and are motivated by the opportunity to make a difference in the security of our technology, then we want to speak with you!
+10:1233:Role Scope:
   
   Engage with the development team throughout the product lifecycle, from ideation to delivery and support 
   Own and project expertise in the DevSecOps domain to ensure the highest standards of security and reliability 
@@ -32,4 +32,4 @@
   Unlimited PTO 
   Company laptop 
   Remote first!
-11:Work from anywhere
+11:18:Work from anywhere

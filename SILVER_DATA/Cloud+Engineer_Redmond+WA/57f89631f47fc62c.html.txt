@@ -1,26 +1,26 @@
-0:Our client, a Global Medical Device Manufacture has an immediate opening for a Sr. Quality Assurance Engineer for a 12 Month + Contract.
-1:Our client offers results-driven people a place where they can make a difference – every day!
-2:You will also have the opportunity to work with other like-minded, self-directed and detail oriented Top Talents in an extremely collaborative and professional environment.
-3:Position Description
-4:Gather and analyze data to identify opportunities for quality improvements.
-5:Drive failure investigation to root cause when applicable using known engineering problem-solving techniques.
-6:Lead and/or Support NC/CAPA process and NC/CAPA Investigations.
-7:Resolve Potential Medical device reporting(MDR) investigations.
-8:Lead product failure investigations to completion.
-9:Champion product failure investigations to closure.
-10:Document each investigation thoroughly in accordance with internal procedures within complaint handling system(s).
-11:Conduct/Update risk analyses and track all findings, along with development of Risk Management portfolio, as required.
-12:Provide Service Report and Complaint trending.
-13:Prior related experience in a regulated environment highly desired.
-14:Prior related experience investigating, troubleshooting and root causing highly preferred.
-15:Eagerness to assist internal and external customers
+0:136:Our client, a Global Medical Device Manufacture has an immediate opening for a Sr. Quality Assurance Engineer for a 12 Month + Contract.
+1:93:Our client offers results-driven people a place where they can make a difference – every day!
+2:172:You will also have the opportunity to work with other like-minded, self-directed and detail oriented Top Talents in an extremely collaborative and professional environment.
+3:20:Position Description
+4:75:Gather and analyze data to identify opportunities for quality improvements.
+5:109:Drive failure investigation to root cause when applicable using known engineering problem-solving techniques.
+6:63:Lead and/or Support NC/CAPA process and NC/CAPA Investigations.
+7:63:Resolve Potential Medical device reporting(MDR) investigations.
+8:50:Lead product failure investigations to completion.
+9:51:Champion product failure investigations to closure.
+10:114:Document each investigation thoroughly in accordance with internal procedures within complaint handling system(s).
+11:118:Conduct/Update risk analyses and track all findings, along with development of Risk Management portfolio, as required.
+12:46:Provide Service Report and Complaint trending.
+13:67:Prior related experience in a regulated environment highly desired.
+14:90:Prior related experience investigating, troubleshooting and root causing highly preferred.
+15:146:Eagerness to assist internal and external customers
  Manage projects in a timely manner
  Participate in internal and external audits, as required.
-16:Trackwise Experience highly desired.
-17:Qualifications
-18:Bachelor’s Degree in an applicable engineering discipline preferred: Biomedical, Process or Mechanical Engineering
+16:36:Trackwise Experience highly desired.
+17:14:Qualifications
+18:327:Bachelor’s Degree in an applicable engineering discipline preferred: Biomedical, Process or Mechanical Engineering
  Minimum of 3-5 years in a quality role for a medical device company: this requirement may be satisfied through equivalent experience obtained from any technical role within a regulated manufacturing environment.
-19:Professional certification in a quality subject matter (e.g., MS, CQE, CRE, Six Sigma) is highly desirable
+19:633:Professional certification in a quality subject matter (e.g., MS, CQE, CRE, Six Sigma) is highly desirable
  Excellent verbal, written and interpersonal communication skills
  Excellent problem-solving and analytical skills
  Excellent technical writing skills
@@ -30,24 +30,24 @@
  Ability to read and interpret engineering drawings and other technical specifications preferred
  MS Suite Experience with PowerBI knowledge a plus
  Knowledge of Quality Concepts (e.g. Risk Management, CAPA, Audits, Statistics)
-20:We are an equal opportunity employer.
-21:All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, and status as a protected veteran.
-22:Job Types: Full-time, Contract
+20:37:We are an equal opportunity employer.
+21:213:All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, and status as a protected veteran.
+22:70:Job Types: Full-time, Contract
 Pay: $40.00 - $46.00 per hour
 Benefits:
-23:401(k)
+23:76:401(k)
  Dental insurance
  Health insurance
  Life insurance
  Vision insurance
-24:Experience level:
-25:3 years
-26:Schedule:
-27:Monday to Friday
-28:Ability to commute/relocate:
-29:Redmond, WA 98052: Reliably commute or planning to relocate before starting work (Required)
-30:Education:
-31:Bachelor's (Required)
-32:Experience:
-33:Trackwise: 1 year (Required)
-34:Work Location: In person
+24:17:Experience level:
+25:7:3 years
+26:9:Schedule:
+27:16:Monday to Friday
+28:28:Ability to commute/relocate:
+29:91:Redmond, WA 98052: Reliably commute or planning to relocate before starting work (Required)
+30:10:Education:
+31:21:Bachelor's (Required)
+32:11:Experience:
+33:28:Trackwise: 1 year (Required)
+34:24:Work Location: In person

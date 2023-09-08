@@ -1,50 +1,50 @@
-0:Bachelor’s degree in Computer Engineering or equivalent work experience.
-1:5+ years of experience in RF design and/or verification 
+0:72:Bachelor’s degree in Computer Engineering or equivalent work experience.
+1:127:5+ years of experience in RF design and/or verification 
  Experience in distributed version control systems (DVCS) such as Git.
-2:Experience in programming language such as Python, Java, C++ or Shell.
-3:Knowledge of professional software engineering practices and industry best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.
-4:Project Kuiper is an initiative to launch a constellation of Low Earth Orbit satellites that will provide low-latency, high-speed broadband connectivity to unserved and underserved communities around the world.
-5:The Role 
+2:70:Experience in programming language such as Python, Java, C++ or Shell.
+3:241:Knowledge of professional software engineering practices and industry best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.
+4:210:Project Kuiper is an initiative to launch a constellation of Low Earth Orbit satellites that will provide low-latency, high-speed broadband connectivity to unserved and underserved communities around the world.
+5:196:The Role 
 We are looking for a skilled and enthusiastic engineer to support our team of Payload integration and verification engineers as we build next-generation communications systems for space.
-6:In this fast-paced role, you will be responsible for designing, building, and maintaining the related infrastructure used by these teams to create a broadband solution with global impact.
-7:Creativity, problem-solving, and evaluating engineering trade-offs are all must-haves for this role.
-8:Audacious goals require persistent cleverness.
-9:Our tools are critical to developer productivity, which means architecting a scalable, fault-tolerant system is essential.
-10:You will engage with experienced, cross-disciplinary staff to conceive and design innovative solutions.
-11:You must be detail oriented, responsive, flexible and able to succeed within an open collaborative environment.
-12:You will take part in designing solutions to hard problems, alongside a team of the world’s best engineers working toward one shared goal: seeing our satellites launching to form the world’s next global communications network.
-13:Export Control Requirement 
+6:187:In this fast-paced role, you will be responsible for designing, building, and maintaining the related infrastructure used by these teams to create a broadband solution with global impact.
+7:100:Creativity, problem-solving, and evaluating engineering trade-offs are all must-haves for this role.
+8:46:Audacious goals require persistent cleverness.
+9:122:Our tools are critical to developer productivity, which means architecting a scalable, fault-tolerant system is essential.
+10:103:You will engage with experienced, cross-disciplinary staff to conceive and design innovative solutions.
+11:111:You must be detail oriented, responsive, flexible and able to succeed within an open collaborative environment.
+12:226:You will take part in designing solutions to hard problems, alongside a team of the world’s best engineers working toward one shared goal: seeing our satellites launching to form the world’s next global communications network.
+13:255:Export Control Requirement 
 Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
-14:Key job responsibilities
-15:Responsible for the development and maintenance of key infrastructure to support a communications system team’s development and verification work.
-16:Analyzing and mitigating potential self-interference and other system interference issues.
-17:Implementing, validating, and optimizing RF lab set-ups composed of antenna, measurement equipment, and prototype equipment.
-18:Analyzing RF link budget / line-up for test set-ups and for the deployed system.
-19:Configuring test equipment for automated operation: satellite link emulator, spectrum analyzer, signal generator, etc. 
+14:24:Key job responsibilities
+15:146:Responsible for the development and maintenance of key infrastructure to support a communications system team’s development and verification work.
+16:90:Analyzing and mitigating potential self-interference and other system interference issues.
+17:124:Implementing, validating, and optimizing RF lab set-ups composed of antenna, measurement equipment, and prototype equipment.
+18:80:Analyzing RF link budget / line-up for test set-ups and for the deployed system.
+19:360:Configuring test equipment for automated operation: satellite link emulator, spectrum analyzer, signal generator, etc. 
  Responsible for designing, building, and maintaining the CI/CD and related infrastructure 
  A day in the life 
 Will work with other team members to investigate design approaches, prototype new technology and evaluate technical feasibility.
-20:Driving your own projects, from design through planning to execution.
-21:Also work with teams across Amazon on cross-team initiatives.
-22:Planning and coordinating feature improvements and upgrades.
-23:Analyzing and improving availability, efficiency, capacity, scalability, security and performance of our services.
-24:Developing and maintaining tools.
-25:We are open to hiring candidates to work out of one of the following locations:
-26:Redmond, WA, USA
-27:Experience in using modern CI/CD tools such as Bamboo, Jenkins, Zuul.
-28:Experience in managing complex build systems within Continuous Integration setup.
-29:Knowledge of Jira/ Confluence administration and development 
+20:69:Driving your own projects, from design through planning to execution.
+21:61:Also work with teams across Amazon on cross-team initiatives.
+22:60:Planning and coordinating feature improvements and upgrades.
+23:114:Analyzing and improving availability, efficiency, capacity, scalability, security and performance of our services.
+24:33:Developing and maintaining tools.
+25:79:We are open to hiring candidates to work out of one of the following locations:
+26:16:Redmond, WA, USA
+27:69:Experience in using modern CI/CD tools such as Bamboo, Jenkins, Zuul.
+28:81:Experience in managing complex build systems within Continuous Integration setup.
+29:163:Knowledge of Jira/ Confluence administration and development 
  Excellent customer service, communication, documentation, work prioritization and analytical skills.
-30:Ability and willingness to go above and beyond one’s comfort zone when it comes to about other services to help integrate and improve them.
-31:Tuning flows for performance.
-32:A strong understanding of the importance of data-driven decisions as well as how to create, store, and analyze large datasets.
-33:Passion to invent and create new solutions, challenge the status quo and drive positive change.
-34:Amazon is committed to a diverse and inclusive workplace.
-35:Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
-36:For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
-37:Our compensation reflects the cost of labor across several US geographic markets.
-38:The base pay for this position ranges from $115,400/year in our lowest geographic market up to $212,800/year in our highest geographic market.
-39:Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience.
-40:Amazon is a total compensation company.
-41:Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits.
-42:For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site.
+30:139:Ability and willingness to go above and beyond one’s comfort zone when it comes to about other services to help integrate and improve them.
+31:29:Tuning flows for performance.
+32:126:A strong understanding of the importance of data-driven decisions as well as how to create, store, and analyze large datasets.
+33:95:Passion to invent and create new solutions, challenge the status quo and drive positive change.
+34:57:Amazon is committed to a diverse and inclusive workplace.
+35:227:Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+36:132:For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+37:81:Our compensation reflects the cost of labor across several US geographic markets.
+38:142:The base pay for this position ranges from $115,400/year in our lowest geographic market up to $212,800/year in our highest geographic market.
+39:134:Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience.
+40:39:Amazon is a total compensation company.
+41:223:Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits.
+42:157:For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site.

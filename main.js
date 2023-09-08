@@ -2,6 +2,8 @@ const puppeteer = require('puppeteer');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
+const st = require('./sentenceTransformer.js');
+
 //wink-nlp
 const winkNlp = require ('wink-nlp');
 // Load english language model — light version.
@@ -180,7 +182,8 @@ async function extractResponsibilitiesFromSingleJob(jobRole, location, fileName)
   var destinationWriteStream = fs.createWriteStream(destinationFilePath);
   
   sentences.forEach((sentence, index) => {
-    destinationWriteStream.write(`${index}:${sentence.trim()}\n`);
+    const embedding = st.createEmbedding(sentence);
+    destinationWriteStream.write(`${index}:${embedding}:${sentence.trim()}\n`);
   });
 }
 

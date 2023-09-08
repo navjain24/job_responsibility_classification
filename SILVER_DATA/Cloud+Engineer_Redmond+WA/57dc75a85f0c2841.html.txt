@@ -1,47 +1,47 @@
-0:Exciting Hybrid role for a Sr Sales Engineer with experience supporting Govt, Medical, Education clients for a Broadband provider
+0:190:Exciting Hybrid role for a Sr Sales Engineer with experience supporting Govt, Medical, Education clients for a Broadband provider
 This candidate may have the ability to live in WA, OR or CA.
-1:Responsibilities:
-2:Collaborate with Account Teams to provide technical sales support and develop proposals for Enterprise product suite.
-3:Attend customer meetings to understand requirements and recommend appropriate solutions.
-4:Prepare technical proposals, including network topologies, drawings, specifications, and pricing requests.
-5:Act as a technical liaison from pre-sales to post-sales, building relationships with customers.
-6:Stay updated with industry technology trends through self-study, training, and certifications.
-7:Provide technical training and development to support Enterprise Account teams.
-8:Maintain product knowledge and update training materials for the Sales Engineering organization.
-9:Exhibit a professional demeanor, strong communication skills, and the ability to work in a team environment.
-10:Travel within the assigned territory as needed.
-11:Requirements:
-12:Minimum 5-7 years of experience supporting telecommunications services to Strategic accounts or a combination of Enterprise IT experience.
-13:Proven track record in building and executing technical solutions and sales strategies for Strategic accounts.
-14:Expertise in at least one of the products and/or services.
-15:Strong networking knowledge, including IP routing protocols (MPLS, BGP, VPN), Cable industry technologies (DOCSIS, PON, CMDW), SD-WAN, and Voice/Unified Communications technologies.
-16:Familiarity with optical networks (TDM, CWDM, DWDM) and Layer 1 Access Networks (Optical, Hybrid Fiber Coaxial, Twisted Pair Copper).
-17:Experience with Layer 2 and Layer 3 networking and protocols (Switching, VLANs, Spanning Tree Protocol, Routing protocols, Security).
-18:Previous experience supporting Enterprise, Carrier, and ISP customers, and familiarity with MAN/WAN technologies.
-19:Knowledge of IP Transit, Peering, TCP/IP, and Border Gateway Protocol (BGP).
-20:Understanding of Voice networking technologies such as VoIP, PRI, SIP, TDM, and Hosted PBX.
-21:Ability to work with industry-specific sales channels (medical, strategic, financial, etc.).
-22:Strong computer skills, including MS Office, Google G-Suite, Visio, and CRM tools (Sugar, SalesForce).
-23:Attention to detail, organizational capabilities, and good time management skills.
-24:Bachelor's degree or equivalent experience.
-25:At least one certification supporting the product and/or services (Cisco, Ciena, AWS, Microsoft, Adva, etc.).
-26:**Candidate will have successfully passed a Background Check.
-27:Start date is contingent on client**
+1:17:Responsibilities:
+2:117:Collaborate with Account Teams to provide technical sales support and develop proposals for Enterprise product suite.
+3:88:Attend customer meetings to understand requirements and recommend appropriate solutions.
+4:106:Prepare technical proposals, including network topologies, drawings, specifications, and pricing requests.
+5:95:Act as a technical liaison from pre-sales to post-sales, building relationships with customers.
+6:94:Stay updated with industry technology trends through self-study, training, and certifications.
+7:79:Provide technical training and development to support Enterprise Account teams.
+8:96:Maintain product knowledge and update training materials for the Sales Engineering organization.
+9:108:Exhibit a professional demeanor, strong communication skills, and the ability to work in a team environment.
+10:47:Travel within the assigned territory as needed.
+11:13:Requirements:
+12:138:Minimum 5-7 years of experience supporting telecommunications services to Strategic accounts or a combination of Enterprise IT experience.
+13:110:Proven track record in building and executing technical solutions and sales strategies for Strategic accounts.
+14:58:Expertise in at least one of the products and/or services.
+15:181:Strong networking knowledge, including IP routing protocols (MPLS, BGP, VPN), Cable industry technologies (DOCSIS, PON, CMDW), SD-WAN, and Voice/Unified Communications technologies.
+16:133:Familiarity with optical networks (TDM, CWDM, DWDM) and Layer 1 Access Networks (Optical, Hybrid Fiber Coaxial, Twisted Pair Copper).
+17:133:Experience with Layer 2 and Layer 3 networking and protocols (Switching, VLANs, Spanning Tree Protocol, Routing protocols, Security).
+18:113:Previous experience supporting Enterprise, Carrier, and ISP customers, and familiarity with MAN/WAN technologies.
+19:76:Knowledge of IP Transit, Peering, TCP/IP, and Border Gateway Protocol (BGP).
+20:91:Understanding of Voice networking technologies such as VoIP, PRI, SIP, TDM, and Hosted PBX.
+21:92:Ability to work with industry-specific sales channels (medical, strategic, financial, etc.).
+22:102:Strong computer skills, including MS Office, Google G-Suite, Visio, and CRM tools (Sugar, SalesForce).
+23:82:Attention to detail, organizational capabilities, and good time management skills.
+24:43:Bachelor's degree or equivalent experience.
+25:109:At least one certification supporting the product and/or services (Cisco, Ciena, AWS, Microsoft, Adva, etc.).
+26:61:**Candidate will have successfully passed a Background Check.
+27:106:Start date is contingent on client**
 Job Type: Full-time
 Pay: $120,000.00 - $125,000.00 per year
 Benefits:
-28:401(k)
+28:76:401(k)
  Dental insurance
  Health insurance
  Life insurance
  Vision insurance
-29:Schedule:
-30:Monday to Friday
-31:Supplemental pay types:
-32:Bonus pay
-33:Experience:
-34:SD-WAN: 2 years (Required)
+29:9:Schedule:
+30:16:Monday to Friday
+31:23:Supplemental pay types:
+32:9:Bonus pay
+33:11:Experience:
+34:56:SD-WAN: 2 years (Required)
  Ethernet: 2 years (Required)
-35:Willingness to travel:
-36:25% (Required)
-37:Work Location: Hybrid remote in Kirkland, WA 98033
+35:22:Willingness to travel:
+36:14:25% (Required)
+37:50:Work Location: Hybrid remote in Kirkland, WA 98033

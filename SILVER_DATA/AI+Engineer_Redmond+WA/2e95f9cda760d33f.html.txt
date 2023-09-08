@@ -1,25 +1,25 @@
-0:About the Company
+0:115:About the Company
     
    
      Join AT&T and reimagine the communications and technologies that connect the world.
-1:Our Consumer Technology eXperience team is delivering innovative and reliable technology solutions to power differentiated, simplified customer experiences.
-2:Bring your bold ideas and fearless risk-taking to redefine connectivity and transform how the world shares stories and experiences that matter.
-3:When you step into a career with AT&T, you won’t just imagine the future-you’ll create it.
-4:About the Team
+1:156:Our Consumer Technology eXperience team is delivering innovative and reliable technology solutions to power differentiated, simplified customer experiences.
+2:143:Bring your bold ideas and fearless risk-taking to redefine connectivity and transform how the world shares stories and experiences that matter.
+3:90:When you step into a career with AT&T, you won’t just imagine the future-you’ll create it.
+4:250:About the Team
     
    
      The Data Analytics and Engineering team provides the critical data points that communicate key insights into the SAFe | Agile operations of CTX teams to increase velocity, improve quality and drive continuous improvement.
-5:Provide technical solutions for processes and tools as the organization transforms and grows.
-6:About the Job
+5:93:Provide technical solutions for processes and tools as the organization transforms and grows.
+6:215:About the Job
     
    
      The Data Analytics and Engineering team is seeking an energetic and experienced individual to support full stack system solutions that service a wide variety of internal business clients.
-7:This is a senior- level role (non-supervisory) and will be responsible for integrating data from disparate data sources and types(including Azure pipelines) and engineering end to end solutions that include data visualizations.
-8:The role will also be responsible for collecting, managing, and converting raw data into information that can be used by data analysts and business analysts.
-9:The ideal candidate is an experienced data pipeline builder, data wrangler who enjoys optimizing data systems and building them from the ground up.
-10:Equally, the candidate should also have solid visualization skills and experience implementing predictive analytic models.
-11:The Data Engineer will support and collaborate with our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects.
-12:Responsibilities and Day-to-Day View
+7:227:This is a senior- level role (non-supervisory) and will be responsible for integrating data from disparate data sources and types(including Azure pipelines) and engineering end to end solutions that include data visualizations.
+8:157:The role will also be responsible for collecting, managing, and converting raw data into information that can be used by data analysts and business analysts.
+9:147:The ideal candidate is an experienced data pipeline builder, data wrangler who enjoys optimizing data systems and building them from the ground up.
+10:122:Equally, the candidate should also have solid visualization skills and experience implementing predictive analytic models.
+11:245:The Data Engineer will support and collaborate with our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects.
+12:1325:Responsibilities and Day-to-Day View
     
    
      Assembling large, complex sets of data that meet non-functional and functional business requirements
@@ -52,16 +52,16 @@
     
    
      Experience leveraging PowerBI.
-13:Experience in custom ETL design, implementation, and maintenance
+13:201:Experience in custom ETL design, implementation, and maintenance
     
    
      Experience with schema design and dimensional data modeling
     
    
      Experience with machine learning and automation.
-14:Experience with AI is not required but a plus.
-15:Experience with Python, SCALA, SPARK, .
-16:NET
+14:46:Experience with AI is not required but a plus.
+15:39:Experience with Python, SCALA, SPARK, .
+16:500:NET
     
    
      Experience with SQL programming
@@ -82,9 +82,9 @@
     
    
      Our Senior-System Engineers earn between $115,600 - $231,100.
-17:Not to mention all the other amazing rewards that working at AT&T offers.
-18:Individual starting salary within this range may depend on geography, experience, expertise, and education/training.
-19:Joining our team comes with amazing perks and benefits:
+17:73:Not to mention all the other amazing rewards that working at AT&T offers.
+18:116:Individual starting salary within this range may depend on geography, experience, expertise, and education/training.
+19:1081:Joining our team comes with amazing perks and benefits:
     
    
     Medical/Dental/Vision coverage
@@ -131,9 +131,9 @@
     
    
     AT&T is leading the way to the future – for customers, businesses and the industry.
-20:We're developing new technologies to make it easier for our customers to stay connected to their world.
-21:Together, we’ve built a premier integrated communications and entertainment company and an amazing place to work and grow.
-22:Team up with industry innovators every time you walk into work, creating the world you always imagined.
-23:Ready to #transformdigital with us?
-24:Apply now!
-25:
+20:103:We're developing new technologies to make it easier for our customers to stay connected to their world.
+21:122:Together, we’ve built a premier integrated communications and entertainment company and an amazing place to work and grow.
+22:103:Team up with industry innovators every time you walk into work, creating the world you always imagined.
+23:35:Ready to #transformdigital with us?
+24:10:Apply now!
+25:0:

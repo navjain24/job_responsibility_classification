@@ -1,19 +1,19 @@
-0:About Hive
+0:178:About Hive
 Hive is the leading provider of cloud-based AI solutions for content understanding, trusted by the world’s largest, fastest growing, and most innovative organizations.
-1:The company empowers developers with a portfolio of best-in-class, pre-trained AI models, serving billions of customer API requests every month.
-2:Hive also offers turnkey software applications powered by proprietary AI models and datasets, enabling breakthrough use cases across industries.
-3:Together, Hive’s solutions are transforming content moderation, brand protection, sponsorship measurement, context-based ad targeting, and more.
-4:Hive has raised over $120M in capital from leading investors, including General Catalyst, 8VC, Glynn Capital, Bain & Company, Visa Ventures, and others.
-5:We have over 250 employees globally in our San Francisco, Seattle, and Delhi offices.
-6:Please reach out if you are interested in joining the future of AI!
-7:DevOps and Systems TeamOur unique machine learning needs led us to open our own data centers, with an emphasis on GPU resources.
-8:Even with these data centers, we maintain a hybrid infrastructure into AWS to power some parts of our consumer apps.
-9:As we continue to commercialize our machine learning models, we also need to grow our DevOps and Systems team to maintain the reliability of a SaaS offering for our customers.
-10:Our ideal candidate is someone who is able to thrive in an unstructured environment and takes automation seriously.
-11:You believe there is no task that can’t be automated and no server scale too large.
-12:You take pride in ensuring developers can deploy their servers without worrying about downtime.
-13:Responsibilities
-14:Automate manual operational processes
+1:144:The company empowers developers with a portfolio of best-in-class, pre-trained AI models, serving billions of customer API requests every month.
+2:144:Hive also offers turnkey software applications powered by proprietary AI models and datasets, enabling breakthrough use cases across industries.
+3:144:Together, Hive’s solutions are transforming content moderation, brand protection, sponsorship measurement, context-based ad targeting, and more.
+4:152:Hive has raised over $120M in capital from leading investors, including General Catalyst, 8VC, Glynn Capital, Bain & Company, Visa Ventures, and others.
+5:85:We have over 250 employees globally in our San Francisco, Seattle, and Delhi offices.
+6:67:Please reach out if you are interested in joining the future of AI!
+7:128:DevOps and Systems TeamOur unique machine learning needs led us to open our own data centers, with an emphasis on GPU resources.
+8:116:Even with these data centers, we maintain a hybrid infrastructure into AWS to power some parts of our consumer apps.
+9:175:As we continue to commercialize our machine learning models, we also need to grow our DevOps and Systems team to maintain the reliability of a SaaS offering for our customers.
+10:115:Our ideal candidate is someone who is able to thrive in an unstructured environment and takes automation seriously.
+11:83:You believe there is no task that can’t be automated and no server scale too large.
+12:95:You take pride in ensuring developers can deploy their servers without worrying about downtime.
+13:16:Responsibilities
+14:722:Automate manual operational processes
  Improve workflows of developer, data, and machine learning teams
  Manage integration and deployment tooling
  Create, maintain, monitor, secure and audit infrastructure
@@ -23,15 +23,15 @@ Hive is the leading provider of cloud-based AI solutions for content understandi
  Maintain awareness of industry best practices for data maintenance handling as it relates to your role
  Adhere to policies, guidelines and procedures pertaining to the protection of information assets
  Report actual or suspected security and/or policy violations/breaches to an appropriate authority
-15:Requirements
-16:Minimum 1 - 2 years of previous experience in development, operations, IT, or a related field
+15:12:Requirements
+16:460:Minimum 1 - 2 years of previous experience in development, operations, IT, or a related field
  Comfortable working on Linux infrastructures (Debian) via the CLIAble to learn quickly in a fast-paced environment
  Able to multitask, prioritize, and manage time efficiently independently
  Able to physically lift equipment at least 30 pounds
  Can communicate effectively across teams and management levels
  Degree in computer science, or similar, is an added plus!
-17:Technology Stack
-18:Operating Systems - Linux/Debian Family/Ubuntu
+17:16:Technology Stack
+18:579:Operating Systems - Linux/Debian Family/Ubuntu
  Configuration Management - Chef/Ansible/Puppet/Salt
  Containerization - Docker
  Container Orchestrators - Mesosphere/Kubernetes
@@ -45,17 +45,17 @@ Hive is the leading provider of cloud-based AI solutions for content understandi
  Logging/Search - ELK Stack
  AWS: VPC/EC2/IAM/S3
  Networking: TCP / IP, ICMP, SSH, DNS, HTTP, SSL / TLS, Storage systems, RAID, distributed file systems, NFS / iSCSI / CIFS
-19:Who We Are 
+19:113:Who We Are 
 We are a group of ambitious individuals who are passionate about creating a revolutionary AI company.
-20:At Hive, you will have a steep learning curve and an opportunity to contribute to one of the fastest growing AI start-ups in San Francisco.
-21:The work you do here will have a noticeable and direct impact on the development of the company.
-22:Thank you for your interest in Hive and we hope to meet you soon!
-23:Employees are eligible to participate in a number of Company-sponsored benefits, including health, vision and dental insurance.
-24:Employees are also eligible to participate in a gym membership as part of our commitment to employee wellness.
-25:In addition, employees will be entitled to paid vacation in accordance with the Company's vacation policy.
-26:Hired applicant may receive an equity grant in the form of an option to purchase stock in the future for a specified price.
-27:Job Type: Full-time
+20:139:At Hive, you will have a steep learning curve and an opportunity to contribute to one of the fastest growing AI start-ups in San Francisco.
+21:96:The work you do here will have a noticeable and direct impact on the development of the company.
+22:65:Thank you for your interest in Hive and we hope to meet you soon!
+23:127:Employees are eligible to participate in a number of Company-sponsored benefits, including health, vision and dental insurance.
+24:110:Employees are also eligible to participate in a gym membership as part of our commitment to employee wellness.
+25:106:In addition, employees will be entitled to paid vacation in accordance with the Company's vacation policy.
+26:123:Hired applicant may receive an equity grant in the form of an option to purchase stock in the future for a specified price.
+27:69:Job Type: Full-time
 Pay: $120,000.00 - $180,000.00 per year
 Schedule:
-28:Monday to Friday
-29:Work Location: In person
+28:16:Monday to Friday
+29:24:Work Location: In person

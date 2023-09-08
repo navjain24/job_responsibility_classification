@@ -1,9 +1,9 @@
-0:Summary of Position:
+0:145:Summary of Position:
   In this role, you will work cross-functionally to gather requirements, design proper controls, and implement the strategy.
-1:This includes team systems and tools, lab networks, and access to cloud infrastructure.
-2:This position will be working with information technology to design and develop networks and systems based on the needs of the organization.
-3:The Engineer will conduct research, analyze data, develop prototypes, and troubleshoot errors.
-4:Essential Functions:
+1:87:This includes team systems and tools, lab networks, and access to cloud infrastructure.
+2:140:This position will be working with information technology to design and develop networks and systems based on the needs of the organization.
+3:94:The Engineer will conduct research, analyze data, develop prototypes, and troubleshoot errors.
+4:1674:Essential Functions:
  
    Provision and manage customer's infrastructure, including EC2, CloudFormation Templates, AppStream, and Load Balancers
    Build dashboards and alarming to drive Operational Excellence

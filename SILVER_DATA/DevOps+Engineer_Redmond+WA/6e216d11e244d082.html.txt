@@ -1,13 +1,13 @@
-0:HeadLight, founded in 2005, delivers industry-leading technology solutions that have revolutionized the construction industry.
-1:Our photo-driven inspection and verification technology enables our customers to streamline and mobilize project inspections, communications, and documentation leading to superior project deliveries.
-2:We have a variety of customers ranging from state departments of transportation, top-tier consulting engineering firms, contractors, equipment manufacturers, and industry-related materials companies.
-3:The opportunities to shape and provide efficiencies to constructions are endless!
-4:As a DevOps/ Software Engineer, you develop features and solutions for an innovative platform reducing customers’ budget, time, and risk.
-5:We are looking for someone who loves to code and who has a passion for DevOps.
-6:You have a strong foundation in engineering standards with an enthusiasm to learn and experiment.
-7:You will also get to exercise those DevOps skills and help enhance our infrastructure, improve the developer experience, provide visibility into our systems and environments, and improve on our delivery pipelines.
-8:You are a member of a highly collaborative team of engineers, program/product managers, and test engineers who deliver critical applications and improve upon HeadLight’s existing platform.
-9:What You Will Do: 
+0:126:HeadLight, founded in 2005, delivers industry-leading technology solutions that have revolutionized the construction industry.
+1:199:Our photo-driven inspection and verification technology enables our customers to streamline and mobilize project inspections, communications, and documentation leading to superior project deliveries.
+2:199:We have a variety of customers ranging from state departments of transportation, top-tier consulting engineering firms, contractors, equipment manufacturers, and industry-related materials companies.
+3:81:The opportunities to shape and provide efficiencies to constructions are endless!
+4:137:As a DevOps/ Software Engineer, you develop features and solutions for an innovative platform reducing customers’ budget, time, and risk.
+5:78:We are looking for someone who loves to code and who has a passion for DevOps.
+6:97:You have a strong foundation in engineering standards with an enthusiasm to learn and experiment.
+7:213:You will also get to exercise those DevOps skills and help enhance our infrastructure, improve the developer experience, provide visibility into our systems and environments, and improve on our delivery pipelines.
+8:188:You are a member of a highly collaborative team of engineers, program/product managers, and test engineers who deliver critical applications and improve upon HeadLight’s existing platform.
+9:1623:What You Will Do: 
  
   Automate application and cloud infrastructure management using scripting and industry standard tooling, achieving a high degree of configurability 
   Work to improve CI/CD pipelines with reporting and dashboards to provide visibility 
@@ -27,24 +27,24 @@
  How You Will Be Successful 
  
   We Invest with Intention: With limited time, we choose our investments carefully to maximize our impact.
-10:We prioritize investments in understanding, leading to better decisions.
-11:We choose investments that will pay dividends over time.
-12:We invest as a team, with shared purpose and drive.
-13:We Bias Towards Action: We choose to act fast and be nimble.
-14:We seek data to guide our actions, take calculated risks, and evaluate our successes and failures.
-15:We celebrate our wins, and learn from our mistakes.
-16:We Earn Trust: We are mindful of our impact.
-17:We discover opportunities and generate alignment through transparent communication.
-18:We honor commitments to our teams, customers and each other, building a foundation for trust.
-19:We Cultivate Ownership Culture: We hold each other accountable for delivering outcomes that achieve shared goals.
-20:We seek opportunities to tap in, and make decisions and commitments in service to company growth.
-21:We Are Customer Focused: We are strategic partners, listening and guiding without bias.
-22:We work to deeply understand our customers to help reach shared goals, leveraging our technology and collective expertise.
-23:We deliver best-in-class products and solutions in service of infrastructure.
-24:We Embrace Growth Mindset: We embrace learning, viewing challenges not as barriers to progress, but rather as opportunities for growth.
-25:We are comfortable with being uncomfortable.
-26:We know when to lean in and when to ask for help.
-27:Requirements
+10:72:We prioritize investments in understanding, leading to better decisions.
+11:56:We choose investments that will pay dividends over time.
+12:51:We invest as a team, with shared purpose and drive.
+13:60:We Bias Towards Action: We choose to act fast and be nimble.
+14:98:We seek data to guide our actions, take calculated risks, and evaluate our successes and failures.
+15:51:We celebrate our wins, and learn from our mistakes.
+16:44:We Earn Trust: We are mindful of our impact.
+17:83:We discover opportunities and generate alignment through transparent communication.
+18:93:We honor commitments to our teams, customers and each other, building a foundation for trust.
+19:113:We Cultivate Ownership Culture: We hold each other accountable for delivering outcomes that achieve shared goals.
+20:97:We seek opportunities to tap in, and make decisions and commitments in service to company growth.
+21:87:We Are Customer Focused: We are strategic partners, listening and guiding without bias.
+22:122:We work to deeply understand our customers to help reach shared goals, leveraging our technology and collective expertise.
+23:77:We deliver best-in-class products and solutions in service of infrastructure.
+24:135:We Embrace Growth Mindset: We embrace learning, viewing challenges not as barriers to progress, but rather as opportunities for growth.
+25:44:We are comfortable with being uncomfortable.
+26:49:We know when to lean in and when to ask for help.
+27:1188:Requirements
   What You Will Bring: 
  
   Enthusiasm to learn and innovate in the construction software space 
@@ -60,19 +60,19 @@
   Experience with relational and non-relational databases 
   Experience in Linux based infrastructure and AWS 
   Familiar with backend and frontend technologies like Node.
-28:js, Javascript, Vue.
-29:js 
+28:20:js, Javascript, Vue.
+29:131:js 
   Familiar with REST and other API design and implementations 
  
  
   
  Candidates from all backgrounds are encouraged to apply.
-30:The preferred candidate will be located in the Pacific Time zone.
-31:Mountain Time zone candidates will also be considered.
-32:The salary range for the role is $130,000-$150,000 annually.
-33:Exact compensation will be based or adjusted on skills, experience and location.
-34:We will provide more information on our benefits and stock options upon request.
-35:Benefits
+30:65:The preferred candidate will be located in the Pacific Time zone.
+31:54:Mountain Time zone candidates will also be considered.
+32:60:The salary range for the role is $130,000-$150,000 annually.
+33:80:Exact compensation will be based or adjusted on skills, experience and location.
+34:80:We will provide more information on our benefits and stock options upon request.
+35:69:Benefits
   PTO
   Sick Time
   401k Match

@@ -1,56 +1,56 @@
-0:Who is Wyze?
-1:Wyze is a high growth, Series B, consumer technology company.
-2:Our vision is to make great technology accessible to everyone through our smart home platform.
-3:Our aim is to serve everyday people, like me, you, and our friends and families, with too good to be true products and services.
-4:We want employees who will be inspired by this and welcome all who will help us build the next amazing chapter at Wyze.
-5:Wyze is home to some of the most innovative products and services in the market.
-6:Forbes named us in their America’s Best Startup Employers 2023 list, Time Magazine selected us for their 100 Most Influential Companies of 2022, Fast Company named us as one of the Most Innovative Companies in 2021and PCMag gave our Cam v3 an Editor’s Choice Award.
-7:We disrupted the market with our Wyze Cam v1 and then quickly took over as a market leader in the space.
-8:We recently disrupted it again with our revolutionary Cam Plus Pro service.
-9:GeekWire calls us a start-up to watch and one of the Pacific Northwest’s next unicorns… and we are just getting started.
-10:Our people centric innovative vision is not only present in our products and services, but it is also embedded in the fabric of our company.
-11:We were just listed in the Top 100 Best Places to Workby Built in Seattle, listed as one of their Best Midsize Companies to Work For and awarded as one of their Companies with the Best Benefits.
-12:Seattle Business Magazine certified us as a Best Places to Work too!
-13:We value the unique life experiences every employee brings to work every day.
-14:We are committed to creating an inclusive environment whereby our employees are encouraged to be their authentic whole selves and are rewarded for their impact across the company.
-15:Everyone is welcome and empowered to do the best work of their lives.
-16:Our stance on workplace flexibility:
+0:12:Who is Wyze?
+1:61:Wyze is a high growth, Series B, consumer technology company.
+2:94:Our vision is to make great technology accessible to everyone through our smart home platform.
+3:128:Our aim is to serve everyday people, like me, you, and our friends and families, with too good to be true products and services.
+4:119:We want employees who will be inspired by this and welcome all who will help us build the next amazing chapter at Wyze.
+5:80:Wyze is home to some of the most innovative products and services in the market.
+6:265:Forbes named us in their America’s Best Startup Employers 2023 list, Time Magazine selected us for their 100 Most Influential Companies of 2022, Fast Company named us as one of the Most Innovative Companies in 2021and PCMag gave our Cam v3 an Editor’s Choice Award.
+7:104:We disrupted the market with our Wyze Cam v1 and then quickly took over as a market leader in the space.
+8:75:We recently disrupted it again with our revolutionary Cam Plus Pro service.
+9:120:GeekWire calls us a start-up to watch and one of the Pacific Northwest’s next unicorns… and we are just getting started.
+10:140:Our people centric innovative vision is not only present in our products and services, but it is also embedded in the fabric of our company.
+11:194:We were just listed in the Top 100 Best Places to Workby Built in Seattle, listed as one of their Best Midsize Companies to Work For and awarded as one of their Companies with the Best Benefits.
+12:68:Seattle Business Magazine certified us as a Best Places to Work too!
+13:77:We value the unique life experiences every employee brings to work every day.
+14:179:We are committed to creating an inclusive environment whereby our employees are encouraged to be their authentic whole selves and are rewarded for their impact across the company.
+15:69:Everyone is welcome and empowered to do the best work of their lives.
+16:228:Our stance on workplace flexibility:
 For most roles, we support a 100% remote work environment for applicants who reside in the following states: California, Kentucky, Oregon, Pennsylvania, Texas, Utah, Virginia, and Washington.
-17:*This opportunity is working hybrid, based in the Greater Seattle Metropolitan area.
-18:Come join us and make the impossible, possible!
-19:Opportunity:
+17:84:*This opportunity is working hybrid, based in the Greater Seattle Metropolitan area.
+18:47:Come join us and make the impossible, possible!
+19:100:Opportunity:
 Wyze is actively seeking a Senior AI Engineer to join our forward-thinking AI division.
-20:In this role, you'll serve as a bridge between abstract AI concepts and real-world applications, collaborating with AI scientists to realize their advanced algorithms.
-21:If you are an experienced engineer with a keen interest in AI and eager to make significant contributions to the rapidly evolving smart home industry, we would love to hear from you.
-22:Responsibilities:
-23:Engage with product managers, software engineers, and data scientists to clearly define project objectives, requirements, and deliverables.
-24:Transform complex AI algorithms into fully operational systems that augment Wyze's products and services, in collaboration with AI scientists.
-25:Explore, comprehend, and apply state-of-the-art AI methodologies to address challenges in computer vision, natural language processing, and other relevant domains.
-26:Architect and build robust, scalable AI systems capable of operating efficiently on devices with limited resources.
-27:Provide technical mentorship to junior AI engineers, nurturing their professional growth.
-28:Enhance AI systems for superior performance, accuracy, and efficiency, mindful of constraints such as memory, computation, and power utilization.
-29:Coordinate with data engineering teams to ensure the readiness and quality of data sets required for AI system development.
-30:Participate in code reviews, offering constructive feedback, and ensuring adherence to coding standards and software development best practices.
-31:Stay updated with the latest advancements in AI and emerging technologies, fostering an environment of innovation within the team.
-32:Document technical specifications, system designs, and implementation details to promote knowledge sharing and maintain a sustainable codebase.
-33:Qualifications:
-34:Bachelor's, Master's, or Ph.
-35:D. in Computer Science, Electrical Engineering, or related fields, with a strong emphasis on artificial intelligence or machine learning.
-36:Significant hands-on experience in developing AI systems, paired with a comprehensive understanding of machine learning and deep learning concepts.
-37:Proficiency in Python and familiarity with AI frameworks such as TensorFlow, PyTorch, or Keras.
-38:Experience with Java or C++ programming languages is good to have, but not mandatory.
-39:Familiarity with cloud platforms such as AWS and/or GCP.
-40:Demonstrated success in implementing AI concepts in real-world applications, preferably in computer vision or natural language processing.
-41:Knowledge of computer vision algorithms, image processing techniques, or NLP models will be a plus.
-42:Experience deploying AI systems on devices with limited resources, edge computing, or IoT platforms is desirable.
-43:Solid understanding of software engineering principles, software design patterns, and coding best practices.
-44:Strong analytical and problem-solving skills, capable of addressing complex technical challenges and proposing innovative solutions.
-45:Excellent communication and collaboration skills, with the ability to effectively interact with cross-functional stakeholders.
-46:Proven leadership skills, capable of spearheading projects, mentoring junior team members, and promoting a culture of continuous learning and improvement.
-47:Job Type: Full-time
+20:167:In this role, you'll serve as a bridge between abstract AI concepts and real-world applications, collaborating with AI scientists to realize their advanced algorithms.
+21:182:If you are an experienced engineer with a keen interest in AI and eager to make significant contributions to the rapidly evolving smart home industry, we would love to hear from you.
+22:17:Responsibilities:
+23:139:Engage with product managers, software engineers, and data scientists to clearly define project objectives, requirements, and deliverables.
+24:142:Transform complex AI algorithms into fully operational systems that augment Wyze's products and services, in collaboration with AI scientists.
+25:163:Explore, comprehend, and apply state-of-the-art AI methodologies to address challenges in computer vision, natural language processing, and other relevant domains.
+26:115:Architect and build robust, scalable AI systems capable of operating efficiently on devices with limited resources.
+27:89:Provide technical mentorship to junior AI engineers, nurturing their professional growth.
+28:145:Enhance AI systems for superior performance, accuracy, and efficiency, mindful of constraints such as memory, computation, and power utilization.
+29:123:Coordinate with data engineering teams to ensure the readiness and quality of data sets required for AI system development.
+30:144:Participate in code reviews, offering constructive feedback, and ensuring adherence to coding standards and software development best practices.
+31:130:Stay updated with the latest advancements in AI and emerging technologies, fostering an environment of innovation within the team.
+32:143:Document technical specifications, system designs, and implementation details to promote knowledge sharing and maintain a sustainable codebase.
+33:15:Qualifications:
+34:28:Bachelor's, Master's, or Ph.
+35:137:D. in Computer Science, Electrical Engineering, or related fields, with a strong emphasis on artificial intelligence or machine learning.
+36:147:Significant hands-on experience in developing AI systems, paired with a comprehensive understanding of machine learning and deep learning concepts.
+37:95:Proficiency in Python and familiarity with AI frameworks such as TensorFlow, PyTorch, or Keras.
+38:85:Experience with Java or C++ programming languages is good to have, but not mandatory.
+39:56:Familiarity with cloud platforms such as AWS and/or GCP.
+40:138:Demonstrated success in implementing AI concepts in real-world applications, preferably in computer vision or natural language processing.
+41:99:Knowledge of computer vision algorithms, image processing techniques, or NLP models will be a plus.
+42:113:Experience deploying AI systems on devices with limited resources, edge computing, or IoT platforms is desirable.
+43:108:Solid understanding of software engineering principles, software design patterns, and coding best practices.
+44:132:Strong analytical and problem-solving skills, capable of addressing complex technical challenges and proposing innovative solutions.
+45:126:Excellent communication and collaboration skills, with the ability to effectively interact with cross-functional stakeholders.
+46:154:Proven leadership skills, capable of spearheading projects, mentoring junior team members, and promoting a culture of continuous learning and improvement.
+47:69:Job Type: Full-time
 Pay: $184,000.00 - $206,000.00 per year
 Benefits:
-48:401(k)
+48:237:401(k)
  Dental insurance
  Employee discount
  Flexible schedule
@@ -63,13 +63,13 @@ Benefits:
  Referral program
  Relocation assistance
  Vision insurance
-49:Schedule:
-50:Monday to Friday
-51:Supplemental pay types:
-52:Bonus pay
-53:Ability to commute/relocate:
-54:Kirkland, WA 98033: Reliably commute or willing to relocate with an employer-provided relocation package (Preferred)
-55:Application Question(s):
-56:Tell me about your experience in AI or ML?
-57:And what kind of impact did you make with your AI or ML work?
-58:Work Location: Hybrid remote in Kirkland, WA 98033
+49:9:Schedule:
+50:16:Monday to Friday
+51:23:Supplemental pay types:
+52:9:Bonus pay
+53:28:Ability to commute/relocate:
+54:116:Kirkland, WA 98033: Reliably commute or willing to relocate with an employer-provided relocation package (Preferred)
+55:24:Application Question(s):
+56:42:Tell me about your experience in AI or ML?
+57:61:And what kind of impact did you make with your AI or ML work?
+58:50:Work Location: Hybrid remote in Kirkland, WA 98033

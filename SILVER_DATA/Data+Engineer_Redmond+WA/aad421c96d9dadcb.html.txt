@@ -1,10 +1,10 @@
-0:The Data team leverages data from our autonomous vehicles and operations to determine autonomy and service readiness.
-1:We provide the foundation for strategic decision-making at Zoox.
-2:You will develop and implement the next generation of our data pipeline to ensure visibility into our business as we scale toward the launch of an autonomous mobility service.
-3:You will define the system and build the pipeline to enable Zoox to develop and scale with a data-first culture.
-4:You will join a diverse, experienced team with rapidly growing scope and responsibility while also having access to one of the most unique data sets in the autonomous vehicle industry.
-5:Hence, we are seeking all skill levels to grow with the team.
-6:Responsibilities
+0:117:The Data team leverages data from our autonomous vehicles and operations to determine autonomy and service readiness.
+1:64:We provide the foundation for strategic decision-making at Zoox.
+2:175:You will develop and implement the next generation of our data pipeline to ensure visibility into our business as we scale toward the launch of an autonomous mobility service.
+3:112:You will define the system and build the pipeline to enable Zoox to develop and scale with a data-first culture.
+4:184:You will join a diverse, experienced team with rapidly growing scope and responsibility while also having access to one of the most unique data sets in the autonomous vehicle industry.
+5:61:Hence, we are seeking all skill levels to grow with the team.
+6:1405:Responsibilities
    
     
       Design, build, and maintain a platform used by Zoox teams to build large-scale data pipelines
@@ -54,25 +54,25 @@
   
   
     There are three major components to compensation for this position: salary, Amazon Restricted Stock Units (RSUs), and Zoox Stock Appreciation Rights.
-7:The salary will range from $164,000 to $234,000.
-8:A sign-on bonus may be part of a compensation package.
-9:Compensation will vary based on geographic location, job-related knowledge, skills, and experience.
-10:Zoox also offers a comprehensive package of benefits including paid time off (e.g. sick leave, vacation, bereavement), unpaid time off, Zoox Stock Appreciation Rights, Amazon RSUs, health insurance, long-term care insurance, long-term and short-term disability insurance, and life insurance.
-11:Vaccine Mandate
+7:48:The salary will range from $164,000 to $234,000.
+8:54:A sign-on bonus may be part of a compensation package.
+9:99:Compensation will vary based on geographic location, job-related knowledge, skills, and experience.
+10:291:Zoox also offers a comprehensive package of benefits including paid time off (e.g. sick leave, vacation, bereavement), unpaid time off, Zoox Stock Appreciation Rights, Amazon RSUs, health insurance, long-term care insurance, long-term and short-term disability insurance, and life insurance.
+11:192:Vaccine Mandate
   
   
     Employees working in this position will be required to have received a vaccine approved by the U.S. Food and Drug Administration and/or the World Health Organization.
-12:In addition, employees who are eligible for a COVID-19 booster vaccine (“Booster”) will be required to receive a Booster.
-13:Employees will be required to show proof of vaccination status upon receipt of a conditional offer of employment.
-14:That offer of employment will be conditioned upon, among other things, an Applicant’s ability to show proof of vaccination status.
-15:Please note the Company provides reasonable accommodations in accordance with applicable state, federal, and local laws.
-16:About Zoox
+12:121:In addition, employees who are eligible for a COVID-19 booster vaccine (“Booster”) will be required to receive a Booster.
+13:113:Employees will be required to show proof of vaccination status upon receipt of a conditional offer of employment.
+14:130:That offer of employment will be conditioned upon, among other things, an Applicant’s ability to show proof of vaccination status.
+15:120:Please note the Company provides reasonable accommodations in accordance with applicable state, federal, and local laws.
+16:165:About Zoox
   
   
     Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market.
-17:Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments.
-18:We’re looking for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.
-19:Follow us on LinkedIn
+17:159:Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments.
+18:126:We’re looking for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.
+19:136:Follow us on LinkedIn
   
   
   
@@ -80,5 +80,5 @@
   
   
     You do not need to match every listed expectation to apply for this position.
-20:Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.
-21:
+20:203:Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.
+21:0:

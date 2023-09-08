@@ -1,37 +1,37 @@
-0:About Us
+0:159:About Us
   Planet DDS is the leading provider of cloud-enabled dental software solutions serving over 10,000 practices in North America with over 60,000 users.
-1:The company delivers a complete platform of solutions for dental practices including Denticon Practice Management, Apteryx XVWeb Digital Imaging, and Legwork Patient Relationship Management.
-2:Planet DDS is committed to creating value for its dental practice clients by solving the most urgent challenges facing today’s dental practices in North America
+1:190:The company delivers a complete platform of solutions for dental practices including Denticon Practice Management, Apteryx XVWeb Digital Imaging, and Legwork Patient Relationship Management.
+2:380:Planet DDS is committed to creating value for its dental practice clients by solving the most urgent challenges facing today’s dental practices in North America
   Overview
   To be successful, you will need to be self-motivated, a critical thinker, be able to take high-level direction, communicate clearly, gain consensus, and drive to completion in a very fast paced environment.
-3:You do not shy away from learning something new or experimenting with technologies to find the right solution.
-4:You are a friendly, hard-working and positive person with a true passion for solving problems with technology and will fit in well with our dynamic team.
-5:This role is hybrid working 1-2x per week out of one of our offices: Phoenix, AZ, Newport Beach, CA or Seattle, WA.
-6:Responsibilities & Duties
+3:110:You do not shy away from learning something new or experimenting with technologies to find the right solution.
+4:153:You are a friendly, hard-working and positive person with a true passion for solving problems with technology and will fit in well with our dynamic team.
+5:115:This role is hybrid working 1-2x per week out of one of our offices: Phoenix, AZ, Newport Beach, CA or Seattle, WA.
+6:71:Responsibilities & Duties
   Develop:
  
    Infrastructure as Code (IaC).
-7:Automated responses to alerts.
-8:Observability enhancements including, dashboards, metrics, alerting
+7:30:Automated responses to alerts.
+8:149:Observability enhancements including, dashboards, metrics, alerting
  
   Architectures and patterns for:
  
    Reducing MTTA, MTTR and incident volume.
-9:Reducing and eliminating toil.
-10:Improving the performance and reliability of cloud-based products and services before production release.
-11:Optimize & manage:
+9:30:Reducing and eliminating toil.
+10:105:Improving the performance and reliability of cloud-based products and services before production release.
+11:134:Optimize & manage:
  
    Measuring and monitoring availability, latency, and overall system health across all Planet DDS product lines.
-12:Performance, scalability, and reliability tuning.
-13:Observability cost optimization.
-14:Security detection, response and hardening.
-15:Support
+12:49:Performance, scalability, and reliability tuning.
+13:32:Observability cost optimization.
+14:43:Security detection, response and hardening.
+15:96:Support
    Leads all aspects of incident management including post-mortem / root cause analysis.
-16:Enables effective and efficient troubleshooting, remediation of application and cloud platform issues.
-17:Support operations & engineering teams on Azure, GCP and AWS.
-18:Training & mentoring for peers and less experienced engineers.
-19:Production environments with on-call support rotations.
-20:Advocacy
+16:102:Enables effective and efficient troubleshooting, remediation of application and cloud platform issues.
+17:61:Support operations & engineering teams on Azure, GCP and AWS.
+18:62:Training & mentoring for peers and less experienced engineers.
+19:55:Production environments with on-call support rotations.
+20:533:Advocacy
  
  
    DevOps culture & automation, architectural & security standards
@@ -51,15 +51,15 @@
   Qualifications
  
    Solid understanding of Reliability concepts to ensure high performance and high service availability.
-21:Solid understanding of Observability across multiple cloud and on-premise environments using tools like DataDog, NewRelic, CloudWatch and Azure Monitor.
-22:Solid understanding of Production operations including 24x7 on-call support, incident management, RCA and postmortem analysis.
-23:Solid understanding of infrastructure management across multiple cloud and on premise environments using tools such as Terraform, Bicep, PowerShell, Ansible, Chef and AWS Systems Manager.
-24:8 or more years in hands on technical roles (such as site reliability engineer, software engineer, DevOps engineer, infrastructure engineer)
+21:152:Solid understanding of Observability across multiple cloud and on-premise environments using tools like DataDog, NewRelic, CloudWatch and Azure Monitor.
+22:126:Solid understanding of Production operations including 24x7 on-call support, incident management, RCA and postmortem analysis.
+23:187:Solid understanding of infrastructure management across multiple cloud and on premise environments using tools such as Terraform, Bicep, PowerShell, Ansible, Chef and AWS Systems Manager.
+24:224:8 or more years in hands on technical roles (such as site reliability engineer, software engineer, DevOps engineer, infrastructure engineer)
    2 or more years leading an SRE team, building, deploying and operating web apps.
-25:C#, .
-26:Net Core and SQL coding is desired
+25:5:C#, .
+26:226:Net Core and SQL coding is desired
    Troubleshooting Azure PaaS issues, especially for App Services, Azure Functions, Azure Logic Apps, Azure SQL, Azure Storage, Application Insights, Azure Redis, VNets and Azure App Gateway.
-27:Multi Cloud experience is high desirable including GCP and AWS
+27:1487:Multi Cloud experience is high desirable including GCP and AWS
  
  
    Security is part of everything we do and will require your knowledge of fundamental cloud security (e.g., identity and access management, firewalls, etc.)
@@ -89,26 +89,26 @@
   Behavior and Scope
  
    You raise issues early when you see obstacles to achieving a goal and work to find solutions.
-28:You volunteer to get involved in the solution even if it is beyond your own team or role.
-29:You evangelize good practices both on and off your team.
-30:You actively help solve cross-team issues by assisting other teams.
-31:You speak up on broader issues in the domain beyond your own work, such as processes, company issues or large projects.
-32:You guide the team in designing major components of systems and products.
-33:You lead the design and development of large and critical areas of Azure infrastructure.
-34:You are able to reason about the purpose of each component in a system and how they interact with each other to support the product.
-35:You propose and advocate for significant new features and actively affect change.
-36:You rarely require guidance to complete complex work to achieve success.
-37:You often lead and guide other team members.
-38:You actively mentor others and seek accountability.
-39:Planet DDS Core Values 
+28:89:You volunteer to get involved in the solution even if it is beyond your own team or role.
+29:56:You evangelize good practices both on and off your team.
+30:67:You actively help solve cross-team issues by assisting other teams.
+31:119:You speak up on broader issues in the domain beyond your own work, such as processes, company issues or large projects.
+32:73:You guide the team in designing major components of systems and products.
+33:88:You lead the design and development of large and critical areas of Azure infrastructure.
+34:132:You are able to reason about the purpose of each component in a system and how they interact with each other to support the product.
+35:81:You propose and advocate for significant new features and actively affect change.
+36:72:You rarely require guidance to complete complex work to achieve success.
+37:44:You often lead and guide other team members.
+38:51:You actively mentor others and seek accountability.
+39:135:Planet DDS Core Values 
  Collaborative
   Working independently and across teams, we create scalable solutions to enable company growth.
-40:Empathetic
+40:97:Empathetic
   We are educated on the experience of our customers and feel vested in their success.
-41:Accountable
+41:100:Accountable
   We feel ownership for the quality of our work and take pride in the positive outcomes.
-42:Trustworthy
+42:94:Trustworthy
   We operate with integrity and honesty, making promises we know that we can keep.
-43:Ambitious
+43:116:Ambitious
   We are driven by our ability to make a long-term, positive impact on the lives of dental market leaders.
-44:1frjHhutvt
+44:10:1frjHhutvt

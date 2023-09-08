@@ -1,31 +1,31 @@
-0:What We're Looking For 
+0:136:What We're Looking For 
  At HNTB, you can create a career that is meaningful to you while building communities that matter to all of us.
-1:For more than a century, we have been delivering solutions for some of the largest, most complex infrastructure projects across the country.
-2:With our historic growth, it is an exciting time to join our team of employee-owners.
-3:This opportunity entails being responsible for performing office engineering functions for the design services during construction team on a light rail station project north of Seattle.
-4:Preferred candidates will have experience on similar projects including coordination on finishes, mechanical, electrical, and systems integration.
-5:A PE license is required.
-6:What You'll Do: 
+1:140:For more than a century, we have been delivering solutions for some of the largest, most complex infrastructure projects across the country.
+2:85:With our historic growth, it is an exciting time to join our team of employee-owners.
+3:185:This opportunity entails being responsible for performing office engineering functions for the design services during construction team on a light rail station project north of Seattle.
+4:146:Preferred candidates will have experience on similar projects including coordination on finishes, mechanical, electrical, and systems integration.
+5:25:A PE license is required.
+6:150:What You'll Do: 
  
   Assists and acts as when needed, the Resident Engineer and/or Project Manager in the administration of the construction contract.
-7:Provides interpretation of contract plans and specifications and reviews contractor's shop drawings and submittals for contract compliance, as applicable.
-8:Maintains as-built record drawings, project files and records database including specifications, test results and reports.
-9:Keeps inspector's daily report of assigned work activities.
-10:Performs reviews for approval of contractor's monthly schedule submittals and pay estimates.
-11:Assists in project administration by monitoring internal project controls and claims documentation.
-12:Reviews schedules and facilitates resolution in problem situations.
-13:Responsible for logging, tracking, and processing requests for information, submittals, change orders, and other project deliverables.
-14:Reviews inspector's daily reports for conformance with the project requirements, plans, specifications, quantities, contractor's progress, and as-constructed data.
-15:Reviews, assembles, and processes the monthly progress payments.
-16:Leads daily assignments, mentors, and trains employees.
-17:Monitors internal HNTB project controls as directed.
-18:Performs other duties as assigned.
-19:What You'll Need: 
+7:154:Provides interpretation of contract plans and specifications and reviews contractor's shop drawings and submittals for contract compliance, as applicable.
+8:122:Maintains as-built record drawings, project files and records database including specifications, test results and reports.
+9:59:Keeps inspector's daily report of assigned work activities.
+10:92:Performs reviews for approval of contractor's monthly schedule submittals and pay estimates.
+11:99:Assists in project administration by monitoring internal project controls and claims documentation.
+12:67:Reviews schedules and facilitates resolution in problem situations.
+13:134:Responsible for logging, tracking, and processing requests for information, submittals, change orders, and other project deliverables.
+14:163:Reviews inspector's daily reports for conformance with the project requirements, plans, specifications, quantities, contractor's progress, and as-constructed data.
+15:64:Reviews, assembles, and processes the monthly progress payments.
+16:55:Leads daily assignments, mentors, and trains employees.
+17:52:Monitors internal HNTB project controls as directed.
+18:34:Performs other duties as assigned.
+19:229:What You'll Need: 
  
   Bachelor's degree in Engineering and 6 years relevant experience, or 
   Master's degree in Engineering and 5 years relevant experience, or 
   Doctorate degree in Engineering and 4 years relevant experience.
-20:What We Prefer: 
+20:253:What We Prefer: 
  
   Professional Engineer (PE) 
  
@@ -33,26 +33,26 @@
  Click here for benefits information: HNTB Total Rewards 
  Click here to learn more about EOE including disability and vet 
  Visa sponsorship is not available for this position.
-21:\#BH #ConstructionManagement #IND4E #LI-BH1 
+21:47:\#BH #ConstructionManagement #IND4E #LI-BH1 
  .
-22:Locations: 
+22:119:Locations: 
  Bellevue, WA (Seattle) 
  . 
  . 
  . 
  The approximate pay range for Washington is $88,704.95 - $159,555.19.
-23:Please note that the pay range provided is a good faith estimate for the position at the time of posting.
-24:Actual compensation will be dependent on factors, including but not limited to, the individual’s qualifications, experience, knowledge, skills, and abilities as well as physical work location within the state. 
+23:105:Please note that the pay range provided is a good faith estimate for the position at the time of posting.
+24:331:Actual compensation will be dependent on factors, including but not limited to, the individual’s qualifications, experience, knowledge, skills, and abilities as well as physical work location within the state. 
  . 
  . 
  . 
  . 
  NOTICE TO THIRD-PARTY AGENCIES: 
  HNTB does not accept unsolicited resumes from recruiters or agencies.
-25:Any staffing/employment agency, person or entity that submits an unsolicited resume to this site does so with the understanding that the applicant's resume will become the property of HNTB.
-26:HNTB will have the right to hire that applicant at its discretion and without any fee owed to the submitting staffing/employment agency, person or entity.
-27:Staffing/employment agencies who have fee agreements with HNTB must submit applicants to the designated HNTB recruiter to be eligible for placement fees.
-28:Job Type: Regular 
+25:189:Any staffing/employment agency, person or entity that submits an unsolicited resume to this site does so with the understanding that the applicant's resume will become the property of HNTB.
+26:154:HNTB will have the right to hire that applicant at its discretion and without any fee owed to the submitting staffing/employment agency, person or entity.
+27:153:Staffing/employment agencies who have fee agreements with HNTB must submit applicants to the designated HNTB recruiter to be eligible for placement fees.
+28:106:Job Type: Regular 
  Full/Part Time: Full time 
  Job Category: Construction Services Group 
  ReqID: R-15045

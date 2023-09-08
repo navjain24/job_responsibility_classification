@@ -1,25 +1,25 @@
-0:The Azure Backbone Networking Team is growing and we’re looking for a creative and hard-working Cloud Network Engineer who can combine networking experience with software development fundamentals to help build the world’s best private backbone network.
-1:We’re passionate about automating every facet of the network to converge on a self-growing, self-healing network.
-2:We want engineers that are equally passionate and can look at the problems with a Customer's perspective to create user experiences that truly enable and empower Technicians, Engineers and Planners.
-3:Focusing on the global optical network, and working closely with partner teams in Azure Networking, you’ll be a critical part of developing the hardware, network design and large-scale services that drive our network to autonomy.
-4:This will include owning components from design through to deployment, operations, and automation.
-5:This is a high visibile position in an area of expanding investment for Microsoft and offers a terrific opportunity for technical and career growth.
-6:Microsoft’s mission is to empower every person and every organization on the planet to achieve more.
-7:As employees we come together with a growth mindset, innovate to empower others and collaborate to realize our shared goals.
-8:Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
-9:Responsibilities
+0:252:The Azure Backbone Networking Team is growing and we’re looking for a creative and hard-working Cloud Network Engineer who can combine networking experience with software development fundamentals to help build the world’s best private backbone network.
+1:113:We’re passionate about automating every facet of the network to converge on a self-growing, self-healing network.
+2:198:We want engineers that are equally passionate and can look at the problems with a Customer's perspective to create user experiences that truly enable and empower Technicians, Engineers and Planners.
+3:229:Focusing on the global optical network, and working closely with partner teams in Azure Networking, you’ll be a critical part of developing the hardware, network design and large-scale services that drive our network to autonomy.
+4:98:This will include owning components from design through to deployment, operations, and automation.
+5:148:This is a high visibile position in an area of expanding investment for Microsoft and offers a terrific opportunity for technical and career growth.
+6:100:Microsoft’s mission is to empower every person and every organization on the planet to achieve more.
+7:124:As employees we come together with a growth mindset, innovate to empower others and collaborate to realize our shared goals.
+8:152:Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+9:195:Responsibilities
   Network Design and Implementation
  
    Develops knowledge of optical network technologies to draw insights that aid in network design, standards, implementation, and operation.
-10:Develops an understanding of quality assurance and network or code review processes by assisting in identifying risks and classes of bugs and becoming familiar with essential details related to network implementation (e.g., physical connectivity, power, protocols, telemetry) and design qualification with guidance from other engineers.
-11:Maintain and Operate Networks
+10:336:Develops an understanding of quality assurance and network or code review processes by assisting in identifying risks and classes of bugs and becoming familiar with essential details related to network implementation (e.g., physical connectivity, power, protocols, telemetry) and design qualification with guidance from other engineers.
+11:338:Maintain and Operate Networks
  
    Monitors optical network telemetry and performs basic analyses to triangulate failures, with guidance from other engineers; makes suggestions on possible monitoring improvements; participate in all efforts to automate repetitive tasks to reduce implementation time and avoid failures due to human error.
-12:Triages, troubleshoots, and repairs basic live site issues using troubleshooting guides and standard tooling with minimal disruption to customers; participates in on-call/Designated Responsible Individual (DRI) duties.
-13:Contributes to the development or modification of network automation tools with guidance from other engineers to make efficient use of infrastructure and resources by automating performance of various tasks related to network operations, testing, and incident management.
-14:Supports the management of incidents across one or more workstreams by applying technical knowledge to diagnose and triage issues with guidance from other engineers; takes notes during incidents and participates in post mortem and root cause analysis processes.
-15:Works within a team of engineers to manage network deployments; works with a machine-readable definition of the network deployment.
-16:Qualifications
+12:218:Triages, troubleshoots, and repairs basic live site issues using troubleshooting guides and standard tooling with minimal disruption to customers; participates in on-call/Designated Responsible Individual (DRI) duties.
+13:271:Contributes to the development or modification of network automation tools with guidance from other engineers to make efficient use of infrastructure and resources by automating performance of various tasks related to network operations, testing, and incident management.
+14:261:Supports the management of incidents across one or more workstreams by applying technical knowledge to diagnose and triage issues with guidance from other engineers; takes notes during incidents and participates in post mortem and root cause analysis processes.
+15:131:Works within a team of engineers to manage network deployments; works with a machine-readable definition of the network deployment.
+16:537:Qualifications
  
    Required/Minimum Qualifications:
  
@@ -35,8 +35,8 @@
  
  
    Ability to meet Microsoft, customer and/or government security screening requirements are required for this role.
-17:These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
-18:Preferred/Additional Qualifications:
+17:258:These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+18:599:Preferred/Additional Qualifications:
  
  
    Knowledge of optical hardware and optical theory
@@ -49,14 +49,14 @@
  
  
    Cloud Network Engineering IC2 - The typical base pay range for this role across the U.S. is USD $76,400 - $151,800 per year.
-19:There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $100,300 - $165,400 per year.
-20:Certain roles may be eligible for benefits and other compensation.
-21:Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay
+19:229:There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $100,300 - $165,400 per year.
+20:66:Certain roles may be eligible for benefits and other compensation.
+21:173:Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay
  
  
  
    #azurecorejobs
   Microsoft is an equal opportunity employer.
-22:Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances.
-23:If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
-24:
+22:563:Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances.
+23:151:If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+24:0:

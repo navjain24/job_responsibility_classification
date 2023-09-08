@@ -1,61 +1,61 @@
-0:NVIDIA has continuously reinvented itself over the past several decades.
-1:It’s a unique legacy of innovation that’s motivated by outstanding technology and amazing people.
-2:Today, we’re tapping into the unlimited potential of AI to define the next era of computing.
-3:An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world.
-4:NVIDIA is at the forefront of generative AI models, from language to images.
-5:Doing what’s never been done before takes vision, innovation, and the world’s best talent.
-6:As an NVIDIAN, you’ll be immersed in a diverse, encouraging environment where everyone is inspired to do their best work.
-7:What you’ll be doing:
+0:72:NVIDIA has continuously reinvented itself over the past several decades.
+1:97:It’s a unique legacy of innovation that’s motivated by outstanding technology and amazing people.
+2:92:Today, we’re tapping into the unlimited potential of AI to define the next era of computing.
+3:117:An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world.
+4:76:NVIDIA is at the forefront of generative AI models, from language to images.
+5:90:Doing what’s never been done before takes vision, innovation, and the world’s best talent.
+6:121:As an NVIDIAN, you’ll be immersed in a diverse, encouraging environment where everyone is inspired to do their best work.
+7:250:What you’ll be doing:
  
  
    As a Senior Site Reliability Engineer, you will have the responsibility for provisioning and operating our high-availability systems that provide automated control, monitoring, and alerting at our production data centers.
-8:Your duties will include:
+8:146:Your duties will include:
  
  
   
    
      Ensuring high levels of systems reliability and availability in a global enterprise data center setting.
-9:Identifying, resolving, and analyzing system issues.
-10:Optimizing system performance and ensuring security.
-11:Providing systems support and administration in TCP/IP network environments, including both IPv4 and IPv6.
-12:Implementing remote access capabilities for out-of-band administration.
-13:Automate provisioning systems for rapid and consistent deployments.
-14:Collaborate with development teams to improve efficiencies.
-15:What we need to see:
+9:52:Identifying, resolving, and analyzing system issues.
+10:52:Optimizing system performance and ensuring security.
+11:106:Providing systems support and administration in TCP/IP network environments, including both IPv4 and IPv6.
+12:71:Implementing remote access capabilities for out-of-band administration.
+13:67:Automate provisioning systems for rapid and consistent deployments.
+14:59:Collaborate with development teams to improve efficiencies.
+15:148:What we need to see:
  
  
   
    
      Strong understanding and hands-on experience with server administration in production data center environments.
-16:Proven track record of technical leadership in site reliability.
-17:Excellent problem-solving skills and an ability to thrive under pressure..
+16:64:Proven track record of technical leadership in site reliability.
+17:138:Excellent problem-solving skills and an ability to thrive under pressure..
    
   
    
      Strong written and verbal communication skills.
-18:Bachelor's degree in Computer Science, Information Systems, or a related field, or equivalent experience.
-19:5+ years of experience in systems administration, particularly with Linux systems.
-20:Ways to stand out from the crowd:
+18:105:Bachelor's degree in Computer Science, Information Systems, or a related field, or equivalent experience.
+19:82:5+ years of experience in systems administration, particularly with Linux systems.
+20:194:Ways to stand out from the crowd:
  
  
   
    
      Certifications such as the Red Hat Certified System Administrator (RHCSA), CompTIA Linux+, or Linux Professional Institute Certification (LPIC).
-21:Experience with cloud services like AWS, Google Cloud, or Microsoft Azure.
-22:Knowledge of or experience with containerization technologies like Docker and Kubernetes, can VM technologies like KVM.
-23:Familiarity with infrastructure as code (IaC) tools such as Ansible, Terraform, or Puppet.
-24:Understanding of and experience with security standards for and networking environments.
-25:Experience in automating routine system administration tasks.
-26:Active participation in relevant professional or open-source communities.
-27:NVIDIA is widely considered to be one of the technology world’s most desirable employers.
-28:We have some of the most forward-thinking and hardworking people in the world working for us.
-29:If you're creative and autonomous, we want to hear from you.
-30:The base salary range is $118,400 - $224,250.
-31:Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
-32:You will also be eligible for equity and 
+21:74:Experience with cloud services like AWS, Google Cloud, or Microsoft Azure.
+22:119:Knowledge of or experience with containerization technologies like Docker and Kubernetes, can VM technologies like KVM.
+23:90:Familiarity with infrastructure as code (IaC) tools such as Ansible, Terraform, or Puppet.
+24:88:Understanding of and experience with security standards for and networking environments.
+25:61:Experience in automating routine system administration tasks.
+26:73:Active participation in relevant professional or open-source communities.
+27:89:NVIDIA is widely considered to be one of the technology world’s most desirable employers.
+28:93:We have some of the most forward-thinking and hardworking people in the world working for us.
+29:60:If you're creative and autonomous, we want to hear from you.
+30:45:The base salary range is $118,400 - $224,250.
+31:118:Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+32:81:You will also be eligible for equity and 
          
           benefits
          .
-33:NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer.
-34:As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
-35:
+33:106:NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer.
+34:342:As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+35:0:

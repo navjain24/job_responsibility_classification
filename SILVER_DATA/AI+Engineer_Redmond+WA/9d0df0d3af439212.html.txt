@@ -1,35 +1,35 @@
-0:Company Description
+0:181:Company Description
 We're a seven-time Best Company to Work For, where intelligent, talented people come together to do outstanding work - and have a lot of fun while they're at it.
-1:Because we're a full-service consulting firm with a diverse client base, you can count on a steady stream of opportunities to work with cutting-edge technologies on projects that make a real difference.
-2:Logic20/20's Global Delivery Model creates a connected experience for Logicians across geographies.
-3:You'll have access to projects in different locations, the technology to support Connected Teams, and in-person and online culture events in our Connected Hub cities.
-4:Job Description
+1:202:Because we're a full-service consulting firm with a diverse client base, you can count on a steady stream of opportunities to work with cutting-edge technologies on projects that make a real difference.
+2:99:Logic20/20's Global Delivery Model creates a connected experience for Logicians across geographies.
+3:166:You'll have access to projects in different locations, the technology to support Connected Teams, and in-person and online culture events in our Connected Hub cities.
+4:226:Job Description
 About the TeamThe Logic20/20 Advanced Analytics team combines data engineering, data science, and visual analytics to mitigate risk, optimize operations, and automate processes for the ultimate user experience.
-5:Our lean-in learning culture is focused on building expertise and delivering high-value solutions with real business impact across industries, whether they are leveling up or blazing a trail.
-6:“We build an environment where we really operate as One Team, building up each other’s careers and capabilities.”
-7:– Adam Cornille, Senior Director, Advanced Analytics
+5:191:Our lean-in learning culture is focused on building expertise and delivering high-value solutions with real business impact across industries, whether they are leveling up or blazing a trail.
+6:113:“We build an environment where we really operate as One Team, building up each other’s careers and capabilities.”
+7:281:– Adam Cornille, Senior Director, Advanced Analytics
 About YouLogic20/20 is seeking a Machine Learning Engineer for a remote opportunity to lead and support a team at one of the nation's top utilities companies on the west coast that is working on RSE calculations and improvement.
-8:This is an exciting opportunity to make an impact by leveraging AI and ML techniques to create production-level systems through the application of machine learning models.
-9:Qualifications
+8:171:This is an exciting opportunity to make an impact by leveraging AI and ML techniques to create production-level systems through the application of machine learning models.
+9:25:Qualifications
 Must have:
-10:5+ years of experience building and deploying machine learning models to production in a cloud environment
+10:436:5+ years of experience building and deploying machine learning models to production in a cloud environment
  3+ years of hands-on Python experience
  Strong experience with Terraform, Ansible, CloudFormation, Basel or Puppet
  Ability to build CI/CD pipelines
  Knowledge of professional enterprise software development and practices including software lifecycle, best coding practices, version control, architecture, testing and deployment
-11:Preferred:
-12:Experience working in the Utilities industry
+11:10:Preferred:
+12:102:Experience working in the Utilities industry
  Master's degree/PhD in computer science or related field
-13:Additional Information**All your information will be kept confidential according to EEO guidelines.
-14:Compensation range: $130,000 - $200,000, depending on experienceAbout Logic20/20To learn more about Logic20/20, please visit: https://www.logic2020.com/careers/life-at-logic
+13:99:Additional Information**All your information will be kept confidential according to EEO guidelines.
+14:305:Compensation range: $130,000 - $200,000, depending on experienceAbout Logic20/20To learn more about Logic20/20, please visit: https://www.logic2020.com/careers/life-at-logic
 Core ValuesAt Logic20/20, we are guided by three core values: Drive toward Excellence, Act with Integrity & Foster a Culture of We.
-15:These values were generated and agreed upon by our employees—and they help us pursue our goal of being one of the best companies to work for and to work with.
-16:Learn more at https://www.logic2020.com/company/our-values.
+15:158:These values were generated and agreed upon by our employees—and they help us pursue our goal of being one of the best companies to work for and to work with.
+16:94:Learn more at https://www.logic2020.com/company/our-values.
 Logic20/20 BenefitsWhy Logic20/20?
-17:It’s our goal to be one of the best companies to work for.
-18:One piece of the puzzle is an evolving set of benefits that extend past medical, dental, and 401(k).
-19:You will have
-20:Career Development – A built-in program from day 1, providing a mentor and individually-directed training opportunities, plus access to leaders across the company
+17:58:It’s our goal to be one of the best companies to work for.
+18:100:One piece of the puzzle is an evolving set of benefits that extend past medical, dental, and 401(k).
+19:13:You will have
+20:657:Career Development – A built-in program from day 1, providing a mentor and individually-directed training opportunities, plus access to leaders across the company
 
 
  PTO, Paid Holidays, & Voluntary Leave – Worry-free time off to recharge and pursue your personal goals
@@ -42,11 +42,11 @@ Logic20/20 BenefitsWhy Logic20/20?
 
 
  Referral Programs & Bonuses – Employee, project, and sales referral programs with paid incentives
-21:Equal Opportunity StatementWe believe that people should be celebrated: for their talents, ideas, and skills, but most of all, for what makes them unique.
-22:We prohibit harassment and/or discrimination based on age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status, or any other basis as protected by federal, state, or local law.
-23:To learn more about our DE&I initiatives, please visit: https://www.logic2020.com/company/diversity-equity-inclusion
+21:154:Equal Opportunity StatementWe believe that people should be celebrated: for their talents, ideas, and skills, but most of all, for what makes them unique.
+22:328:We prohibit harassment and/or discrimination based on age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status, or any other basis as protected by federal, state, or local law.
+23:231:To learn more about our DE&I initiatives, please visit: https://www.logic2020.com/company/diversity-equity-inclusion
 Privacy PolicyDuring the recruitment and hiring process, we gather, process, and store some of your personal data.
-24:We consider data privacy a priority.
-25:For further information, please view our company privacy policy.
-26:Job Type: Full-time
+24:36:We consider data privacy a priority.
+25:64:For further information, please view our company privacy policy.
+26:59:Job Type: Full-time
 Pay: $130,000.00 - $200,000.00 per year
