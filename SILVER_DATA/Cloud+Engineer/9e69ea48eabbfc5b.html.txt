@@ -1,0 +1,96 @@
+
+ Sr. Cloud Engineer – SaaS Infrastructure
+ 
+   Edifecs, Inc.
+ 
+ 
+   Bellevue, WA
+ 
+ 
+ 
+   Overview:
+ 
+  We are leveraging traditional J2EE tools, databases as well as Big Data technologies, cutting-edge analytical tools, and many other innovative technologies to help modernize the healthcare industry. The Sr. Cloud Engineer is an integral part of our engineering team, helping us develop our innovative software products. The successful candidate will focus on learning the existing systems and will participate to extend them as the business grows. The successful candidate must have strong Java knowledge, experience working with multi-tier applications, and experience working with server-side web application software for functionality across multiple browser platforms.
+ 
+   What you will do:
+ 
+ 
+   Job Duties:
+ 
+  
+ 
+ 
+   Participate in extending existing systems and components as the business grows. 
+  Develop new subsystems and expand the current system with new components and modules. 
+  Participate in design, development and documentation of the software components using established practices. 
+  Maintain and support released and pre-release commercial applications. 
+  Perform code reviews. Perform hands-on deployment and maintenance of applications and components.
+   Deploy application and infrastructure using IaC (CloudFormation and Terraform).
+   Work with client services and Engineering team to optimize application, monitoring and alerting system to ensure peak performance.
+   Perform security checks using tool before the deployment for customer.
+   Perform Load balancing between application using F5 LTM and ALB (application Load balancing).
+   Set up policy template to restrict user to access secure PHI environment. 
+  Set up and manage Citrix Cloud environment to work for users.
+   Back up the application data using Backup cloud tool.
+   Migration of application between Hybrid Platforms. 
+  Work on SCCM to patch security updates to all machines in cloud and on premises and automate the process to automatically patch system periodically.
+   Work on scripting to automate Job function in lambda. 
+  Work with Data Scientist team to deploy Analytics tool like Elastic map, reduce and redshift data warehouse services.
+   Deploy container on ECS services to orchestrate the microservice running in container services.
+   Handle Tier 3 escalations issue in the cloud services and other Edifecs product issues belonging to IT services.
+ 
+ 
+   Telecommuting available.
+ 
+ 
+ 
+   What you will 
+  bring
+  :
+ 
+ 
+   Job Requirements:
+ 
+ 
+ 
+   Bachelor’s degree, or foreign degree equivalent, in Computer Science or related field, plus 5 years of progressive, post-baccalaureate experience in commercial IT, including:
+ 
+  
+ 
+ 
+   5 years of experience applying advanced knowledge in Windows technology;
+   5 years of experience working with managing IT infrastructure technologies such as Veeam, VMware, Citrix, Nessus, Barracuda, F5 LTM, Netwrix technologies;
+   5 years of experience in cloud services, deploying applications and infrastructure using IaC (CloudFormation and Terraform); and
+   2 years of experience in Kubernetes and ECS container orchestration services.
+ 
+ 
+ 
+   Experience may be gained concurrently.
+ 
+ 
+ 
+   Note:
+   The expected base pay range for this position is $151,466 - $174,130 per year. Base pay offered may vary depending on location, job-related knowledge, education, and experience.
+ 
+ 
+ 
+   We are pleased to offer our associates a comprehensive well-being plan. Our offerings include medical, dental, vision, life, and disability insurance, a 401(k) retirement savings plan including an Edifecs matching contribution, and up to 25 days of PTO and 10 holidays per year. More information on these and additional well-being offerings can be found here.
+ 
+ 
+   
+ 
+ 
+  Apply for position by submitting resumé to Edifecs, Inc., 1756 114th Ave. SE, Bellevue, WA 98004 and referencing job #142135 or apply online at www.edifecs.com.
+ 
+ 
+ 
+   About Edifecs
+ 
+  Edifecs is a premier technology company in the U.S. Healthcare market with solutions focused on interoperability, workflows, risk adjustment, value-based care payments, and analytics. Edifecs solutions are used by leading healthcare entities including, payers, providers, employers, third-party administrators, and government agencies. With innovative technology and solutions, Edifecs helps its customers by optimizing the secure exchange and processing of administrative and clinical data, reducing the cost of complying with regulations, and automating workflows involved in multiple core processes within the healthcare ecosystem. 
+ Edifecs is a frontrunner in providing solutions for B2B data exchange, streamlining key workflows in areas such as enrollment, risk adjustment, and alternative payment models. With the advent of FHIR and new regulatory guidance from HHS, Edifecs has emerged as a leader in easing the effort associated with achieving compliance with new federal rules and in making the healthcare consumer the primary stakeholder. Edifecs solutions are offered in both On-Premise and SaaS models. The company is headquartered in Bellevue, Washington, with additional offices in Atlanta, Georgia and Mohali, India, an engineering center in Moldova, and has more than 1,000 employees. 
+ We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, religion, national origin, protected veteran status, disability status, or any other characteristic protected by law.
+ 
+   Edifecs will provide reasonable accommodation to individuals with disabilities who need assistance applying for a job.
+   Please contact careers@edifecs.com for more information.
+ 
+

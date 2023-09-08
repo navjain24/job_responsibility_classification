@@ -1,0 +1,67 @@
+
+ 
+  Are you passionate about automating every facet of the network to converge on a self-growing, self-healing network with cutting edge technologies? Do you approach problems with a customer focus? Then the Cloud Network Engineer may be a great fit for you!
+ 
+ 
+ 
+   The Azure Networking Team is growing and we’re looking for an Cloud Network Engineer who can combine optical networking fundamentals with software development skills to help build the world’s best optical network and automation platform.
+ 
+ 
+   
+ 
+ 
+  As a Cloud Network Engineer focusing on the global optical network and working closely with partner teams in Azure Networking, you’ll be a critical part of developing the hardware, network design and large-scale services that drive our network to autonomy. This will include owning components and systems from design through deployment, operations, and automation, as well as innovating future-changing technologies such as hollow core fiber and optics for AI. This is a high visibility position in an area of large and expanding investment for Microsoft and offers a terrific opportunity for technical and career growth. With a flexible workplace, you can work from home partially and come to the office/lab on an as needed basis.
+ 
+ 
+   
+ 
+ Responsibilities
+ 
+   Responsibilities:
+ 
+ 
+   Collaborates with appropriate stakeholders to determine customer requirements for a scenario, designs and develops optical network components (e.g., device, software, tools) based on customer, business, and technical requirements. Drives identification of dependencies and the development of design documents for a product, application, service, or platform.
+   Performs testing and validation of network devices, firmware, and configurations; defines and implements test cases with automation tools and exposes test coverage gaps.
+   Creates, implements, optimizes, debugs, refactors, and reuses code to establish and improve performance and maintainability, effectiveness, and return on investment (ROI).
+   Leverages subject-matter expertise of product features and partners with appropriate stakeholders (e.g., project managers) to drive a workgroup's project plans, release plans, and work items.
+   Acts as a Designated Responsible Individual (DRI) and guides other engineers by developing and following the playbook, working on call to monitor system/product/service for degradation, downtime, or interruptions, alerting stakeholders about status and initiates actions to restore system/product/service for simple and complex problems when appropriate.
+   Monitors network telemetry and performs analyses to identify patterns that reveal errors and unexpected problems; knows what data is needed, knows how to find new or missing data, and can describe defects and their relevance to product and service targets; identifies patterns and trends in data and interprets them to inform decisions related to products and/or services; makes suggestions on improvements to monitoring based on observations and experience.
+   Proactively seeks new knowledge and adapts to new trends, technical solutions, and patterns that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+ 
+  Qualifications
+  Required Qualifications:
+ 
+   7+ years technical experience in network design, development, and automation 
+   
+    OR Bachelor's Degree in Electrical Engineering, Optical Engineering, Computer Science, Engineering, Information Technology, or related field AND 4+ years technical experience in network design, development, and automation. 
+    OR Master's Degree in Electrical Engineering, Optical Engineering, Computer Science, Information Technology, or related field AND 3+ years technical experience in network design, development, and automation 
+    OR Doctorate Degree in Electrical Engineering, Optical Engineering, Computer Science, Information Technology, or related field.
+   
+ 
+ 
+   Other Requirements:
+ 
+ 
+   Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+ 
+ 
+  Preferred Qualifications: 
+ 
+  11+ years technical experience in network design, development, and automation 
+   
+    OR Bachelor's Degree in Electrical Engineering, Optical Engineering, Computer Science, Information Technology, or related field AND 8+ years technical experience in network design, development, and automation 
+    OR Master's Degree in Electrical Engineering, Optical Engineering, Computer Science, Information Technology, or related field AND 6+ years technical experience in network design, development, and automation 
+    OR Doctorate Degree in Electrical Engineering, Optical Engineering, Computer Science, Information Technology, or related field AND 3+ years technical experience in network design, development, and automation. 
+   
+  1+ year(s) experience delivering network designs into production and experience with live site accountability for a network.
+ 
+ 
+ 
+   Cloud Network Engineering IC4 - The typical base pay range for this role across the U.S. is USD $112,000 - $218,400 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $145,800 - $238,600 per year.
+   
+   Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay
+ 
+ 
+ 
+   #azurecorejobs
+  Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.

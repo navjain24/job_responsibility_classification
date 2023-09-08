@@ -1,0 +1,29 @@
+This is NOT a C2C ROLE.
+This is the Full-Time/ Contract W2 opportunity with Amazee Global Ventures Inc.
+Role:
+
+ Streamline development & deployment processes.
+ Automate CI/CD pipelines.
+ Manage cloud infrastructure (AWS, Azure, GCP).
+ Implement Docker, Kubernetes for scaling.
+ Ensure system stability & security.
+ Troubleshoot & resolve issues.
+ Document procedures & best practices.
+
+Requirements:
+
+ Bachelor's degree in CS or related.
+ 10+ years in DevOps or similar.
+ Strong cloud, scripting, CI/CD skills.
+ Containerization & config management exp.
+ Monitoring & problem-solving skills.
+ Excellent communication & teamwork.
+
+Amazee Global Ventures Inc, is an equal opportunity employer. We will not discriminate and will follow all measures to ensure no discrimination in employment, recruitment, advertisements for employment, compensation, termination, upgrading, promotions, and other conditions of employment against any employee or job applicant on the bases of race, color, gender, national origin, age, religion, creed, disability, veteran's status, sexual orientation, gender identity or gender expression. We are committed to providing an inclusive and welcoming environment for all members of our staff, clients, volunteers, subcontractors, vendors, and clients.
+Job Type: Full-time
+Salary: $45.00 - $55.00 per hour
+Ability to commute/relocate:
+
+ Seattle, WA: Reliably commute or planning to relocate before starting work (Required)
+
+Work Location: In person

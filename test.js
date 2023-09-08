@@ -1,5 +1,26 @@
 import * as st from './sentenceTransformer.js';
 import * as math from './math.js';
+import fs from 'fs';
+
+const BRONZE_DATA = 'BRONZE_DATA';
+
+async function testdir() {
+    const sourceFolder = BRONZE_DATA
+    const dirs = fs.readdirSync(sourceFolder)
+
+    //process all files using forEach
+    dirs.forEach(function (dirName) {
+        console.log(`Found: ${dirName}`);
+        const sourceFileFolder = `${sourceFolder}/${dirName}`;
+        const files = fs.readdirSync(sourceFileFolder)
+
+        //process all files using forEach
+        files.forEach(function (fileName) {
+            console.log(`Found: ${fileName}`);
+        });
+    });
+
+}
 
 async function testEmbedding() {
     const s1 = "Write code in TypeScript"; //Control
@@ -22,4 +43,5 @@ async function testEmbedding() {
 
 }
 
-testEmbedding();
+//testEmbedding();
+testdir();

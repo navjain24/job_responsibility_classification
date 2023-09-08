@@ -1,0 +1,64 @@
+
+ Company Description
+  Improving healthcare through innovative technology is at the core of Intelerad’s work. Our scalable medical imaging platform connects clinicians to a powerful imaging ecosystem that is fast, smart, and tapped into the data they need, no matter their location. We’re focused on delivering a best-in-class medical image management solution that improves provider efficiency, decreases the cost of healthcare, and improves the overall health of populations.
+  Intelerad offers one of healthcare’s most comprehensive imaging and analytics platforms. Headquartered in Raleigh, NC and Montreal, Intelerad has nearly 700 employees located in offices across six countries. The company empowers nearly 2,000 healthcare organizations around the world with the speed, scalability, and simplicity needed to increase business performance while, most importantly, improving patient outcomes. Intelerad’s modern enterprise solutions have been acknowledged by a Best in KLAS recognition, ranking #1 for PACS Asia/Oceania in the 2021 Best in KLAS: Global Software (Non-US) report. To learn more, visit intelerad.com and follow Intelerad on LinkedIn and Twitter.
+ 
+ 
+
+ Job Description
+  The Infrastructure Engineer (VMware) is responsible for providing a holistic view of all hosted enterprise systems as well as maintaining an efficient and secure enterprise infrastructure that offers uninterrupted service for our customers.
+  In addition to performing scheduled tasks such as daily checklists, you are also responsible for initial troubleshooting of issues. This position works closely with the Senior Infrastructure Engineer to bring issues to resolution quickly and efficiently.
+  Supervisory Responsibilities:
+ 
+  
+    Assist with escalations from Infrastructure Engineer I
+   Duties/Responsibilities:
+   
+  
+   Build new complex environments for our Healthcare customers
+   Drive design discussions and projects
+   Manage and maintain vmware environment
+   Configure storage systems
+   Collaborate in the creation of systems architectures,,
+   Mentoring of junior engineers to help develop their technical skills
+   Improve application performance and reliability
+   Lead troubleshooting efforts create incident reports and root cause analysis
+   Perform schedule tasks such as daily checklists and in on-call rotation
+  
+ 
+
+ 
+ 
+
+ Qualifications
+  Required Experience/Skills:
+  Soft skills are just as important to us as technical knowledge is. We prioritize progression, grit, and solutions-oriented thinking styles:
+ 
+  Drive to learn new technologies and try something new
+  Team player that embraces positive conflict
+  Experience deploying upgrading and maintaining of multiple VMWare Environments
+  Experience implementing and operating various Storage Technologies in a highly availability,
+  high performance, low latency configuration (e.g. FC SAN, NFS NAS)
+  
+ 
+  Experience with implementation and testing of Backup, DR, and Business Continuity
+  technology in a high durability environment )
+  
+ 
+  Attention to detail
+  Ability to independently manage priorities in a fast-paced environment
+  Desired Experience/Skills:
+  
+ 
+  Dell Poweredge experience
+  UCS Compute experience
+  Experience with Ideally Nimble, Pure, PowerScale and Qumulo as storage technologies
+ 
+  This job description may not be inclusive of all assigned duties and the scope of the job may change as necessitated by business demands.
+  
+  Additional Information
+  All applicants meeting minimum qualifications will be required to complete a 30 minute online assessment as part of your application.
+  Intelerad and Ambra Health Combine to Form the Global Industry Leader in Cloud PACS and Enterprise Imaging
+  Intelerad Partners with Strategic Radiology to Bring Innovative Medical Image Management Solutions to More than 1,300 Radiologists Across the US
+  Meet Intelerad’s Leadership Team: https://www.intelerad.com/en/about/leadership-team/
+  #LI-remote

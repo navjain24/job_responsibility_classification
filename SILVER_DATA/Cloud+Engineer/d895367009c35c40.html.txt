@@ -1,0 +1,59 @@
+
+ Company Description
+  Block is one company built from many blocks, all united by the same purpose of economic empowerment. The blocks that form our foundational teams — People, Finance, Counsel, Hardware, Information Security, Platform Infrastructure Engineering, and more — provide support and guidance at the corporate level. They work across business groups and around the globe, spanning time zones and disciplines to develop inclusive People policies, forecast finances, give legal counsel, safeguard systems, nurture new initiatives, and more. Every challenge creates possibilities, and we need different perspectives to see them all. Bring yours to Block.
+ 
+ 
+
+ Job Description
+  Block's Information Security culture is focused on helping our engineering teams build and ship secure products. We achieve this by designing, building, and deploying state-of-the-art security alongside our product and infrastructure teams.
+  The Cloud Risk and Insights team is responsible for defining our cloud security policies and finding and surfacing deviations. As an engineering team ourselves, we do this by building detection systems for major classes of security risk and coordinating with our policy, incident response, and platform teams. We believe that the secure option should also be the easiest option for our users. We're looking for a senior engineer with an understanding of securing infrastructure and services in a cloud-native world to help us implement this vision.
+  You will:
+ 
+   Build systems that detect and measure security posture for the next phase of Block's cloud
+   Build automation to help us discover, measure and contextualize security issues.
+   Partner with platform teams to solve entire categories of security risk.
+   Produce quality software that stands the test of time.
+   Work remotely or in any North American Block office.
+ 
+ 
+ 
+
+ Qualifications
+  You have:
+ 
+   5+ years of experience as a software or security engineer (we're a Python shop. Python experience is helpful but not required).
+   1+ years of experience developing software for or securing infrastructure running on AWS. Familiarity with Infrastructure-as-Code concepts and tools such as Terraform or CloudFormation.
+   Experience implementing cloud security and hardening, especially in a large or complex environment.
+   Delivered complex, cross organizational projects from concept to launch.
+ 
+  Bonus Points:
+ 
+   Ability to work well cross-functionally, and communicate with audiences who may not have a security background.
+   Experience in full stack development including user-facing tools and products.
+ 
+  Additional Information
+  Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.  Zone A: USD $245,100 - USD $299,500 Zone B: USD $232,800 - USD $284,600 Zone C: USD $220,600 - USD $269,600 Zone D: USD $208,400 - USD $254,700
+ 
+  To find a location’s zone designation, please refer to this resource. If a location of interest is not listed, please speak with a recruiter for additional information.
+  Full-time employee benefits include the following:
+ 
+   Healthcare coverage (Medical, Vision and Dental insurance)
+   Health Savings Account and Flexible Spending Account
+   Retirement Plans including company match
+   Employee Stock Purchase Program
+   Wellness programs, including access to mental health, 1:1 financial planners, and a monthly wellness allowance
+   Paid parental and caregiving leave
+   Paid time off (including 12 paid holidays)
+   Paid sick leave (1 hour per 26 hours worked (max 80 hours per calendar year to the extent legally permissible) for non-exempt employees and covered by our Flexible Time Off policy for exempt employees)
+   Learning and Development resources
+   Paid Life insurance, AD&D, and disability benefits
+   Additional Perks such as WFH reimbursements and free access to caregiving, legal, and discounted resources
+ 
+  These benefits are further detailed in Block's policies. This role is also eligible to participate in Block's equity plan subject to the terms of the applicable plans and policies, and may be eligible for a sign-on bonus. Sales roles may be eligible to participate in a commission plan subject to the terms of the applicable plans and policies. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans. 
+  US and Canada EEOC Statement
+  We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
+  We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our I+D page.
+  Additionally, we consider qualified applicants with criminal histories for employment on our team, and always assess candidates on an individualized basis.
+  
+  
+  Block, Inc. (NYSE: SQ) is a global technology company with a focus on financial services. Made up of Square, Cash App, Spiral, TIDAL, and TBD, we build tools to help more people access the economy. Square helps sellers run and grow their businesses with its integrated ecosystem of commerce solutions, business software, and banking services. With Cash App, anyone can easily send, spend, or invest their money in stocks or Bitcoin. Spiral (formerly Square Crypto) builds and funds free, open-source Bitcoin projects. Artists use TIDAL to help them succeed as entrepreneurs and connect more deeply with fans. TBD is building an open developer platform to make it easier to access Bitcoin and other blockchain technologies without having to go through an institution.

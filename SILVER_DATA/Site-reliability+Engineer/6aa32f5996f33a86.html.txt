@@ -1,0 +1,56 @@
+
+ Company Description
+  Achieve is a leading digital personal finance company. We help everyday people move from struggling to thriving by providing innovative, personalized financial solutions. By leveraging proprietary data and analytics, our solutions are tailored for each step of our member's financial journey to include personal loans, home equity loans, debt consolidation, financial tools and education. Every day, we get to help our members move their finances forward with care, compassion, and empathetic touch. We put people first and treat them like humans, not account numbers.
+ 
+ 
+
+ Job Description
+  As a Senior Engineer, you’ll impact the lives of everyday people and help them go from surviving to thriving with innovative digital personal finance solutions. You will have the opportunity to make a significant impact on our organization by ensuring the availability, scalability, and reliability of our systems and infrastructure. Your main focus will be on utilizing Datadog for monitoring and optimization, while also collaborating with cross-functional teams to enhance system performance through automation and infrastructure improvements. To excel in this role you will have expertise in APM tools (preferably Datadog), strong programming and scripting skills, proficiency in cloud platforms and containerization technologies, as well as excellent problem-solving, communication, and collaboration abilities. Preferred qualifications include certifications in Datadog, experience with infrastructure-as-code tools, and familiarity with CI/CD pipelines and related tools.
+  This is a remote position from within the United States only. No contract/1099/C2C.
+  Join Achieve, change the future
+  At Achieve, we’re changing millions of lives. From the single parent trying to catch up on bills to the entrepreneur needing a loan for the next phase of growth, you’ll get to be a part of their journey to a better financial future. We’re proud to have over 3,000 employees in mostly hybrid and 100% remote roles across the United States with hubs in Arizona, California, and Texas. We are strategically growing our teams with more remote, work-from-home opportunities every day to better serve our members. A career at Achieve is more than a job—it’s a place where you can make a true impact, have a sense of belonging, establish a fulfilling career, and put your well-being first.
+ 
+ 
+
+ Qualifications
+  What you’ll do:
+ 
+   Utilize your expertise in any APM tools (Datadog preferred) to develop and maintain an effective monitoring and observability framework for our systems and applications.
+   Design and implement custom dashboards, alerts, and anomaly detection mechanisms to proactively identify and resolve performance bottlenecks, security vulnerabilities, and other issues.
+   Collaborate with cross-functional teams, including software engineers, operations, and DevOps, to enhance system reliability and performance through automation and infrastructure improvements.
+   Continuously analyze system metrics, logs, and other relevant data to identify areas for optimization, capacity planning, and performance tuning.
+   Participate in incident response, root cause analysis, and post-mortem activities to ensure timely resolution of incidents and the implementation of preventative measures.
+   Stay up-to-date with industry best practices and emerging technologies related to site reliability engineering, monitoring, and observability tools.
+   Mentor and provide guidance to junior members of the SRE team, fostering their growth and helping them develop their skills.
+ 
+  What you’ll bring:
+ 
+   Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience).
+   Proven experience as a Site Reliability Engineer, with a focus on building and maintaining highly available and scalable systems.
+   In-depth knowledge and hands-on experience with APM (Datadog preferred), including creating custom dashboards, configuring alerts, and utilizing Datadog's APM and log management capabilities.
+   Strong programming and scripting skills (Python, Bash, or similar)
+   Proficiency in cloud platforms (GCP, AWS, or Azure) and containerization technologies (Docker, Kubernetes).
+   Solid understanding of networking concepts, distributed systems, and troubleshooting methodologies.
+   Experience with incident management, incident response, and on-call rotations.
+   Excellent problem-solving skills and the ability to work well under pressure in a fast-paced environment.
+   Strong communication and collaboration skills, with the ability to effectively work with cross-functional teams.
+   Knowledge of CI/CD pipelines and familiarity with tools such as Bitbucket, Jenkins, GitLab CI/CD, or CircleCI.
+ 
+  #LI-BS1
+  #LI-REMOTE
+  Additional Information
+  Achieve well-being with:
+ 
+   Hybrid and remote work opportunities
+   401 (k) with employer match
+   Medical, dental, and vision with HSA and FSA
+   Competitive vacation and sick time off, as well as dedicated volunteer days
+   Access to wellness support through Employee Assistance Program, Talkspace, and fitness discounts
+   Up to $5,250 paid back to you on eligible education expenses
+   Pet care discounts for your furry family members
+   Financial support in times of hardship with our Achieve Care Fund
+   A safe place to connect with other employees through our six employee resource groups
+ 
+  We are proudly offering hybrid options in the Phoenix, AZ metro market as well in San Mateo, CA. In other locations throughout the country we offer work from home in the following states:
+  Salary Range: $120,000 to $140,000 annually + bonus + benefits. This information represents the expected salary range for this role. Should we decide to make an offer for employment, we'll consider your location, experience, and other job-related factors.
+  Attention Agencies & Search Firms: We do not accept unsolicited candidate resumes or profiles. Please do not reach out to anyone within Achieve to market your services or candidates. All inquiries should be directed to Talent Acquisition only. We reserve the right to hire any candidates sent unsolicited and will not pay any fees without a contract signed by Achieve’s Talent Acquisition leader.

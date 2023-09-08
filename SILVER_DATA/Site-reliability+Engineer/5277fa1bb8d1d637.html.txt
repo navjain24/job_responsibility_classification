@@ -1,0 +1,89 @@
+
+ 
+  Site Name: USA - California - San Francisco, Cambridge 300 Technology Square, London The Stanley Building, USA - Washington - Seattle
+   
+  Posted Date: Aug 7 2023
+   This role can be office based within the greater Seattle, WA location. The specific location of the Seattle office will be determined in the near future.
+  
+   The Onyx Research Data Platform organization represents a major investment by GSK R&D and Digital & Tech, designed to deliver a step-change in our ability to leverage data, knowledge, and prediction to find new medicines. We are a full-stack shop consisting of product and portfolio leadership, data engineering, infrastructure and DevOps, data / metadata / knowledge platforms, and AI/ML and analysis platforms, all geared toward:
+  
+  
+    Building a next-generation data experience for GSK’s scientists, engineers, and decision-makers, increasing productivity and reducing time spent on “data mechanics”
+    Providing best-in-class AI/ML and data analysis environments to accelerate our predictive capabilities and attract top-tier talent
+    Aggressively engineering our data at scale to unlock the value of our combined data assets and predictions in real-time
+  
+  
+   The Knowledge Graph Platform Engineering team is responsible for the design, delivery, and maintenance of a world-class, scalable, and industrialized Knowledge Graph platform. They deliver a petabyte scale Knowledge Graph into production that is resilient, available, and most importantly scalable. They support and maintain the operations of the Knowledge Graph using a site reliability approach through monitoring, auditing, and alerting to intercept potential issues before they reach the analysis and end users. They deliver the infrastructure, IAC, and microservices used by application teams to create subgraphs that power artificial intelligence and analysis with the goal of accelerating drug discovery. They deliver the event driven microservices to bridge the gap between end user subgraph queries, data management, ontology management, and data governance systems.
+  
+   This role is responsible for architecting, building, and maintaining a world-beating Knowledge Graph Platform. The Senior Knowledge Graph Engineer is a leading technical contributor who can consistently design, scope, and deliver data projects. They should be deeply familiar with the languages and tools of modern data engineering (e.g., Scala, Spark, Kafka, ...), and engaged with the open-source community surrounding them. They support the Director of Knowledge Graph Platform Engineering in building a strong culture of accountability and ownership, as well as model best-in-class engineering practices (e.g., testing, code reviews, documentation, and DevOps-forward ways of working). They work in harmony with teammates and in close partnership with Product, Platform, and user groups such as AI/ML engineers to ensure the right data orchestration and robustness of our services. 
+  
+  Key responsibilities for the Sr. Data Engineer include:
+  
+    Designs, builds, and operates data tools, services, workflows, etc on petabytes of data on Cloud by leveraging modern data engineering tools and orchestration tools. 
+   Measure, optimize, and architect high performance systems, especially, evaluate and optimize Knowledge Graph data storage and query performance.
+    Resolve customer-facing issues and fix bugs. Debug and resolve complex issues related to knowledge graph construction and management in a timely manner.
+    Stay up-to-date with emerging trends and technologies in knowledge graph and streaming data processing.
+    Collaborate with cross-functional teams (product, platform, Quality, and DevOps) to translate business problems into technical solutions that leverage the knowledge graph. 
+   Fully versed in coding best practices and ways of working, participates in code reviews and provide constructive feedback to improve code quality and team’s standards.
+    Design, debug, and scale core query language engine.
+    Deploy to GCP using CI/CD best practices, monitor and manage GCP resources.
+    Develop secure, auditable, and performant graph query services for consumers such as AI/ML and other research teams, and integrate the query services into data catalogue, governance, and security services.
+  
+  
+   Why you?
+  
+   Basic Qualifications:
+   We are looking for professionals with these required skills to achieve our goals:
+  
+    Bachelors with 6 plus years' experience or Master's with 4 years' experience in computer science with a focus in Data Structures, Software Engineering, parallel computing paradigms
+    5 plus years of cloud experience e.g., AWS, Google Cloud, Azure, Kubernetes
+    1 plus years of experience with Spark or Scala
+  
+  
+   Preferred Qualifications:
+   If you have the following characteristics, it would be a plus:
+  
+    Masters or PHD in CS, Software Engineering or related discipline.
+    Deep experience with industry standard big data technologies e.g., Spark, BigQuery, Kafka, HDFS, Delta Lake.
+    Deep experience using Scala, including toolchain, documentation, testing, and operations / observability.
+    Strong functional programming background. Experience with parser combinators, relational algebra. 
+   Experience with linked data, especially RDF. 
+   Experience with various data storage solutions (SQL, key-value, column, document, graph stores). 
+   Experience with data modelling, particularly involving the use of semantic data and ontologies/taxonomies/business data.
+    Deep experience utilizing infrastructure as code technologies to produce repeatable architectures e.g., Terraform, Cloud templates
+    Experience delivering microservices utilizing an event driven architecture
+    Application experience of CI/CD implementations using git and a common CI/CD stack: e.g., Jenkins, CircleCI, GitLab, Azure DevOps
+    Experience in modern software development tools / ways of working: e.g., git/GitHub, DevOps tools, metrics / monitoring
+  
+  
+   Why GSK?
+   Our values and expectations are at the heart of everything we do and form an important part of our culture.
+   These include Patient focus, Transparency, Respect, Integrity along with Courage, Accountability, Development, and Teamwork. As GSK focuses on our values and expectations and a culture of innovation, performance, and trust, the successful candidate will demonstrate the following capabilities: 
+  
+   Agile and distributed decision-making – using evidence and applying judgement to balance pace, rigour and risk
+    Managing individual and team performance. Committed to delivering high quality results, overcoming challenges, focusing on what matters, execution.
+    Implementing change initiatives and leading change.
+    Sustaining energy and well-being, building resilience in teams.
+    Continuously looking for opportunities to learn, build skills and share learning both internally and externally.
+    Developing people and building a talent pipeline.
+    Translating strategy into action - a compelling narrative, motivating others, setting objectives and delegation.
+    Building strong relationships and collaboration, managing trusted stakeholder relationships internally and externally.
+    Budgeting and forecasting, commercial and financial acumen.
+  
+   #LI-GSK
+   #GSKOnyx
+   GSK offers a competitive compensation package inclusive of the following: Competitive base salary, annual bonus based on company performance, access to healthcare and wellbeing programs, retirement savings program, paid time off, and employee recognition programs which reward exceptional achievements. The salary range for this role is: $145,877 to $197,363GSK offers a competitive compensation package inclusive of the following: Competitive base salary, annual bonus based on company performance, access to healthcare and wellbeing programs, retirement savings program, paid time off, and employee recognition programs which reward exceptional achievements. The salary range for this role is: $145,877 to $197,363
+  
+   GSK is a global biopharma company with a special purpose – to unite science, technology and talent to get ahead of disease together – so we can positively impact the health of billions of people and deliver stronger, more sustainable shareholder returns – as an organisation where people can thrive. Getting ahead means preventing disease as well as treating it, and we aim to positively impact the health of 2.5 billion people by the end of 2030.
+  
+   Our success absolutely depends on our people. While getting ahead of disease together is about our ambition for patients and shareholders, it’s also about making GSK a place where people can thrive. We want GSK to be a workplace where everyone can feel a sense of belonging and thrive as set out in our Equal and Inclusive Treatment of Employees policy. We’re committed to being more proactive at all levels so that our workforce reflects the communities we work and hire in, and our GSK leadership reflects our GSK workforce.
+  
+   If you require an accommodation or other assistance to apply for a job at GSK, please contact the GSK Service Centre at 1-877-694-7547 (US Toll Free) or +1 801 567 5155 (outside US).
+  
+   GSK is an Equal Opportunity Employer and, in the US, we adhere to Affirmative Action principles. This ensures that all qualified applicants will receive equal consideration for employment without regard to race, color, national origin, religion, sex, pregnancy, marital status, sexual orientation, gender identity/expression, age, disability, genetic information, military service, covered/protected veteran status or any other federal, state or local protected class.
+  
+   Important notice to Employment businesses/ Agencies
+   GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.
+  
+   Please note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSK’s compliance to all federal and state US Transparency requirements. For more information, please visit GSK’s Transparency Reporting For the Record site.
+ 

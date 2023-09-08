@@ -1,0 +1,47 @@
+
+ Who we are 
+  At Cloudticity, our mission is to make every human on earth healthier by enabling healthcare organizations to leverage public clouds like AWS and GCP to deliver modern innovations and key insights. We enable healthcare organizations to be more effective at what they do by providing them with the tools, infrastructure, and guidance to build highly secure, available, and scalable solutions. Our Cloudticity Oxygen™ platform automates the vast majority of managed services tasks. As a result, we provide the most secure, agile, and responsive managed services available to the healthcare industry today. Data, analytics, and predictable forecasts are becoming increasingly important to us as our company reaches its next phase of maturity and reporting requirements.
+ 
+  We are adding a Cloud Engineer to our team to support our rapid growth. As a customer-centric Cloud Engineer, you will be responsible for the day-to-day operation of Cloud Engineering, working with customers on professional services engagements, Cloudticity’s help desk, and customer support services.
+ 
+  Responsibilities include: 
+  
+  Provide timely and effective solutions for customer requests. 
+  Ensure overall customer satisfaction with help desk requests. 
+  Identify, analyze and resolve infrastructure vulnerabilities and application deployment issues. 
+  Periodic on-call rotations for 24/7 support requests. 
+  Expand your AWS/GCP experience and skills. 
+  Ongoing support of L2 Support Engineering tasks (deployments of new services)
+ 
+  
+  
+  We are seeking someone with: 
+  
+  Authorized to work in the U.S. 
+  Practical experience with AWS of at least three years. 
+  Basic knowledge of networking and network layer topology. 
+  Basic understanding of Windows and Linux operating systems. 
+  AWS Solutions Architect Associate certification (or better) required. 
+  AWS Developer/Terraform Developer Associate certifications preferred. 
+  Real World experience w/GCP and experience deploying Terraform on GCP preferred. 
+  Passion for delivering outstanding customer service. 
+  Superior verbal and written communication. Seriously, this is important. 
+  Demonstrated ability to thrive in a fast-growing, dynamic company. 
+  Willing to be part of an on-call rotation. 
+  Willing to (sometimes) work off-hours during maintenance windows as work requires. 
+  
+ Some cool perks of working here:
+  
+ 
+  
+   An opportunity to work with a highly collaborative and entrepreneurial company with great coworkers who enjoy having fun and working hard. 
+  Competitive salaries and annual bonuses. 
+  Comprehensive health insurance available (medical, dental, and vision) for you and your family. 
+  Ridiculously flexible Paid Time Off and working hours/location policies. 
+  Employer-matching 401(k) plan. 
+  Choice of top-end MacBook or Windows laptop. 
+  Work from home. Forever.
+ 
+  
+  
+  Cloudticity is an Equal Opportunity Employer. At Cloudticity, almost everything matters except your age, gender, identity, the color of your skin, how you relate to the universe, who you choose to sleep with, or anything else of that nature. Our culture unites us, and we celebrate all our differences with fervor. If you’re smart and passionate about healthcare technology, we’ll embrace you just as you are.

@@ -1,0 +1,72 @@
+
+ 
+  
+   Imagine a world in which people build websites or products without Splunk, Mixpanel, or Datadog. That would be hard. Yet, for engineers working on modern robotics systems (such as self-driving cars or drones), that’s an analogous reality. These engineers often struggle to make informed decisions about their robots when things aren’t working correctly, and have to hack together solutions in-house.
+  
+  
+  
+    We're building a platform to ingest, search and analyze the vast amounts of data produced by robots. Our platform ingests data from a wide range of devices (such as cameras, lidars, radars, batteries, motors, and more), and then allows engineers to analyze and transform it. It’s AI. It's robotics. It’s autonomous systems. It’s the future. And it’s going to be huge. Join us!
+  
+  
+  
+    We’re looking for a Senior Frontend Engineer to join our founding team. In this role, you will be responsible for creating groundbreaking new user experiences that use AI to power the search, analysis and visualization of sensor data. We expect you to be deeply familiar with modern web technologies and have prior experience building products at high growth startups.
+  
+  
+ 
+  
+   TYPICAL QUALIFICATIONS
+   
+    
+      BS/MS/PhD in Computer Science or equivalent experience
+      At least 4 years of full-time experience building web applications
+      Expertise in JavaScript, TypeScript and React
+      Experience building scalable web applications with cross-browser support
+      Experience working closely with designers, product managers and backend engineers
+      Experience creating designs with HTML/CSS and modern frameworks (e.g. MUI)
+      Experience with visualization frameworks (e.g. WebGL, Three.js) and charting libraries
+      Experience building developer tools, data analytics or visualization products
+      Experience optimizing performance and state management in complex applications
+      Experience building desktop applications with Electron (a plus)
+      Experience with other programming languages such as Python (a plus)
+      Experience with the latest web technologies including Web Assembly/wasm (a plus)
+    
+   
+  
+  
+ 
+  
+   ABOUT US
+  
+  
+  
+    We are a small but mighty (and growing) group with a mission to help the industry build better robots and bring them to market faster. Our founding team is made up of experts in robotics, machine learning, computer vision and more. In past lives—we were founding engineers on the Amazon Prime Air team, led autonomy and simulation initiatives at Amazon Robotics, and implemented machine learning solutions from AWS into numerous Fortune 500 companies. We also count the Paul Allen Institute for AI as a co-founder, one of the world’s leading A.I. research institutions. We recently raised seed funding from some incredible investors, and we’re now moving fast to build for our customers.
+  
+  
+  
+    WHY JOIN
+  
+  
+  
+    BCG forecasts that the global robotics market will climb from $25 billion in 2021 to upwards of $260 billion by 2030. McKinsey forecasts that the global shared autonomous-driving market alone will be roughly $1.6 trillion by 2030. By any measure—the robotics industry is going to be huge—with the majority of that growth coming in the next 5-10 years. But what's clear is that the industry doesn’t have the tools to facilitate that growth.
+  
+  
+  
+    As a seed-funded startup, we also have several unique benefits that you can’t really get anywhere else:
+  
+  
+  
+    Personal impact — The opportunity to build something from the ground up and define a new product.
+  
+  
+  
+    Founding title — You will be one of our first hires. For the rest of our days, no matter how many thousands of people join after you, you will always have that honor and distinction.
+  
+  
+  
+    Early stage equity — Early stage risk comes with early stage equity for you. And none of us would be here if we didn’t think that our company will create tremendous value over time.
+  
+  
+  
+    Access to unique learning opportunities — With the Allen Institute for AI (AI2) as a co-founder, our team gets access to numerous talks by leading AI researchers/paper authors, access to knowledge sharing amongst the community of hundreds of engineers that work for AI2 companies, and much more.
+  
+ 

@@ -2,9 +2,9 @@ import puppeteer from 'puppeteer';
 import cheerio from 'cheerio';
 import fs from 'fs';
 import { makeDirIfNeeded } from './common.js';
+import { BRONZE_DATA } from './common.js';
 
 const INDEED_URL = 'https://www.indeed.com';
-const BRONZE_DATA = 'BRONZE_DATA';
 
 export async function scrapeRawData(jobRole, location) {
     const jobIds = await getJobIdsFromIndeed(jobRole, location);

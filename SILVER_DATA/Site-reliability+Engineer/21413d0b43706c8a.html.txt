@@ -1,0 +1,41 @@
+
+ Production Engineers at Facebook are hybrid software/systems engineers who ensure that Facebook's services run smoothly and have the capacity for future growth. They are embedded in every one of Facebook's product and infrastructure teams and are core participants in every significant engineering effort underway in the company.Our team is comprised of varying levels of experience and backgrounds, from new grads to industry veterans. Relevant industry experience is important (Site Reliability Engineer (SRE), Systems Engineer, Software Engineer, DevOps Engineer, Network Engineer, Systems Administrator, Linux Administrator, Database Administrator or similar role), but ultimately less so than your demonstrated abilities and attitude. We sail into uncharted waters every day at Facebook in Production Engineering, and we are always learning.This position is full-time.
+  
+  
+  
+ Production Engineer Responsibilities:  
+ 
+  Own back-end services like our Hadoop data warehouses, front-end services like Messenger and Newsfeed, infrastructure components like our Memcache infrastructure, and everything in between
+   Write and review code, develop documentation and capacity plans, and debug the hardest problems, live, on some of the largest and most complex systems in the world
+   Together with your engineering team, you will share an on-call rotation and be an escalation contact for service incidents
+   Partner alongside the best engineers in the industry on the coolest stuff around, the code and systems you work on will be in production and used by billions of users all around the world
+ 
+  
+  
+  
+ Minimum Qualifications: 
+ 
+   Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+   Engineering degree, or a related technical discipline, or equivalent work experience
+   6+ years experience with operating systems and TCP/IP network fundamentals
+   6+ years experience coding in higher-level languages (e.g., PHP, Python, C++, or Java)
+   6+ years experience in configuration and maintenance of applications such as web servers, load balancers, relational databases, storage systems and messaging systems
+   6+ years experience learning software, frameworks and APIs
+ 
+  
+  
+  
+ Preferred Qualifications: 
+ 
+   BS or MS in Computer Science
+ 
+  
+  
+  
+  
+  
+ 
+  Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment. 
+   
+   Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+ 

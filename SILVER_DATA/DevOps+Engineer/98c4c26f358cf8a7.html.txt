@@ -1,0 +1,75 @@
+
+ LauraMac is one of the leading providers of technology for companies acquiring assets in the mortgage secondary market. The company provides a unique client experience allowing all participants in a transaction (buyers, sellers, and third-party due diligence providers) to participate in the process and in the technology in real-time. State-of-the-art proprietary document recognition and data extraction models use deep learning and AI to start the process of validating documents and data. Configurable workflow allows clients to design the asset acquisition and due diligence process to fit their needs irrespective of the asset class and the level of review required on the loan. A robust rules engine allows clients to design their own findings and rules to automate tasks and create an exception-based review. This is a modern SaaS technology designed by mortgage professionals and built by experienced engineers.
+  
+ We are seeking an experienced and highly skilled Senior Cloud Engineer to join our dynamic IT team. As a Senior Cloud Engineer, you will play a critical role in designing, implementing, and maintaining our cloud infrastructure and services. You will be responsible for managing cloud environments on both AWS and Azure, optimizing system performance, ensuring high availability, and driving continuous improvements through efficient release management using CI/CD pipelines.
+  
+ The Basics
+  
+ 1. Cloud Infrastructure Management:
+  a. Design, deploy, and maintain cloud environments on AWS and Azure, ensuring scalability, reliability, and security of the infrastructure.
+  b. Monitor and optimize cloud resources to achieve maximum performance and cost-effectiveness.
+  c. Collaborate with the team to implement best practices and ensure compliance with security standards and policies.
+  2. New Relic Monitoring and Analysis:
+  a. Leverage New Relic to monitor application and infrastructure performance.
+  b. Analyze data and metrics to identify areas for improvement, troubleshoot issues, and proactively address potential bottlenecks.
+  3. Release Management and CI/CD Pipelines:
+  a. Develop, maintain, and optimize CI/CD pipelines to automate application deployments and releases.
+  b. Coordinate and execute seamless releases across development, staging, and production environments.
+  c. Troubleshoot deployment-related issues and provide timely resolutions.
+  4. Performance and Load Testing:
+  a. Conduct performance testing and load testing to ensure applications can handle expected user loads and identify performance bottlenecks.
+  b. Implement strategies to improve application performance and reliability.
+  5. Infrastructure Automation:
+  a. Develop and manage infrastructure as code (IaC) using tools like Terraform, AWS CloudFormation, or Azure Resource Manager templates.
+  b. Automate repetitive tasks and processes to increase efficiency and reduce manual interventions.
+  6. Security and Compliance:
+  a. Implement and maintain security measures to protect cloud infrastructure and applications from potential threats.
+  b. Ensure compliance with industry regulations and company security policies.
+  7. Team Collaboration:
+  a. Collaborate effectively with cross-functional teams, including development, operations, and security teams.
+  b. Mentor and guide junior team members in cloud engineering best practices.
+  
+ What You Bring 
+ Experience
+  
+  
+ 
+ 
+   Bachelor's degree in Computer Science, Information Technology, or related field (or equivalent work experience).
+  
+ 
+   5+ years of hands-on experience in cloud engineering, with a focus on AWS and Azure.
+  
+ 
+   Proficiency in using New Relic & CloudWatch for monitoring and analysis.
+  
+ 
+   Strong understanding of CI/CD pipeline development and release management practices.
+  
+ 
+   Experience with infrastructure as code (IaC) tools like Terraform or CloudFormation.
+  
+ 
+   Familiarity with containerization technologies (e.g., Docker, Kubernetes) is a plus.
+  
+ 
+   Solid understanding of networking concepts and security principles in cloud environments.
+  
+ 
+   Demonstrated ability to troubleshoot complex issues and provide effective solutions.
+  
+ 
+   Excellent communication skills and the ability to work collaboratively in a team environment.
+  
+ 
+   Relevant certifications (e.g., AWS Certified Solutions Architect, Azure Certified DevOps Engineer) are a plus.
+ 
+  
+ 
+ Join our innovative team and contribute to the ongoing success of our cloud infrastructure and services. As a Senior Cloud Engineer, you will have the opportunity to make a significant impact on the organization's technical landscape while growing your skills and expertise in cloud technologies and DevOps practices. 
+ Compensation Details - $110,000-$125,000 per year. Compensation is based on candidate’s level of experience.
+  
+ What We Bring - LauraMac offers an extensive benefits package, including medical, dental, vision!
+  - Flex paid time off policy.
+  
+ LauraMac is committed to equal opportunity in all employment practices to all qualified applicants and employees without regard to race, color, religion, gender, gender identity, sexual orientation, age, national origin, pregnancy, disability, genetics, marital status, military or veteran status or any other protected category as established by local, state, and federal law. This policy applies to all aspects of the employment relationship including recruitment

@@ -1,0 +1,86 @@
+
+ 
+  Embedded in a worldwide network Mercedes-Benz Research & Development North America continuously strives to remain at the forefront of successful automotive research and development. MBRDNA is headquartered in Silicon Valley, California, with key areas of Autonomous Driving, Advanced Interaction Design, Digital User Experience, Machine Learning, Customer Research, and Open Innovation. In Farmington Hills, Michigan, the focus is on Powertrain and eDrive technology as well as in Long Beach, where the teams test durability of the latest driver assistant and telematic systems. The Digital Hub in Seattle focusses on developing a cloud architecture and building out the cloud platform for the next generation of connected car services. The Testing and Regulatory Affairs Division in Ann Arbor and the Advanced Vehicle Design in Carlsbad complete the competence center.
+ 
+ 
+ 
+   Mercedes-Benz Seattle Hub is looking for an experienced Infrastructure Development Engineer to grow their career at our office in Seattle. The Infrastructure Development & Cloud Automation team focuses on building, maintaining, and automating the infrastructure for web services and applications that support our cloud business. We are engineers, developer, architects and SMEs with opportunities to develop software to support our charter. We are a geo-diverse team, developing an infrastructure platform to ensure operational stability for our software deployments, the development environment and delivery partners in their adoption of cloud based solutions and datacenters for Mercedes-Benz.
+  
+ Job Responsibilities:
+ 
+   Independently take product design specifications and deliver a well-defined design, implementation, and testable solution
+   Demonstrate knowledge of multiple cloud environments and deployment methodologies
+   Cultivate relationships with developers, engineers, and other technology partners to understand their infrastructure needs and deliver solutions
+   Provide mentorship and technical direction to associate team-members
+   Evangelize best practices and methodologies 
+  Identify opportunities to automate processes and procedures
+   Provide scalable engineering and supportability deliverables, resulting in products and services with more efficiency, lower risk, and reduced customer impact
+   Identify potential security and performance issues at multiple layers of deployment, from hardware, operating environment, network and application
+   Support deployment of Kubernetes infrastructure and containers hosted within cloud platforms
+   Provide technical expertise in identifying issues that affect availability and quality across the software product portfolio
+ 
+  Minimum Qualifications;
+ 
+   Bachelor’s degree in Computer Science OR Bachelor’s degree in a related field
+   2-4 years of professional experience with DevOps practices
+   Fluency in one or more programming or scripting languages, with the ability to review and understand workflow and language
+   Some level of proficiency in error analysis
+   Understanding of the infrastructure lifecycle, from requirements to design, to implementation, testing, environment set-up, multi-phase builds, and deployment approaches
+   Understanding of Configuration Management approaches, including tradeoffs involved with different solutions
+   Effective experience with Cloud-based Architecture, Services, and Provisioning
+   High level proficiency in the CI/CD process, including effective understanding of pipelines, provisioning, testing, and troubleshooting
+   Fundamental understanding of IaC (Infrastructure as Code), along with effective experience with at least one tool in this area
+   Understanding of instrumentation, logging levels, and system/software troubleshooting
+   Advanced understanding of Operating System components.
+   Strong written and oral communications skills with the ability to clearly articulate complex concepts
+   Excellent troubleshooting skills, with analytical, creative, and innovate approaches to solving problems with the drive to see an issue through to conclusion
+   Valid US Driver’s License
+ 
+  Preferred Qualifications:
+ 
+   Experience working in an Agile organization
+   Scripting skills (PowerShell, Python, Bash)
+   4+ years of experience with Amazon Web Services (AWS), Microsoft Azure or other Major cloud based technologies including administration and scripting of tasks
+   Can use VM based infrastructure as substitute skill
+   Experience with Kubernetes or similar container platform
+ 
+ 
+   The successful candidate’s starting pay will be determined based on a wide range of factors, including, but not limited to, job-related education, skills, and experience, geographic location, and market conditions. The current salary range for this position is as follows and may be modified in the future: $130,000 - $162,500.
+ 
+ 
+ 
+   Why should you apply?
+ 
+ 
+   Here at MBRDNA, you create digital ecosystems around cars, you design a language between humans and machines, you make a car even more intelligent - you make the new reality for cars. We have an open and flexible environment to allow you to push boundaries, join MBRDNA and design your future.
+ 
+ 
+ 
+   Benefits for Full-Time*
+   Employees Include:
+ 
+ 
+  Medical, dental, and vision insurance for employees and their families
+  401(k) with employer match 
+  Up to 18 company-paid holidays
+  Paid time off (unlimited for salaried employees), sick time, and parental leave
+  Tuition assistance program
+  Wellness/Fitness reimbursement programs
+  Vehicle lease subsidy or company car (for eligible employees only)
+  Internships excluded from Full-Time Employee benefits
+ 
+ 
+ 
+   MBRDNA is an equal opportunity employer (EOE) and strongly supports diversity in the workforce. MBRDNA only accepts resumes from approved agencies who have a valid Agency Agreement on file. Please do not forward resumes to our applicant tracking system, MBRDNA employees, or send to any MBRDNA location. MBRDNA is not responsible for any fees or claims related to receipt of unsolicited resumes.
+ 
+ 
+ 
+   Mercedes-Benz Research and Development North America, Inc.
+ 
+ 
+   PRIVACY NOTICE FOR CALIFORNIA RESIDENTS
+ 
+ 
+   https://mbrdna.com/california-employee-privacy-notice/
+ 
+

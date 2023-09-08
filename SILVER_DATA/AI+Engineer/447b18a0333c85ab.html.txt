@@ -1,0 +1,85 @@
+
+ 
+  
+   
+    Summary 
+    
+     
+      Posted: Jul 11, 2023
+      
+     
+      Weekly Hours: 
+      40
+      
+     
+      Role Number:
+      200490236
+      
+    
+    
+     Imagine what you can do here. Apple is a place where extraordinary people gather to do their lives best work. Together we create products and experiences people once couldn’t have imagined, and now, can’t imagine living without. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do.
+     
+   
+  
+ 
+ 
+  
+   
+    
+     
+      Key Qualifications 
+     
+     
+      
+       
+        Master’s degree or foreign equivalent in Information Technology, Computer Science, Data Engineering or related field and 2 years of experience in the job offered or related occupation. 
+        1 year of experience with each of the following skills is required: 
+        Spark and Map Reduce 
+        Scala 
+        Java 
+        oozie 
+        Machine learning 
+        Python 
+        Testing automation frameworks 
+        Hadoop. 
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      Description 
+     
+     
+      
+       Multiple positions available in Seattle, WA. Build search offline data pipelines and infrastructure to better support recall, relevance, ranking, real-time indexing, and personalization. Contribute to a large scale system design, query/document processing, index generation, and result set analysis and enhancing the performance and latency of the core search data platform. Design and implement solutions for automated unit and integration tests that catch anomalies and bugs early, guaranteeing the stability of our data sets all while working cross-functionally with other engineering teams. 40 hours/week. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $127,338 - $177,000/yr and your base pay will depend on your skills, qualifications, experience, and location. PAY & BENEFITS: Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits: https://www.apple.com/careers/us/benefits.html. Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.
+       
+     
+    
+   
+  
+  
+   
+    
+     
+      Education & Experience 
+     
+    
+   
+  
+  
+  
+   
+    
+     
+      Additional Requirements
+     
+    
+   
+  
+ 
+
