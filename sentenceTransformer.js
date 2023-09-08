@@ -17,7 +17,7 @@ async function getHuggingFaceEmbedding(sentence) {
         const data = {"inputs": texts, "options":{"wait_for_model":"True"}};
         //const response = await axios.post(api_url, data, config);
         const response = await myTransformationPipeline(sentence);
-        console.log(response.data);
+        //console.log(response.data);
         return response.data;
     } catch (error) {
       console.error(error);
@@ -26,6 +26,5 @@ async function getHuggingFaceEmbedding(sentence) {
 
 export async function createEmbedding(sentence){
     const response = await getHuggingFaceEmbedding(sentence);
-    console.log(response);
-    return response.length;
+    return response;
 } 
