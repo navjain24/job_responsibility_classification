@@ -2,6 +2,13 @@ const puppeteer = require('puppeteer');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
+//wink-nlp
+const winkNlp = require ('wink-nlp');
+// Load english language model — light version.
+const model = require( 'wink-eng-lite-web-model' );
+// Instantiate winkNLP.
+const nlp = winkNlp( model );
+
 const natural = require('natural');
 // Tokenizer for Natural library
 const tokenizer = new natural.SentenceTokenizer();
@@ -35,7 +42,7 @@ async function processJobRole(jobRole, location)
 
   //BRONZE
   //Scrape raw data from the URL
-  //await scrapeRawData(jobRole, location);
+  await scrapeRawData(jobRole, location);
 
   //SILVER
   //Extract responsibilities to Silver data folder
@@ -112,10 +119,11 @@ async function getRawJobDetailPage(jobRole, location, jobId) {
 
   await browser.close();
 
-  const parentFolder = `${jobRole}_${location}`;
-  await makeDirIfNeeded(parentFolder);
+  const rootFolder = BRONZE_DATA
+  await makeDirIfNeeded(rootFolder);
 
-  const destinationFolder = `${parentFolder}/${BRONZE_DATA}`;
+  const parentFolder = `${jobRole}_${location}`;
+  const destinationFolder = `${rootFolder}/${parentFolder}`;
   await makeDirIfNeeded(destinationFolder);
 
   fs.writeFileSync(`${destinationFolder}/${jobId}.html`, rawDetail);      
@@ -124,44 +132,51 @@ async function getRawJobDetailPage(jobRole, location, jobId) {
 
 async function extractResponsibilities(jobRole, location)
 {
+  const rootFolder = BRONZE_DATA
   const parentFolder = `${jobRole}_${location}`;
-  
-  const sourceFolder = `${parentFolder}/${BRONZE_DATA}`;
-  const destinationFolder = `${parentFolder}/${SILVER_DATA}`;
-  await makeDirIfNeeded(destinationFolder);
-
-  const destinationFilePath = `${destinationFolder}/sentences.txt`;
-
+  const sourceFolder = `${rootFolder}/${parentFolder}`;
 
   console.log(`[Silver] Processing folder: ${sourceFolder}`);
 
   const files = fs.readdirSync(sourceFolder)
 
   //process all files using forEach
-  files.forEach(async function (file) {      
-    if(file.endsWith("html"))
+  files.forEach(async function (fileName) {      
+    if(fileName.endsWith("html"))
     {  
-      const fullFilePath = `${parentFolder}/${BRONZE_DATA}/${file}`;
-      await extractResponsibilitiesFromSingleJob(fullFilePath);
+      await extractResponsibilitiesFromSingleJob(jobRole, location, fileName);
     }
   });
 }
 
-async function extractResponsibilitiesFromSingleJob(fullFilePath)
+async function extractResponsibilitiesFromSingleJob(jobRole, location, fileName)
 {
-  console.log(`Processing file: ${fullFilePath}`); 
+  const parentFolder = `${jobRole}_${location}`;
+  const sourceRootFolder = BRONZE_DATA;
+  const sourceFullFilePath = `${sourceRootFolder}/${parentFolder}/${fileName}`;
+
+  console.log(`Processing file: ${sourceFullFilePath}`); 
 
   //jobDescriptionText
-  const pageDataHtml = fs.readFileSync(fullFilePath, 'utf8');
+  const pageDataHtml = fs.readFileSync(sourceFullFilePath, 'utf8');
   const $ = cheerio.load(pageDataHtml);
   
   let jobDescriptionElement = $("#jobDescriptionText");
   const jobDescription = jobDescriptionElement.text();
 
-  const sentences = await tokenizer.tokenize(jobDescription);
+  // Read text
+  const doc = nlp.readDoc( jobDescription );
+  // Extract sentences from the data
+  const sentences = doc.sentences().out();
    
   //Create a new file to store the output
-  const destinationFilePath = `${fullFilePath}.txt`;
+  const destinationRootFolder = SILVER_DATA
+  await makeDirIfNeeded(destinationRootFolder);
+
+  const destinationFolder = `${destinationRootFolder}/${parentFolder}`;
+  await makeDirIfNeeded(destinationFolder);
+
+  const destinationFilePath = `${destinationFolder}/${fileName}.txt`;
   var destinationWriteStream = fs.createWriteStream(destinationFilePath);
   
   sentences.forEach((sentence, index) => {

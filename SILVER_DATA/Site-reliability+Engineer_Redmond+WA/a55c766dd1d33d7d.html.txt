@@ -1,0 +1,111 @@
+0:Job Description:
+ 
+ 
+   Remitly is on a mission to transform the lives of immigrants and their families by providing the most trusted financial products and services on the planet.
+1:Since 2011, we have been tirelessly delivering on our promises to immigrants sending their hard earned money home.
+2:Today, we are reimagining international payments at scale and building new products to create deeper relationships with our customers and their loved ones across the globe.
+3:Join over 2,700 employees across 10 offices who are growing their careers while having a positive impact on people globally.
+4:About the Role:
+ 
+ 
+   Come be a founding member of Remitly's Site Reliability Engineering (SRE) team!
+5:We work across Remitly's engineering organization driving programs that improve reliability and availability.
+6:Areas of focus include Observability, Incident Response, and Traffic Management (rate limiting, circuit breaking, etc).
+7:As a Senior Developer on the team, you will build and extend software focused on solving challenges in these domains, and roll out solutions that can be used by all services.
+8:Additionally you will help set the vision for where this team goes next, and mentor junior team members.
+9:You Will:
+ 
+ 
+  
+   
+     Evaluate and integrate/build systems in SRE domains such as observability, rate limiting, traffic splitting, incident management, and problem management
+   
+  
+   
+     Implement a company wide strategy for Observability, including the tooling necessary to make it a reality.
+10:Provide technical mentorship to other Remitly teams on how to best monitor their systems.
+11:Identify company wide opportunities to improve availability, and implement automation and tooling to address.
+12:Automate routine tasks, either independently or working with other developers
+   
+  
+   
+     Participate in an on-call rotation for production issues.
+13:Provide mentorship to junior team members
+   
+ 
+ 
+ 
+   You Have:
+ 
+ 
+  
+   
+     5+ years as a Software Development Engineer
+   
+  
+   
+     3+ years architecting and operating highly available services in a cloud provider such as AWS
+   
+  
+   
+     Proficient in at least one high-level programing language such as Java, Go, or Python
+   
+  
+   
+     2+ years experience driving collaborative projects from conception to delivery using Agile/Kanban methodology
+   
+  
+   
+     Experience implementing Observability tooling at scale (Prometheus, CloudWatch, New Relic, Dynatrace, etc)
+   
+  
+   
+     Deep understanding and passion for SRE concepts, patterns and tooling
+   
+ 
+ 
+ 
+   Our Benefits:
+ 
+ 
+  
+   
+     Unlimited paid time off
+   
+  
+   
+     Health, dental, and vision benefits + 401k plan with company matching
+   
+  
+   
+     Company contributions to your HSA or FSA plan, if you choose one
+   
+  
+   
+     Employee Stock Purchase Plan (ESPP) available for eligible employees
+   
+  
+   
+     Continuing education and corridor travel benefits
+   
+ 
+ 
+ 
+   Remitly is an Equal Opportunity Employer.
+14:Equal employment opportunity has been, and will continue to be, a fundamental principle at Remitly.
+15:We are committed to nondiscrimination across our global organization and in all of our business operations.
+16:Employment is determined based on personal capabilities and qualifications without discrimination on the basis of race, creed, color, religion, sex, gender identification and expression, marital status, military status or status as an honorably discharge/veteran, pregnancy (including a woman's potential to get pregnant, pregnancy-related conditions, and childbearing), sexual orientation, age (40 and over), national origin, ancestry, citizenship or immigration status, physical, mental, or sensory disability (including the use of a trained dog guide or service animal), HIV/AIDS or hepatitis C status, genetic information, status as an actual or perceived victim of domestic violence, sexual assault, or stalking, or any other protected class as established by law.
+17:#LI-Hybrid
+ 
+ 
+   Remitly is an E-Verify Employer
+ 
+ 
+ 
+   Compensation Details.
+18:The starting base salary range for this position is typically $159,090 -$210,000.
+19:In the U.S., Remitly employees are shareholders in our Company and equity is part of our total compensation plan.
+20:Your recruiter can share more information about medical benefits offered, as well as other financial benefits and total compensation components offered with this role.
+21:Remitly is an equal opportunity employer.
+22:We celebrate diversity and are committed to creating an inclusive environment for all employees.
+23:

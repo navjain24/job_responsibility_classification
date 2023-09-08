@@ -1,0 +1,180 @@
+0:At F5, we strive to bring a better digital world to life.
+1:Our teams empower organizations across the globe to create, secure, and run applications that enhance how we experience our evolving digital world.
+2:We are passionate about cybersecurity, from protecting consumers from fraud to enabling companies to focus on innovation.
+3:Everything we do centers around people.
+4:That means we obsess over how to make the lives of our customers, and their customers, better.
+5:And it means we prioritize a diverse F5 community where each individual can thrive.
+6:Why do you want to join our team?
+7:At F5, we strive to bring a better digital world to life.
+8:Our teams empower organizations across the globe to create, secure, and run applications that enhance how we experience our evolving digital world.
+9:We are passionate about cybersecurity, from protecting consumers from fraud to enabling companies to focus on innovation.
+10:Everything we do centers around people.
+11:That means we obsess over how to make the lives of our customers, and their customers, better.
+12:And it means we prioritize a diverse F5 community where each individual can thrive.
+13:Position Summary
+ 
+ 
+   Software engineering is a core discipline at F5 for many roles.
+14:As a software engineer specializing in site reliability, you will bring a software engineering and automated solution mindset to your work.
+15:The Site Reliability Engineer III will be responsible for ensuring the reliability, availability, and scalability of critical systems and SaaS platforms.
+16:Systems under the care of an SRE III must operate effectively and reliably through scalable builds and deployments, frequent releases, and complex architectures that encompass modern technologies.
+17:You will work closely with technical and non-technical teams throughout the organization to facilitate the design and implementation of scalable solutions, drive automation initiatives, and monitor and maintain the performance of critical systems.
+18:What You’ll Do
+ 
+ 
+  
+   
+     Apply modern engineering principles and practices to operational functions and employ this methodology throughout the full system lifecycle; from initial concept and architecture through deployment, daily operation, and overall optimization, and apply these practices to refining existing systems.
+19:Support and maintain technology systems to ensure optimal performance, reliability, and security.
+20:Scale systems sustainably through mechanisms such as automation and evolve systems by fostering changes that improve velocity.
+21:Troubleshoot and resolve complex issues, including systems failures, connectivity problems, and performance bottlenecks.
+22:Partner with cross-functional teams to design and implement scalable and robust system architecture to improve services on an ongoing basis
+   
+  
+   
+     Investigate various open source and proprietary technologies, components, libraries, tools etc. and help build a highly available, highly scalable and easily manageable system
+   
+  
+   
+     Apply observability and data skills to proactively measure system performance, diagnosing services/needs and quickly identify solutions.
+23:Participate in service operation and RCA activities and assist with defining SLOs and SLIs for business stakeholders
+   
+  
+   
+     Implement and enforce security best practices to protect our systems, data, and infrastructure against unauthorized access, cyber threats, and vulnerabilities.
+24:Create and maintain comprehensive knowledge bases for system documentation, including standard operating procedures, configurations, and troubleshooting guides, to support end-users' ability to use the systems effectively.
+25:Participate in on-call rotation.
+26:Responsible for upholding F5’s Business Code of Ethics and for promptly reporting violations of the Code or other company policies.
+27:Performs other related duties as assigned.
+28:The Job Description is intended to be a general representation of the responsibilities and requirements of the job.
+29:However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.
+30:What You’ll Bring
+ 
+ 
+  
+   
+     A code-first approach to managing resources in cloud platforms, SaaS platforms, containerization, and orchestration
+   
+  
+   
+     Proficiency in Agile delivery, DevOps principles and associated tools and technologies like Azure ADO Pipelines
+   
+  
+   
+     Knowledge in technology systems including infrastructure or SaaS platforms like Azure, O365
+   
+  
+   
+     Experience with infrastructure-as-code frameworks such as Terraform, CloudFormation, Ansible, Puppet, or PowerShell DSC
+   
+  
+   
+     Expert level proficiency with a scripting language such as PowerShell, Python, Bash, or Go
+   
+  
+   
+     Knowledge in full stack development on Azure services
+   
+  
+   
+     Familiarity with SLI/SLO and observability/monitoring
+   
+  
+   
+     Knowledge with identity platforms such as OKTA or SailPoint
+   
+  
+   
+     Familiarity with security and identity protocols like SAML, OIDC, OAuth
+   
+  
+   
+     Experience building resilient automated infrastructure solutions
+   
+  
+   
+     Familiarity with compliance and regulatory guidelines
+   
+  
+   
+     Solid understanding of cybersecurity principles and best practices.
+31:Demonstrated ability to work both independently and as an integral member of an agile team
+   
+  
+   
+     Experience with observability tooling including logging infrastructure, time series metrics databases, tracing systems, alert definitions, etc.
+   
+  
+   
+     Proficient communication, planning, problem solving, trouble shooting, and organization skills
+   
+  
+   
+     Flexibility to adapt to changing project requirements and timelines Qualifications
+   
+ 
+ 
+ 
+   Job Description
+ 
+ 
+  
+   
+     BS/BA or equivalent work experience
+   
+  
+   
+     5+ years' experience as a software engineer specializing in site reliability similar role in a technology environment.
+32:Technical confidence and familiarity with DevOps tools.
+33:Strong proficiency in scripting and/or programming languages.
+34:Hands on experience with technology systems tools, protocols, and platforms.
+35:Our Values
+ 
+ 
+   At F5, we live and breathe our core values, Excellence, Integrity, Collaboration, Customer Dedication, Profitable Growth, Innovation, Employee Success, and Diversity.
+36:We help each other achieve our goals, value the diversity of ideas different backgrounds can bring, emphasize teamwork over rock-stars, work hard and most of all have fun.
+37:We offer 
+  
+   work/life integration programs
+   like Freedom to Flex, dynamic employee inclusion groups, paid maternity/paternity leave, tuition assistance for professional development, a comprehensive mentoring program, rewards/recognition, and so much more.
+38:At F5, we truly do help each other thrive and it shows: F5 has been named one of the “World’s Most Admired Companies” by Fortune magazine for the past two years.
+39:And this dedication to living our culture doesn’t just exist within our offices; it extends into our communities through 
+  
+   Global Good initiatives
+   such as employee matching, volunteer opportunities, and the F5 Foundation.
+40:Our employees are passionate about making a difference in the world.
+41:This is a once-in-a-lifetime opportunity to become part of a company that’s on the forefront of transformation.
+42:And because we know that a more diverse F5 is a more powerful F5, we’re looking for smart, passionate, determined individuals to join us.
+43:If you make thoughtful decisions quickly, obsess over your customers’ needs, take ownership of your work (the mistakes as well as the successes), and embrace different perspectives by putting the human first, then we want to talk to you.
+44:The Job Description is intended to be a general representation of the responsibilities and requirements of the job.
+45:However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.
+46:The annual U.S. base pay range for this position is: $123,808.00 - $185,712.00
+ 
+ 
+   F5 maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, geographic locations, and market conditions, as well as to reflect F5’s differing products, industries, and lines of business.
+47:The pay range referenced is as of the time of the job posting and is subject to change.
+48:You may also be offered incentive compensation, bonus, restricted stock units, and benefits.
+49:More details about F5’s benefits can be found at the following link: 
+  
+   https://www.f5.com/company/careers/benefits
+  
+  .
+50:F5 reserves the right to change or terminate any benefit plan without notice.
+51:Please note that F5 only contacts candidates through F5 email address (ending with @f5.
+52:com) or auto email notification from Yello/Workday (ending with f5.
+53:com or @myworkday.
+54:com).
+55:Equal Employment Opportunity
+ 
+ 
+ 
+   It is the policy of F5 to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or mental disability, marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws.
+56:This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination.
+57:F5 offers a variety of reasonable accommodations for candidates.
+58:Requesting an accommodation is completely voluntary.
+59:F5 will assess the need for accommodations in the application process separately from those that may be needed to perform the job.
+60:Request by contacting 
+  
+   accommodations@f5.com
+  .
+61:

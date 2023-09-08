@@ -1,0 +1,78 @@
+0:Job Summary and Mission
+ 
+  
+  
+ 
+ 
+  This position contributes to Starbucks success by managing the planning and execution of activities of a Data Engineering Team.
+1:As a manager in data engineering, you are responsible for managing a team of data engineers through planning, delivery and operations of solutions.
+2:This is a hands on technical role.
+3:You are also responsible for the evolvement, delivery and support the technology strategy and roadmaps for new and existing applications and platforms.
+4:This role requires managerial experience, technical expertise, domain proficiency, platform depth, and leadership.
+5:Models and acts in accordance with Starbucks guiding principles.
+6:Summary of Key Responsibilities and essential job functions include but are not limited to the following:
+   
+ 
+ 
+   
+  Leadership– Setting goals for the work group, developing organizational capability, and modeling how we work together:
+   
+ 
+ 
+   
+  
+   Identifies and communicates key responsibilities and practices to ensure the immediate team of direct reports promotes a successful attitude, confidence in leadership, and teamwork to achieve business results.
+7:Supports the implementation of company programs to ensure the success of the Company.
+8:Accountable for delivery of development and operational efforts of the team by ensuring efforts are staffed, structured, budgeted and prioritized appropriately.
+9:Provides technical leadership to the team by introducing technical topics, sponsoring opportunities for innovation and recognizing technical excellence.
+10:Coaches and mentors cross functional team members in learning new skills and technologies 
+  
+ 
+ 
+   
+  Planning and Execution– Developing strategic and operational plans for the work group, managing execution, and measuring results:
+   
+ 
+ 
+   
+  
+   Prepares, communicates, and educates client groups and team on changes in policies and practices within the organization.
+11:Plans and manages business unit and department processes and practices to ensure that programs are aligned with company business goals and objectives.
+12:Collaborates effectively in planning, decomposing, estimating, scheduling, prioritization and resource allocation exercises.
+13:Organizes and leads teams through agile methodologies.
+14:Technical Design and Implementation – Providing technical expertise and executing technical responsibilities:
+   
+ 
+ 
+   
+  
+   Leads and influences cross functional teams in exploratory efforts with new technologies and solutions that are relevant to the organization.
+15:Manages the technical team through the solution design process.
+16:Leverages and develops talent on the team through all phases of project efforts, including requirements gathering, assessment and backlog refinement.
+17:Shapes and guides systems approach, manages project initiation, technical design and development efforts.
+18:Ensures data engineering has appropriate design patterns and coding standards in place.
+19:Directs team toward secure, durable, scalable, flexible, and accessible solutions that proactively mitigate against production support issues.
+20:Cultivates a test-driven development culture.
+21:Ensures application development team establishes standards and requirements for automated test coverage per platform capabilities.
+22:Grows and improves platform offering and coverage for continuous build and integration testing.
+23:Partner Development and Team Building – Providing partners with coaching, feedback, and developmental opportunities, and building effective teams:
+   
+ 
+ 
+   
+  
+   Provides partners with coaching, feedback and developmental opportunities and builds effective teams.
+24:Challenges and inspires team members to achieve business results.
+25:Ensures partners adhere to legal and operational compliance requirements.
+26:Oversees training and development of partners directly and indirectly managed and makes effective staffing decisions.
+27:Provides coaching, direction and leadership support to team members in order to achieve partner, business and customer results.
+28:
+29:/div>
+  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+30:We are committed to creating a diverse and welcoming workplace that includes partners with diverse backgrounds and experiences.
+31:We believe that enables us to better meet our mission and values while serving customers throughout our global communities.
+32:People of color, women, LGBTQIA+, veterans and persons with disabilities are encouraged to apply.
+33:Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal state and local ordinances.
+34:Starbucks Corporation is committed to offering reasonable accommodations to job applicants with disabilities.
+35:If you need assistance or an accommodation due to a disability, please contact us at applicantaccommodation@starbucks.com.
+36:

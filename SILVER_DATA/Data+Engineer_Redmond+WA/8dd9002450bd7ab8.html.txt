@@ -1,0 +1,92 @@
+0:Associate Software Engineer - Data Collector/ Labeler
+  
+   072883
+  
+ 
+ 
+   
+  
+   Life at Capgemini 
+   Capgemini supports all aspects of your well-being throughout the changing stages of your life and career.
+1:For eligible employees, we offer: 
+   
+   Flexible work 
+   Healthcare including dental, vision, mental health, and well-being programs 
+   Financial well-being programs such as 401(k) and Employee Share Ownership Plan 
+   Paid time off and paid holidays 
+   Paid parental leave 
+   Family building benefits like adoption assistance, surrogacy, and cryopreservation 
+   Social well-being benefits like subsidized back-up child/elder care and tutoring 
+   Mentoring, coaching and learning programs 
+   Employee Resource Groups 
+   Disaster Relief 
+  
+  About Capgemini Engineering 
+   World leader in engineering and R&D services, Capgemini Engineering combines its broad industry knowledge and cutting-edge technologies in digital and software to support the convergence of the physical and digital worlds.
+2:Coupled with the capabilities of the rest of the Group, it helps clients to accelerate their journey towards Intelligent Industry.
+3:Capgemini Engineering has more than 55,000 engineer and scientist team members in over 30 countries across sectors including Aeronautics, Space, Defense, Naval, Automotive, Rail, Infrastructure & Transportation, Energy, Utilities & Chemicals, Life Sciences, Communications, Semiconductor & Electronics, Industrial & Consumer, Software & Internet.
+4:Capgemini Engineering is an integral part of the Capgemini Group, a global leader in partnering with companies to transform and manage their business by harnessing the power of technology.
+5:The Group is guided every day by its purpose of unleashing human energy through technology for an inclusive and sustainable future.
+6:It is a responsible and diverse organization of over 360,000 team members in more than 50 countries.
+7:With its strong 55-year heritage and deep industry expertise, Capgemini is trusted by its clients to address the entire breadth of their business needs, from strategy and design to operations, fueled by the fast evolving and innovative world of cloud, data, AI, connectivity, software, digital engineering and platforms.
+8:The Group reported in 2022 global revenues of €22 billion.
+9:Get the Future You Want | www.
+10:capgemini.
+11:com 
+   Disclaimer 
+   Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace.
+12:All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.
+13:This is a general description of the Duties, Responsibilities and Qualifications required for this position.
+14:Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed.
+15:Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.
+16:Capgemini is committed to providing reasonable accommodations during our recruitment process.
+17:If you need assistance or accommodation, please reach out to your recruiting contact.
+18:Applicants for employment in the US must have valid work authorization that does not now and/or will not in the future require sponsorship of a visa for employment authorization in the US by Capgemini.
+19:Capgemini discloses salary range information in compliance with state and local pay transparency obligations.
+20:The disclosed range represents the lowest to highest salary we, in good faith, believe we would pay for this role at the time of this posting, although we may ultimately pay more or less than the disclosed range and the range may be modified in the future.
+21:The disclosed range takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to, geographic location, relevant education, qualifications, certifications, experience, skills, seniority, performance, sales or revenue-based metrics, and business or organizational needs.
+22:At Capgemini, it is not typical for an individual to be hired at or near the top of the range for their role.
+23:The base salary range for the tagged location is [$ 37,200 - $63,122 /yr].
+24:This role may be eligible for other compensation including variable compensation, bonus, or commission.
+25:Full-time regular employees are eligible for paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees.
+26:Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable.
+27:The amount and availability of any bonus, commission, or any other form of compensation that is allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law
+ 
+ 
+ 
+   Job description: We are looking for a strong data collection analyst to support one of our Enterprise Clients.
+28:This person will improve data collection as well as avoid the collection of irrelevant information.
+29:Key responsibilities:
+    Data ingestion as well as processing of failed collections.
+30:Minimize/eliminate downtime associated with procuring, ingesting, and handling collection only after assets are no longer viable.
+31:Deliver, collect and label data that meet quality standards set by the feature team.
+32:Ensure work orders remain within timelines and budgets provided.
+33:Support streamlining Data Collection/Ingestion Process(s)
+    Ensure updated inventory lists of all team equipment.
+34:After-hours data collection
+    Drive efficiencies in the ingestion/recovery time by following appropriate SOP Including standardizing equipment, collection, and ingestion procedures.
+35:Required Skills:
+    Experience in manual ground truth data collection and labeling
+    Experience with manual testing of windows and Azure systems.
+36:Preferred Skills:
+    
+   
+    Past experience with Powershell and C# is an added advantage
+   
+  
+ 
+ 
+ 
+   
+ 
+ 
+   Job Programmer/Analyst
+ 
+ 
+   Schedule Full-time
+ 
+ 
+   Primary Location US-WA-Redmond
+ 
+ 
+   Organization ERD PPL US

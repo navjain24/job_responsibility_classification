@@ -1,0 +1,58 @@
+0:Key job responsibilities:
+1:Provision and manage AWS infrastructure, including EC2, CloudFormation Templates, AppStream, and Load Balancers.
+2:Build dash boarding and alarming to drive Operational Excellence.
+3:Work with a wide range of technologies, and AWS products.
+4:Build AWS Application Environments including VPC, EC2, RDS, SSM, S3.
+5:Architect and setup infrastructure on AWS and AWS gov-cloud environments.
+6:Analyze and Support setup of new devices connectivity to applications.
+7:Monitor network connectivity between all internal and external systems.
+8:Work closely with Application leads to understand needs and plan for infrastructure demands.
+9:Drive automation of routine tasks to help scale the operations.
+10:Maintain hardware architecture documentation for all infrastructure and networking components.
+11:Support Identity and Access Management (IAM) initiatives building highly secure working environments.
+12:You will work collaboratively with internal security teams and key stakeholders to intake requirements and deliver a customer obsessed IAM experience.
+13:Basic Qualification
+14:Bachelor’s Degree in Systems Engineering, Computer Science or related field, or relevant work experience.
+15:4+ years of experience in Systems and Network Administration, DevOps, or Site Reliability Engineering.
+16:4+ years of experience with focus in areas such as systems, network and/or application security.
+17:4+ years of experience with web protocols and Linux/Unix tools and architecture.
+18:4+ year experience building scripts, tooling, and automation for large-scale computing environments using Python, Java, PHP, Ruby, or Bash/Shell.
+19:Experience communicating with technical and non-technical stakeholders at all levels across multiple business units.
+20:Demonstrable track record dealing well with ambiguity, prioritizing needs, and delivering measurable results in an agile environment.
+21:Preferred Qualifications:
+22:5+ years of experience in Systems and Network Administration, DevOps, or Site Reliability Engineering.
+23:Demonstrable expertise around specifying, designing, and/or implementing system health, performance monitoring tools, and software management tools for 24x7 environments.
+24:Practical knowledge of Role-based identity management including SPML and SAML protocols for provisioning.
+25:Experience in the Identity and Access Management field with Practical experience in LDAP and AD implementations in support of enterprise directory services.
+26:Familiarity with AWS Cloud Security controls and deployment
+ Excellent problem-solving skills and development of creative solutions
+ Understanding of design for scalability, performance, and reliability.
+27:Automation, testing or monitoring framework development experience.
+28:Understanding of common network and federated authentication protocols like Kerberos, OAUTH, NTLM, OIDC, SAML, FIDO, etc.
+ Expertise in directory schema design and data integration
+29:Job Type: Full-time
+Pay: $100,000.00 - $150,000.00 per year
+Benefits:
+30:401(k)
+ 401(k) matching
+ Dental insurance
+ Employee discount
+ Flexible schedule
+ Flexible spending account
+ Health insurance
+ Health savings account
+ Life insurance
+ Paid time off
+ Referral program
+ Retirement plan
+ Tuition reimbursement
+ Vision insurance
+31:Compensation package:
+32:Hourly pay
+33:Experience level:
+34:5 years
+35:Schedule:
+36:8 hour shift
+37:Ability to commute/relocate:
+38:Redmond, WA 98052: Reliably commute or planning to relocate before starting work (Required)
+39:Work Location: Hybrid remote in Redmond, WA 98052

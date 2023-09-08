@@ -1,0 +1,56 @@
+0:Who is Wyze?
+1:Wyze is a high growth, Series B, consumer technology company.
+2:Our vision is to make great technology accessible to everyone through our smart home platform.
+3:Our aim is to serve everyday people, like me, you, and our friends and families, with too good to be true products and services.
+4:We want employees who will be inspired by this and welcome all who will help us build the next amazing chapter at Wyze.
+5:Wyze is home to some of the most innovative products and services in the market.
+6:Forbes named us in their America’s Best Startup Employers 2023 list, Time Magazine selected us for their 100 Most Influential Companies of 2022, Fast Company named us as one of the Most Innovative Companies in 2021and PCMag gave our Cam v3 an Editor’s Choice Award.
+7:We disrupted the market with our Wyze Cam v1 and then quickly took over as a market leader in the space.
+8:We recently disrupted it again with our revolutionary Cam Plus Pro service.
+9:GeekWire calls us a start-up to watch and one of the Pacific Northwest’s next unicorns… and we are just getting started.
+10:Our people centric innovative vision is not only present in our products and services, but it is also embedded in the fabric of our company.
+11:We were just listed in the Top 100 Best Places to Workby Built in Seattle, listed as one of their Best Midsize Companies to Work For and awarded as one of their Companies with the Best Benefits.
+12:Seattle Business Magazine certified us as a Best Places to Work too!
+13:We value the unique life experiences every employee brings to work every day.
+14:We are committed to creating an inclusive environment whereby our employees are encouraged to be their authentic whole selves and are rewarded for their impact across the company.
+15:Everyone is welcome and empowered to do the best work of their lives.
+16:Our stance on workplace flexibility:
+For most roles, we support a 100% remote work environment for applicants who reside in the following states: California, Kentucky, Oregon, Pennsylvania, Texas, Utah, Virginia, and Washington.
+17:*This opportunity is working hybrid, based in the Greater Seattle Metropolitan area.
+18:Come join us and make the impossible, possible!
+19:Duties:
+Design and build AI platform for data, model, and service.
+20:Develop software/ systems/ services for data collection/ annotation/management and model training/ management/ serving.
+21:Collaborate with scientists on building data pipelines to ingest, process, and analyze computer vision model data.
+22:Full Time.
+23:Requirements:
+24:Master's degree in Computer Science, or a closely related field.
+25:In-depth knowledge of Machine Learning or Machine Learning Infrastructure.
+26:Familiar with Python and modern API frameworks.
+27:Contact: Send resume to HR, Wyze Labs, Inc, 5808 Lake Washington Blvd Ste 301, Kirkland, WA 98033.
+28:Must refer to Job # ZW23.
+29:Job Type: Full-time
+Pay: $127,338.00 per year
+Benefits:
+30:401(k)
+ Dental insurance
+ Employee discount
+ Flexible schedule
+ Flexible spending account
+ Health insurance
+ Health savings account
+ Life insurance
+ Paid time off
+ Parental leave
+ Referral program
+ Relocation assistance
+ Vision insurance
+31:Schedule:
+32:Monday to Friday
+33:Supplemental pay types:
+34:Bonus pay
+35:Ability to commute/relocate:
+36:Kirkland, WA 98033: Reliably commute or planning to relocate before starting work (Required)
+37:Experience:
+38:Computer science: 5 years (Required)
+39:Work Location: Hybrid remote in Kirkland, WA 98033

@@ -1,0 +1,58 @@
+0:Are you passionate about developing top-notch traffic management solutions for Azure Kubernetes Service customers?
+1:If so, we have an exciting opportunity for you!
+2:Our traffic team at Azure Kubernetes Service is at the forefront of innovation, leveraging cutting-edge technologies to deliver exceptional traffic management solutions to Azure customers.
+3:As a Senior Software Engineer on the Azure Kubernetes Service team, you will have the chance to work across various layers of the technology stack.
+4:From enhancing the user experience for our customers to building scalable distributed cloud services that handle traffic from customers to Azure Kubernetes Service, your responsibilities will span the entire spectrum.
+5:You will be involved in designing and implementing solutions that cater to global services operating at a massive scale.
+6:Collaboration is at the heart of our team, and you will work alongside a diverse group of individuals who embrace challenges, value continuous learning, and thrive in a collaborative environment.
+7:Additionally, this role offers mentorship opportunities, career growth prospects, and involvement in high-impact areas of the business.
+8:Microsoft’s mission is to empower every person and every organization on the planet to achieve more.
+9:As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals.
+10:Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+11:Responsibilities
+ 
+   Partners with appropriate stakeholders to determine user requirements for a set of scenarios.
+12:Leads identification of dependencies and the development of design documents for a product, application, service, or platform.
+13:Leads by example and mentors others to produce extensible and maintainable code used across products.
+14:Build scalable systems and services for managing traffic in and out of Azure Kubernetes Service.
+15:Proactively seeks new knowledge and adapts to new trends, technical solutions, and patterns that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale and shares knowledge with other engineers.
+16:Gain a working understanding of Microsoft businesses and collaborate with mentors and leaders to contribute to cohesive, end-to-end experiences for our users.
+17:Qualifications
+ 
+   Required/Minimum Qualifications:
+ 
+ 
+   Bachelor's Degree in Computer Science, or related technical discipline AND 4+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java or Go
+   
+     OR equivalent experience.
+18:2+ years of experience with open-source projects, Kubernetes, Linux and containers.
+19:2+ years of experience with network traffic management related projects.
+20:Other Requirements:
+ 
+ 
+   Ability to meet Microsoft, customer and/or government security screening requirements are required for this role.
+21:These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+22:Preferred/Additional Qualifications:
+ 
+ 
+   Bachelor's Degree in Computer Science or related technical field AND 8+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java or Go 
+   
+    OR Master's Degree in Computer Science or related technical field AND 6+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java or Go
+     OR equivalent experience.
+23:Experience with Istio, consul, envoy or equivalent
+   Experience in building and owning large scale high performance infrastructure powering distributed systems.
+24:Ability to engage in site-reliability engineering practices.
+25:Software Engineering IC4 - The typical base pay range for this role across the U.S. is USD $112,000 - $218,400 per year.
+26:There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $145,800 - $238,600 per year.
+27:Certain roles may be eligible for benefits and other compensation.
+28:Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay
+ 
+ 
+ 
+   #azurecorejobs
+ 
+  
+  Microsoft is an equal opportunity employer.
+29:Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances.
+30:If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+31:
