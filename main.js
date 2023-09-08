@@ -127,32 +127,30 @@ async function extractResponsibilities(jobRole, location)
   const parentFolder = `${jobRole}_${location}`;
   
   const sourceFolder = `${parentFolder}/${BRONZE_DATA}`;
+  const destinationFolder = `${parentFolder}/${SILVER_DATA}`;
+  await makeDirIfNeeded(destinationFolder);
 
-  console.error(`[Silver] Processing folder: ${sourceFolder}`);
+  const destinationFilePath = `${destinationFolder}/sentences.csv`;
+
+
+  console.log(`[Silver] Processing folder: ${sourceFolder}`);
+
+
+  // Write the data to a CSV file
+  var writeStream = fs.createWriteStream(destinationFilePath);
+  var header= "Job Role"+"\t"+"Job Location"+"\t"+"Sentence"+"\n";
+  writeStream.write(header);
 
   const files = fs.readdirSync(sourceFolder)
-
-  let allSentencePromises = [];
 
   //process all files using forEach
   files.forEach(async function (file) {        
     const fullFilePath = `${parentFolder}/${BRONZE_DATA}/${file}`;
-    const currentSentences = extractResponsibilitiesFromSingleJob(fullFilePath);
-    
-    allSentencePromises.push(currentSentences);
+    await extractResponsibilitiesFromSingleJob(fullFilePath, writeStream);
   });
-
-  const allSentences = await Promise.all(allSentencePromises);
-
-  allSentences.forEach(function (sentences){
-   console.log(`Extracted ${sentences.length} sentences.`);
-  });
-  
-  const destinationFolder = `${parentFolder}/${SILVER_DATA}`;
-  await makeDirIfNeeded(destinationFolder);
 }
 
-async function extractResponsibilitiesFromSingleJob(fullFilePath)
+async function extractResponsibilitiesFromSingleJob(fullFilePath, writeStream)
 {
   console.log(`Processing file: ${fullFilePath}`); 
 
@@ -163,9 +161,11 @@ async function extractResponsibilitiesFromSingleJob(fullFilePath)
   let jobDescriptionElement = $("#jobDescriptionText");
   const jobDescription = jobDescriptionElement.text();
 
-  return tokenizer.tokenize(jobDescription);
+  const sentences = await tokenizer.tokenize(jobDescription);
+  sentences.forEach((sentence) => {
+    writeStream.write(sentence);
+  });
 }
-
 
 async function makeDirIfNeeded(dirName) {
   try {

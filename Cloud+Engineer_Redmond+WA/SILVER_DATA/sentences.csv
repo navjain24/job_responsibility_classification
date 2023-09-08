@@ -1,0 +1,445 @@
+Job Role	Job Location	Sentence
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: 
+ Seattle, WA, USA; Kirkland, WA,USA.Minimum qualifications:
+  
+  Bachelor's degree or equivalent practicalexperience.8 years of experience in software development, and with datastructures/algorithms.5 years of experience testing, and launching software products, and 3 years of experience with software design andarchitecture.5 years of experience building and developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage, or hardwarearchitecture.Preferred qualifications:
+  
+  Master’s degree or PhD in Engineering, Computer Science, or a related technicalfield.3 years of experience in a technical leadership role leading project teams and setting technicaldirection.3 years of experience working in a complex, matrixed organization involving cross-functional, and/or cross-businessprojects.About the job
+   Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and oneanother.Our products need to handle information at massive scale, and extend well beyond web search.We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day.As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve.We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.With your technical expertise you will manage project priorities, deadlines, and deliverables.You will design, develop, test, deploy, maintain, and enhance software solutions.Google Cloud accelerates organizations’ ability to digitally transform their business with the best infrastructure, platform, industry solutions andexpertise.We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology – all on the cleanest cloud in the industry.Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.The US base salary range for this full-time position is $185,000-$283,000 + bonus + equity + benefits.Our salary ranges are determined by role, level, and location.The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations.Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training.Your recruiter can share more about the specific salary range for your preferred location during the hiring process.Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, orbenefits.Learn more about benefits at Google.Responsibilities
+   
+   Provide technical leadership on high-impactprojects.Influence and coach a distributed team ofengineers.Facilitate alignment and clarity across teams on goals, outcomes, andtimelines.Manage project priorities, deadlines, anddeliverables.Design, develop, test, deploy, maintain, and enhance large scale softwaresolutions.Google is proud to be an equal opportunity workplace and is an affirmative actionemployer.We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.See also Google's EEO Policy and EEO is the Law.If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.We're seeking a Cloud Engineer that builds and maintains cloudinfrastructure.This position is located in Irving, TX.Requirements
+  
+  Knowledge of the primary AWS services (EC2, ELB, RDS, Route53, S3, vpc, vpn, tgw) 
+  Strong track record of implementing AWS services in a variety of distributed computing environments 
+  Leading highly-available and fault-tolerant enterprise and web-scale software deployments 
+  Large scale migration experience Data Center to Data Center and/or Data Center to Cloud 
+  Infrastructure automation through DevOps scripting(E.g.shell, Python, Ruby, Powershell) 
+  Hands on experience in terraform/Cloudformation 
+  Configuration management using CloudFormation, Chef & Puppet 
+  Strong practical Linux and Windows-based systems administration skills in a Cloud or Virtualized environment 
+  Experience managing data center operations, including data assurance, monitoring, alerting and notifications 
+  Demonstrated ability to think strategically about business, product, and technical challenges 
+ 
+ Required Skills: AWS Infrastructure services, Architecture, Terraform/Cloudformation, Python/Ruby/Go/Java-springbootStarbucks Global Cyber Security Group is responsible for engineering and designing Identity and Access Management and Security systems to meet business requirement, goals and objectives encompassing wide range technologies that are in accordance with Starbucks Strategy & Architecture standards andguidelines.The Information Security Engineer senior will develop tools and processes according to architectural guidelines with little oversight by senior members of the team, identify weaknesses in our tooling that will drive changes to the overall architecture, and work as a liaison to architects, business and IT teams to ensure that identity management and security principals are applied to the technology platforms and information within the organization in accordance with established standards andpolicies.Models and acts in accordance with Starbucks guiding principles.SUMMARY OF KEY RESPONSIBILITIES
+  
+  
+ 
+   Provides technical design, development, validation, support, and system administration for large enterprise Identity Management environment for services like:
+  
+ 
+   Identity Lifecycle Management, 
+ 
+ 
+   Identity Federation (OIDC, SAML, WS-*, etc), 
+ 
+ 
+   MultiFactor Authentication, 
+ 
+ 
+   Cloud Identity Services, 
+ 
+ 
+   Virtual Directory Services, and/or
+  
+ 
+   Active Directory Domain Services
+  
+ 
+   Analyzes and improve a process with a bias toward automation
+  
+ 
+   Participates and leads the efforts to build out continuous integration and automated deployment pipelines
+  
+ 
+   Implements automated testing and automated compliance checks
+  
+ 
+   Design test cases and scenarios
+  
+ 
+   Improves application development compliance through automation
+  
+ 
+   Develops tools and framework to improve operational efficiency and anomaly detection
+  
+ 
+   Collaborates and communicates effectively with other team members at multiple levels of the organization
+  
+ 
+   Participates on cross-functional project teams, providing subject matter expertise and ensuring that new system objects are supported by developing administrativeprocedures.Provides third-level production support for Identity Management environment, including after-hours on-callsupport.REQUIRED KNOWLEDGE
+  
+  
+ 
+   5+ years of professional experience with demonstrated progressive responsibility in IAM technologies integration and validation
+  
+ 
+   Hands-on experience using automation tools 
+ 
+ 
+   Thorough familiarity with IAM industry standards and specifications(e.g.oAuth, Open ID Connect, SAML, FIDO, SCIM) 
+ 
+ 
+   Experience in Test-driven development (TDD)
+  
+ 
+   Knowledge of software development principles and design patterns
+  
+ 
+   Software system design experience to include web and/or cloud-based systems
+  
+ 
+   Professional experience with Object Oriented programming languages, such as C#, PowerShell and/or Java
+  
+ 
+   Excellent customer service, collaboration, and presentationskills.Strong written and verbal communication skills
+  
+ 
+   Excellent problem solving and troubleshooting skills
+ 
+  
+  
+  PREFERRED QUALIFICATIONS
+  
+  
+ 
+   CI/CD experience with Azure, AWS, GCP and/or related cloud application infrastructure
+  
+ 
+   Knowledge of software development and programming languages - C#, C, Java, REST, HTML, XML, JSON, Python, Docker, shell scripting
+  
+ 
+   Experience participating in projects of increasing size and complexity including the utilization of project planning and project dashboard tools
+  
+ 
+   DevOps related tools and technologies (JIRA, Confluence, Bitbucket, Jenkins, Ansible, Puppet, Coverity,etc.)Industry certification like CISSP, CEH, CCSP and/or CIS is aplus.SUMMARY OF EXPERIENCE
+  
+  
+ 
+   Advanced knowledge in the area of Identity Management
+  
+ 
+   Experience with software testing, engineering and/or system administration
+  
+ 
+   “Devops”/Agile experience (highly preferred)
+  
+ 
+   Experience with cloud computing
+  
+ 
+   Experience with diagnosing and troubleshooting system problems in a complex, heterogeneous systems environment 
+ 
+ 
+   Experience with Identity Federation and Identity Lifecycle Services 
+ 
+ 
+   MS Azure or other cloud and web based systems 
+ 
+ 
+   Experience with building and maintain large enterprise Identity Management deployments 
+ 
+ 
+   Experience with leading product evaluations, planning, gathering requirements, testing, recommending and implementing solutionsAre you someone who likes to collaborate with team members to solve technicalproblems?We are passionate about building a cloud solution for our internal and external customers and partners and value eternal curiosity, technical capability, and a drive for efficiency.In this role you will collaborate with product and development teams on building and automating solutions, managing the cloud infrastructure, building and owning code deployment procedures, and improving operational efficiency of our Enterprise Products.You are a great fit for this role if you are: 
+  
+  Experienced with scripting, automation, infrastructure-as-code, and monitoring to minimize outages in cloud or hybrid-cloud infrastructures 
+  Comfortable designing, building, automating, and supporting a Windows based multi-tierarchitectures.At Delta Dental of Washington our vision is that all people can enjoy good oral and overall health, with no one leftbehind.We succeed because of a shared commitment to a set of values that guide everything we do – for our customers, for our communities, and for each other.We are Accountable.We lean in with Courage.We stay Curious.We are Inclusive.We act with Integrity.We offer a highly competitive medical, dental and vision plans as well offering an 8% 401k match and all employees start accruing vacation and sick time from their very firstday.We empower employee development through our tuition reimbursement plan, professional development plans, and employee-led communities.The pay range for this position for Western Washington varies between$95,160.00 – $135,420.00, and for Eastern Washington varies between $76,830.00 - $109,335.00.Washington Dental Service and its affiliates, including Delta Dental of Washington and Arcora Foundation, intends to offer the selected candidate a base pay within this range, dependent on job-related, non-discriminatory factors such as experience.Base pay will also be adjusted based on the candidate's geographic location.Essential Responsibilities include the following: The list of responsibilities listed is not intended to becomprehensive.Washington Dental Service and its affiliates, including Delta Dental of Washington and Arcora Foundation reserve the right to change the responsibilities at any time with or without notice.Provision, manage and maintain the Windows and AWS infrastructure/services that supports our environments 
+  Support and develop tools to automate tasks for code and infrastructure deployment and monitoring 
+  Use IT Service Management (ITSM) tools to triage and respond to incidents and customer issues 
+  Improve performance, scalability, and cost-efficiency of systems and services 
+  Execute, or work with development teams on, remediation of security vulnerabilities 
+  
+ Experience, skills, and education do you need to have to succeed in the position: The requirements listed below are representative of the knowledge, skill, and/or ability required to successfully perform the essential functions of theposition.3+ years’ experience designing, building, and deploying Windows based solutions on AWS Well-Architected framework (other cloud providers will be considered if skill are transferrable) in a software development, DevOps/SRE or cloud engineer capacity 
+  3+ years' experience with Microsoft Windows Server operating systems (2012 and newer) 
+  Experience writing CloudFormation templates, PowerShell, and/or Python scripts to provision and configure infrastructure in AWS 
+  Automation and orchestration (Puppet, Chef, Ansible, Terraform, Kubernetes, etc) tools and technologies 
+  Good grasp of cyber security and ability to apply in a regulated environment 
+  Ability to prioritize work effectively to meet team, department, and companygoals.Hands-on experience in the following technologies is helpful: 
+  
+  Identity and Access Management(e.g.Cognito, Auth0, SiteMinder, Okta) 
+  AWS application infrastructure(e.g.WAF, ELB, API Gateway, CloudFront, Docker) 
+  Infrastructure as Code(e.g.CDK, Lambda, CloudFormation) 
+  Application Performance Management(e.g.Dynatrace, New Relic) 
+  
+ Washington Dental Service and its affiliates, including Delta Dental of Washington and Arcora Foundation is an Equal Opportunity/Affirmative Actionemployer.All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status.Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+  The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee orapplicant.However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.41 CFRWho we are 
+  At Cloudticity, our mission is to make every human on earth healthier by enabling healthcare organizations to leverage public clouds like AWS and GCP to deliver modern innovations and keyinsights.We enable healthcare organizations to be more effective at what they do by providing them with the tools, infrastructure, and guidance to build highly secure, available, and scalable solutions.Our Cloudticity Oxygen™ platform automates the vast majority of managed services tasks.As a result, we provide the most secure, agile, and responsive managed services available to the healthcare industry today.Data, analytics, and predictable forecasts are becoming increasingly important to us as our company reaches its next phase of maturity and reporting requirements.We are adding a Cloud Engineer to our team to support our rapidgrowth.As a customer-centric Cloud Engineer, you will be responsible for the day-to-day operation of Cloud Engineering, working with customers on professional services engagements, Cloudticity’s help desk, and customer support services.Responsibilities include: 
+  
+  Provide timely and effective solutions for customerrequests.Ensure overall customer satisfaction with help deskrequests.Identify, analyze and resolve infrastructure vulnerabilities and application deploymentissues.Periodic on-call rotations for 24/7 supportrequests.Expand your AWS/GCP experience andskills.Ongoing support of L2 Support Engineering tasks (deployments of new services)
+ 
+  
+  
+  We are seeking someone with: 
+  
+  Authorized to work in theU.S.Practical experience with AWS of at least threeyears.Basic knowledge of networking and network layertopology.Basic understanding of Windows and Linux operatingsystems.AWS Solutions Architect Associate certification (or better)required.AWS Developer/Terraform Developer Associate certificationspreferred.Real World experience w/GCP and experience deploying Terraform on GCPpreferred.Passion for delivering outstanding customerservice.Superior verbal and writtencommunication.Seriously, this is important.Demonstrated ability to thrive in a fast-growing, dynamiccompany.Willing to be part of an on-callrotation.Willing to (sometimes) work off-hours during maintenance windows as workrequires.Some cool perks of working here:
+  
+ 
+  
+   An opportunity to work with a highly collaborative and entrepreneurial company with great coworkers who enjoy having fun and workinghard.Competitive salaries and annualbonuses.Comprehensive health insurance available (medical, dental, and vision) for you and yourfamily.Ridiculously flexible Paid Time Off and working hours/locationpolicies.Employer-matching 401(k)plan.Choice of top-end MacBook or Windowslaptop.Work fromhome.Forever.Cloudticity is an Equal OpportunityEmployer.At Cloudticity, almost everything matters except your age, gender, identity, the color of your skin, how you relate to the universe, who you choose to sleep with, or anything else of that nature.Our culture unites us, and we celebrate all our differences with fervor.If you’re smart and passionate about healthcare technology, we’ll embrace you just as you are.Senior Electrical Engineer
+Job Type: Full-timeSchedule: 8-hour shift, Monday through FridayOffice Location: Seattle,WA.Salary: Commensurate with experience, target range $140K-$170K.Job Description
+RPA Engineering is searching for a Senior Electrical Engineer to support one of our clients in Bothell,WA.The role provides onsite electrical project management support for capital and major-maintenance engineering projects.The candidate will focus on production of construction documents, including drawings and specifications for a variety of projects.The role can expand into supporting other clients in the same geographical area.Education & Experience
+RequiredB.S.Electrical Engineering.Equivalent work experience may be accepted for otherwise well-qualified candidates.Professional Engineer (PE) licensure in the state of Washington.6+ year of electrical engineering experience.Strong technical background with power distribution and design.Able to design electrical systems in addition to drafting/modeling skills.Experienced in managing contract resources and working with outside suppliers.Proficiency with electrical codes including the NEC and NESC.Advanced skills in MS Word, MS Excel, MS Project.Advanced skills in Revit and AutoCAD.Preferred
+
+ SKM or ETAP softwareexperience.Capable of multi-tasking, interacting with other resources to accomplish tasks and a highly organized individual.Tasks, Responsibilities, and Utilized Skills
+
+ Preparation and/or modification of one-line drawings, sketches, bills of materials, panel schedules, schematics, wiring termination drawings, lab layout, and cablerouting.Field walkdown of client sites, equipment, and panels.Sizing of conduits, sizing of cables for power distribution, data systems, and telecommunications equipment.Interact productively with clients, managers, contractors, and coworkers within the company.Review of contractors’ and vendors’ shop drawings and submittals.Preparation of contractor’s scope of work and bid documents.Ability to work independently and collaboratively with multi-disciplinary teams.Self-starter who takes direction well and is driven.Company Benefits
+
+ Excellent work-life balance and flexible work schedule
+ Growth opportunities within the organization
+ Paid time off, sick time, and overtime
+ 401(k) matching
+ Insurance plans (health, dental, vision, life,etc.)RPA Engineering is a professional engineering consulting firm offering comprehensive mechanical, electrical and process engineering, machine design, structural analysis services, project management, andCQV.Operating for more than 30 years, RPA provides high quality, cost-effective engineering and design services from its multiple locations; and onsite corporate services.RPA Engineering was named in 2010 to the Inc.5000 list of fastest growing U.S.based entrepreneurial companies.As part of the list, RPA Engineering was named as one of the top 100 Engineering firms in the country.RPA Engineering is an equal opportunity, affirmative action employer of protected veterans (M/F/D/V).Attention Search Firms / Third Party Recruiters: RPA Engineering is not seeking assistance or accepting unsolicited resumes from search firms for employment opportunities with RPA Engineering.Regardless of past practice, all resumes submitted by search firms to any employee at RPA Engineering via e-mail, the Internet or directly to hiring managers at RPA Engineering in any form without a valid written search agreement in place for a specific position will be deemed the sole property of RPA Engineering, and no fee will be paid in the event a candidate is hired by RPA Engineering as a result of the referral or through other means.Posting #: 23-009
+Job Type: Full-time
+Pay:-per year
+Benefits:
+
+ 401(k)
+ 401(k) matching
+ Dental insurance
+ Flexible schedule
+ Health insurance
+ Paid time off
+ Referral program
+ Retirement plan
+ Vision insurance
+
+Schedule:
+
+ 8 hour shift
+ Monday to Friday
+
+Ability to commute/relocate:
+
+ Bothell, WA: Reliably commute or planning to relocate before starting work (Required)
+
+Experience:
+
+ electrical engineering: 6 years (Required)
+
+Language:
+
+ English (Required)
+
+License/Certification:
+
+ PE license in the state of Washington (Required)
+
+Work Location: In personSwyfft Holdings, LLC, consists of Swyfft, LLC and Core Programs,LLC.Both are fast-growing, tech-enabled MGA’s that are disrupting the traditional insurance industry by re-imagining how you price and bind home insurance and commercial package products.From lightning-fast quotes to hassle-free claims servicing, Swyfft Holdings, LLC leverages big data to provide the very best customer service experience in the industry.We're growing, we’re expanding and we're looking for “tech-savvy” folks like you to join our team!About the Position:
+  
+  
+  As a Senior Data Engineer, you will be instrumental in supporting the development and use of our datasystems.Your goal is to ensure that information flows timely and accurately to and from the organization as well as within.As a successful Senior Data Engineer will bring forth a strong understanding of databases and data analysis procedures.You are a highly technical SQL expert with strong problem-solving skills and excellent troubleshooting capabilities.In a perfect world, you might even have some previous experience working for an insurtech or an analytics measurement platform.This position is a 100% remoteU.S.based opportunity.Some travel for day-to-day work, team meetings, and training will be required.Key Responsibilities: (What you'll be asked to do)
+  
+  
+  
+  Build efficient ways to organize, store and analyze data while maintaining availability andconsistency.Create processes and enforce policies for effective datamanagement.Formulate techniques for quality data collection to ensure adequacy, accuracy and legitimacy ofdata.Devise and implement efficient and secure procedures for data handling and analysis with attention to all technicalaspects.Establish rules and procedures for data sharing with upper management and externalstakeholders.Support others in the daily use of data systems and ensure compliance to legal and companystandards.Provide assistance with reports and data extraction whenneeded.Monitor and analyze information and data systems and evaluate their performance to discover ways of enhancing them (such as new technologies andupgrades).Ensure digital databases and archives are protected from security breaches and datalosses.Troubleshoot data-related problems and authorize maintenance or modifications
+ 
+  
+  
+  The Successful Candidate: (what we're looking for)
+  
+  
+  
+  You have a strong understanding of databases and data analysisprocedures.You have an analytical mindset and strong problem-solvingskills.You have excellent communication and collaborationskills.You have intense attention to detail and qualityassurance.Some Requirements:
+  
+  
+  
+  Expertise in SQL (MS andPostgreSQL).Familiarity with modern database and information systemtechnologies.Expertise in both Tableau Desktop andServer.7+ years of experience as a datamanager.Excellent understanding of data administration and management functions such as collection, analysis, anddistribution.Understanding of data warehousing and starschemas.Basic familiarity with predictive analysis and data visualizationtechniques.Solid understanding of R and Python environment configuration and basicprogramming.Expert level in MicrosoftExcel.Understanding of spatial database functionality is aplus.Education:
+  
+  
+  
+  Bachelors’ degree or equivalent experience required in a relatedfield.Advanced degrees or Certifications are aplus.Computer Skills:
+  
+  
+  
+  You are familiar with predictive analysis and data visualization techniques using relevant tools such as: Tableau, Dataiku, R,Python.Must be proficient with MS Office and other internal insurance related programs, systems orapplications.Ability to communicate effectively using programs such as Slack & MSTeams.You are comfortable sharing screens and video chatting.Other:
+  
+  
+  
+  Reliable high-speed internet connectivityrequired.Designated quiet work from homespace.We Have a Great BenefitsPackage!20 days of PTO annually 
+  Medical, Dental, Vision 
+  Short- and Long-Term Disability (Company Paid) 
+  Life & AD&D (Company Paid) 
+  Healthcare, Dependent Care and Transit FSA 
+  401K with a generous matching contribution and no vesting schedule
+ 
+  
+  
+  It is the policy of Swyfft to provide equal employment opportunities to all employees and applicants for employment without regard to race, religion, color, ethnic origin, gender, gender identity, age, marital status, veteran status, sexual orientation, disability, or any other basis prohibited by applicable federal, state, or locallaw.EOE/AA/M/D/V/F.Please Note: Swyfft is not accepting 3rd party agency resumes for this position, please do not forward resumes to our careers email address or Swyfftemployees.Swyfft will not be responsible for any fees related to unsolicited resumes.Company Background
+Landmark Global are the experts in international delivery by combining postal networks and alternative deliveryproviders.We are part of the North American division of bpost, Belgium’s national postal service, with expertise in parcels & logistics.Bpost employs more than 20,000 people, handles billions of shipments per year and delivers to more than five million addresses every day.For more than a decade, Landmark Global, with its roots in SoCal, has enabled our customers to expand globally.Our business has grown from basic international mail and parcel delivery to full service, end-to-end solutions.This includes parcel delivery, fulfillment, proprietary technology and trade consulting, which provide our clients the capability to sell to millions of customers worldwide.We are strategically located close to our customers worldwide, covering most time zones.Our technology is web-based, scalable and agile.Mercury, our proprietary web-based software, was developed on the foundations of our logistics expertise and client requests.We provide a flexible application that works with any existing technologies.Position Summary
+We’re growing quickly across 4 continents and have many exciting technologies tosupport!We are looking for someone with strong knowledge and experience of supporting cloud & internal server infrastructure to support our flagship, homegrown web application in addition to other corporate systems.This position will help transform our infrastructure to the next level of automation, security and stability.Job Description
+Core responsibilities will include the following areas:
+● Maintain and monitor the cloud infrastructure inAWS.● Deploy/Update cloud instances using Chef.● Define network and security structure using CloudFormation.● Check for security issues in AWS using tools such as Trendmicro Cloud Conformity and Rapid 7 IDR.● Maintain and monitor the network infrastructure between AWS and our 10+ North America locations.● Create/maintain scripts to automate processes.● Research new technology for improvements
+● Work closely with the Development and IT Operations teams to provide needed tools andresources.● Additional duties as assigned.Position Requirements
+● 4-6 years relevant workexperience.● Bachelor’s degree preferred, but not required.● Strong knowledge of Chef and other services offered in AWS.● Experience with application containerization (Docker, Kubernetes).● Experience with vagrant with Virtualbox and QEMU.● Experience with implementation of CI/CD.● Strong understanding of cloud security.● Strong knowledge of Linux operating system.Landmark Global is an equal opportunity employer.All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations, and ordinances.Landmark Global is committed to ensuring that its online application process provides an equal employment opportunity to all job seekers, including individuals with disabilities.If you believe you need a reasonable accommodation in order to search for a job opening or to submit an application, please contact us by visiting www.landmarkglobal.com.We will work to assist disabled job seekers whose disability prevents them from being able to apply online.Candidate Privacy Notice – Learn about how we use the personal data you submit as a job applicant by visiting our website atJob Type: Full-time
+Pay:-per year
+Benefits:
+
+ 401(k)
+ Dental insurance
+ Employee assistance program
+ Health insurance
+ Life insurance
+ Paid time off
+ Referral program
+ Vision insurance
+
+Compensation package:
+
+ Bonus pay
+
+Schedule:
+
+ 8 hour shift
+ Monday to Friday
+
+Experience:
+
+ CI/CD implementation: 2 years (Required)
+ Cloud infrastructure maintenance: 2 years (Required)
+ Chef: 3 years (Required)
+
+Work Location: RemoteLauraMac is one of the leading providers of technology for companies acquiring assets in the mortgage secondarymarket.The company provides a unique client experience allowing all participants in a transaction (buyers, sellers, and third-party due diligence providers) to participate in the process and in the technology in real-time.State-of-the-art proprietary document recognition and data extraction models use deep learning and AI to start the process of validating documents and data.Configurable workflow allows clients to design the asset acquisition and due diligence process to fit their needs irrespective of the asset class and the level of review required on the loan.A robust rules engine allows clients to design their own findings and rules to automate tasks and create an exception-based review.This is a modern SaaS technology designed by mortgage professionals and built by experienced engineers.We are seeking an experienced and highly skilled Senior Cloud Engineer to join our dynamic ITteam.As a Senior Cloud Engineer, you will play a critical role in designing, implementing, and maintaining our cloud infrastructure and services.You will be responsible for managing cloud environments on both AWS and Azure, optimizing system performance, ensuring high availability, and driving continuous improvements through efficient release management using CI/CD pipelines.The Basics1.Cloud Infrastructure Management:a.Design, deploy, and maintain cloud environments on AWS and Azure, ensuring scalability, reliability, and security of the infrastructure.b.Monitor and optimize cloud resources to achieve maximum performance and cost-effectiveness.c.Collaborate with the team to implement best practices and ensure compliance with security standards and policies.2.New Relic Monitoring and Analysis:a.Leverage New Relic to monitor application and infrastructure performance.b.Analyze data and metrics to identify areas for improvement, troubleshoot issues, and proactively address potential bottlenecks.3.Release Management and CI/CD Pipelines:a.Develop, maintain, and optimize CI/CD pipelines to automate application deployments and releases.b.Coordinate and execute seamless releases across development, staging, and production environments.c.Troubleshoot deployment-related issues and provide timely resolutions.4.Performance and Load Testing:a.Conduct performance testing and load testing to ensure applications can handle expected user loads and identify performance bottlenecks.b.Implement strategies to improve application performance and reliability.5.Infrastructure Automation:a.Develop and manage infrastructure as code (IaC) using tools like Terraform, AWS CloudFormation, or Azure Resource Manager templates.b.Automate repetitive tasks and processes to increase efficiency and reduce manual interventions.6.Security and Compliance:a.Implement and maintain security measures to protect cloud infrastructure and applications from potential threats.b.Ensure compliance with industry regulations and company security policies.7.Team Collaboration:a.Collaborate effectively with cross-functional teams, including development, operations, and security teams.b.Mentor and guide junior team members in cloud engineering best practices.What You Bring 
+ Experience
+  
+  
+ 
+ 
+   Bachelor's degree in Computer Science, Information Technology, or related field (or equivalent workexperience).5+ years of hands-on experience in cloud engineering, with a focus on AWS andAzure.Proficiency in using New Relic & CloudWatch for monitoring andanalysis.Strong understanding of CI/CD pipeline development and release managementpractices.Experience with infrastructure as code (IaC) tools like Terraform orCloudFormation.Familiarity with containerization technologies(e.g., Docker, Kubernetes) is a plus.Solid understanding of networking concepts and security principles in cloudenvironments.Demonstrated ability to troubleshoot complex issues and provide effectivesolutions.Excellent communication skills and the ability to work collaboratively in a teamenvironment.Relevant certifications(e.g., AWS Certified Solutions Architect, Azure Certified DevOps Engineer) are a plus.Join our innovative team and contribute to the ongoing success of our cloud infrastructure andservices.As a Senior Cloud Engineer, you will have the opportunity to make a significant impact on the organization's technical landscape while growing your skills and expertise in cloud technologies and DevOps practices.Compensation Details - $110,000-$125,000 peryear.Compensation is based on candidate’s level of experience.What We Bring - LauraMac offers an extensive benefits package, including medical, dental,vision!- Flex paid time off policy.LauraMac is committed to equal opportunity in all employment practices to all qualified applicants and employees without regard to race, color, religion, gender, gender identity, sexual orientation, age, national origin, pregnancy, disability, genetics, marital status, military or veteran status or any other protected category as established by local, state, and federallaw.This policy applies to all aspects of the employment relationship including recruitment**this role is open to fully remote work**
+  
+  
+ At Starbucks, our mission is to inspire and nurture the human spirit – one person, one cup, and one neighborhood at atime.Starbucks Technologists work to achieve this mission using cutting-edge technology delivered to our partners, customers, stores, roasters, and global communities.We are looking for talented Senior Full-Stack developers with AWS Connect Telephony experience to join us as we make a meaningful impact on Starbucks technology, our Partners, and ourcustomers.This position contributes to Starbucks success by delivering high-quality, reliable, and stable technologies and security capabilities in support of the Starbucks Telephony platform which manages numerous call centers with a combined total of over 10 million calls peryear.This position is accountable for the installation, configuration, monitoring, analysis, maintenance, and technical support of the platform.This role will also help ensure our systems model and performs in accordance with Starbucks guiding principles.Summary of Key Responsibilities 
+ 
+  Communicates highly complex ideas and concepts to non-technical peers and customers 
+  Ability to establish cross-functional, collaborative relationships with business and technology partners 
+  Support the development team and perform activities to resolve developer issues in a timely and accurate fashion 
+  Engineer build and release processes 
+  Ability to effectively manage and partner with technology vendors to deliver against business objectives 
+  Conducts research and makes recommendations on standards, products, and services 
+  Ensures application and infrastructure architectural solutions are stable, secure, and compliant with Company standards and practices 
+  Implements all technologies in accordance with Information Security's guiding principles for highly sensitive data 
+  Provide high-availability operational support and automate solutions across the environment 
+  Implements deep telemetry capabilities to provide ongoing success and performance metrics 
+  Implements service monitoring across all platforms to ensure continuous availability and operational continuity of critical systems 
+  Upholds company policies, and legal/regulatory requirements, such as PCI 
+  Implements and maintains system configurations and baselines to support secure application development software control best practices and standardsAt Pulumi, we're building the Cloud Engineering Platform enabling the future of developer-firstinfrastructure.We believe that programming the cloud should be just as productive, joyful, and flow-inducing as your local dev loop.We want to make janky internal developer portals and homegrown infrastructure DSLs a thing of the past.Every engineer deserves delightful tools.We employ a unique philosophy toward achieving this goal: 
+  
+  We succeed and fail as a team 
+  An inclusive environment bubbles the best ideas to the top 
+  Our customers sit at the center of every decision 
+  We achieve the best results through openness and honesty, even when uncomfortable 
+  Work smart, but bias for action and results 
+  Our natural curiosity for technology keeps us always learning 
+  Think big, dream, and define the future of engineering in the cloud 
+  
+ While Pulumi is headquartered in Seattle,WA., we are dedicated to being a remote first company.This role will be located remotely in the United States.Responsibilities: 
+  Our team builds the SaaS offering built on top of the Pulumi OSSproject.Thousands of companies rely on our Cloud Engineering Platform to be productive and ship software to their customers every day.We deliver features that enable enterprises to adopt Pulumi at scale and reimagine the way that developers interact with infrastructure.We believe that internal developer portals can be a joy to use.We ship applications, APIs, and services to make that a reality.On any given day at Pulumi you might find yourself: 
+  
+  Shipping new SaaS features end to end from collecting customer feedback to architectural design and delivery 
+  Working with our UX designers to craft and instrument a new and delightful onboarding flow 
+  Building out infrastructure, backend APIs, and frontend UI to enable full-text search over the full corpus of Pulumi-managed cloud resources 
+  Designing and building the next version of core security features like role-based access control 
+ 
+ We're Looking For Someone With: 
+  We're hiring motivated engineers from entry-level to principal, but it helps if you have experience and excitement for: 
+  
+  Backend engineering in a language like Go, C#, Java,etc.Frontend engineering in JavaScript/TypeScript and a modern web development framework like React, Angular, orVue.Schema, index, and query design for MySQL or Postgres 
+  Experience designing cloud infrastructure on AWS, Azure, GCP, orKubernetes.Ability to learn elasticsearch, prompt engineering, and applied ML/AI/LLMengineering.Compensation: 
+ 
+  Base Salary Hiring Range: $180,500 to $227,850 
+  All full time employee offers at Pulumi include base salary, bonus or variable, equity and benefits (detailsbelow).Pulumi Benefits: 
+   
+   Health - We offer competitive medical, dental, vision, and supplementalinsurance.It is free for our direct employees to be on our insurance.Time Off - Unlimited personal time off (PTO) we ask that employees take at least 3 weeks off during the year in addition to the two annual company-wide wellness weeks and 13 USholidays.401K with employer match 
+   Parental Leave - 20 weeks paid parental leave for the birthing parent or primary caregiver, and 16 for non-birthing parent or secondarycaregiver.Remote-First - We are a 100% remote-first company with employees in nearly 20 states, and growing internationally; we encourage asynchronous communication andautonomy.We also provide an annual work from anywhere fund to help cover the employee costs of working remotely.Professional Development & Growth - We encourage a lifelong learning mindset and every employee is given an annual professional developmentbudget.Equity - As a small but growing startup, we all act like owners and you will earn equity in thecompany.Additional Funds - We offer employees a monthly wellness fund to be spent on anything physical and/or mental wellbeingrelated.We also provide a quarterly happiness fund to be used toward anything that makes our employees happy!About Pulumi: 
+   Pulumi is reimagining how developers and DevOps teams create and manage cloud software, through a unique combination of developer tools and systeminnovation.The company leads with an open source platform that embraces real programming languages, tools, and techniques, and offers an innovative SaaS product that helps team collaborate.Pulumi was founded in 2017 by developer and cloud experts from many corners of our industry to deliver innovative approaches to cloud softwaredevelopment.Since emerging from stealth in mid-2018, we are accelerating our platform momentum and product adoption.The team is built on a culture of openness, diversity, respect, and thinking big.At Pulumi, we don't just accept difference, we look for it, celebrate it, support it, and thrive on it for the benefit of our employees, our products, and ourcustomers.Pulumi is proud to be an equal opportunity workplace and is committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status.If you have a disability or special need that requires accommodation, please let us know.Minimum qualifications:
+  
+  Bachelor's degree in Computer Science or equivalent practicalexperience.4 years of experience in data center architectures and components(i.e., servers, storage, backup, networking, virtualization technology).Experience in cloud migration, disaster recovery, application/servers assessment, anddiscovery.Preferred qualifications:
+  
+  Master's degree in Computer Science or related technicalfield.Experience with deployment methodologies and technologies (CI/CD, Chef, Puppet,Ansible).Experience with one or more of the following: public cloud platforms, infrastructure, storage,platforms.Experience in areas of networking including Linux, software-defined networking, virtualization, open protocols, application acceleration and load balancing, DNS, virtual private networks, and their application to PaaS/IaaStechnologies.Experience in security matters(e.g., authentication protocols, identity and access management systems, key management systems, encryption, securing cloud architectures, network, and end-points security).Experience with Linux system administration or Enterpriseapplications.About the job
+   The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in thecloud.Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware.Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life.As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.As a Customer Engineer, you will work to introduce Google Cloud to ourcustomers.You will help prospective/existing customers and partners understand the power of Google Cloud, develop creative cloud solutions and architectures to solve their business challenges, and problem-solve any potential technical roadblocks.Google Cloud accelerates organizations’ ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise.We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology – all on the cleanest cloud in the industry.Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.The US base salary range for this full-time position is $139,000-$213,000 + bonus + equity + benefits.Our salary ranges are determined by role, level, and location.The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations.Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training.Your recruiter can share more about the specific salary range for your preferred location during the hiring process.Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.Learn more about benefits at Google.Responsibilities
+   
+   Utilize technical experience to help customers determine if Google Cloud Platform is right forthem.Prepare and deliver product messaging in an effort to highlight Google Cloud Platform value proposition and unique differentiators using whiteboarding, slide presentations, product demonstrations, trial management, and Request for Information (RFI) responsedocuments.Work with Google Cloud Platform products to demonstrate and prototype integrations in customer/partnerenvironments.Provide recommendations on integration strategies, enterprise architectures, and platforms/application infrastructure required to successfully implement a completesolution.Provide advice to customers to optimize Google Cloud Platformeffectiveness.Google is proud to be an equal opportunity workplace and is an affirmative actionemployer.We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.See also Google's EEO Policy and EEO is the Law.If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.AltaSource Group is seeking a Cloud Engineer for our industry leading global wealthclient!Position Summary
+   
+ 
+ 
+   The Cloud Engineer is responsible for designing, implementing, and supporting the foundational AWS infrastructure including but not limited to AWS organizations/accounts, Landing Zone, networking, security, identity, and targeted businessapplications/integrations.They work as part of the larger Cloud organization consisting of Networking, IT Security, Development, Operations, and Site Reliability Engineering teams to build effective, secure, and scalable solutions to meet explosive business growth.This is a highly technical role focused on driving integration and convergence efforts to consolidate the organization's acquisition AWS resources, policies, andprocedures.They will work closely with the client and acquisition stakeholders to align configuration requirements and establish connectivity between AWS, Azure, and Data Center environments.You day to day duties willbe…Develop and maintain AWS Landing Zone resources such as accounts, VPCs, IAM,etc.Work closely with Morgan Stanley and acquisition Cloud Security/Engineering staff to align security policies, IaC blueprints, and security guardrails.Implement network connectivity between various Cloud Providers and Organizations
+   Create and maintain approved Terraform IaC modules to ensure consistency and security
+   Assist with application migrations from acquisition AWSOrgs.to Morgan Stanley Org.Design and implement best practices for operational excellence, security, reliability, performance, efficiency, and cost optimization across Cloud platforms
+   Create and maintain documentation related to the Morgan Stanley Cloud Program
+   Mentor junior team members on secure Cloud Ops design principles and IaC
+ 
+ 
+ 
+   Your skill set shouldinclude…Bachelor's degree in Information Technology or equivalent experience
+   AWS Cloud Architect Associate certification or equivalent
+   5+ years' AWS technical experience, preferably in Financial Services
+   Strong knowledge of Terraform, source control, and CI/CD pipelines (Github Actions)
+   Strong Cloud Architecture, Networking, Security, and Operations knowledge
+   Experience with Access Management technologies, best practices, and IdP (Okta)
+   Experience working with Linux/UNIX and Docker or other container technologies
+   Familiarity with DMZ based network architectures and associated infrastructure
+   Able to work as part of a high performing, collaborative team with limited supervision
+ 
+ 
+   
+   Pay Rate: Up to $80/hr DOE
+   This position is an onsite contract role with the potential to extend or convertfull-time.Our client is unable to consider candidates who require visa sponsorship for this role.Please no corp-to-corp.AltaSource Group provides paid medical, dental, vision benefits for all of ourconsultants!We are one of the NW's unique TaaS (Talent as a Service) vendors that pride ourselves in individual, specialized attention not mass marketing.Your recruiter for this role will be:
+   Bailey McClanahanIND123The Azure Backbone Networking Team is growing and we’re looking for a creative and hard-working Cloud Network Engineer who can combine networking experience with software development fundamentals to help build the world’s best private backbonenetwork.We’re passionate about automating every facet of the network to converge on a self-growing, self-healing network.We want engineers that are equally passionate and can look at the problems with a Customer's perspective to create user experiences that truly enable and empower Technicians, Engineers and Planners.Focusing on the global optical network, and working closely with partner teams in Azure Networking, you’ll be a critical part of developing the hardware, network design and large-scale services that drive our network toautonomy.This will include owning components from design through to deployment, operations, and automation.This is a high visibile position in an area of expanding investment for Microsoft and offers a terrific opportunity for technical and career growth.Microsoft’s mission is to empower every person and every organization on the planet to achievemore.As employees we come together with a growth mindset, innovate to empower others and collaborate to realize our shared goals.Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.Responsibilities
+  Network Design and Implementation
+ 
+   Develops knowledge of optical network technologies to draw insights that aid in network design, standards, implementation, andoperation.Develops an understanding of quality assurance and network or code review processes by assisting in identifying risks and classes of bugs and becoming familiar with essential details related to network implementation(e.g., physical connectivity, power, protocols, telemetry) and design qualification with guidance from other engineers.Maintain and Operate Networks
+ 
+   Monitors optical network telemetry and performs basic analyses to triangulate failures, with guidance from other engineers; makes suggestions on possible monitoring improvements; participate in all efforts to automate repetitive tasks to reduce implementation time and avoid failures due to humanerror.Triages, troubleshoots, and repairs basic live site issues using troubleshooting guides and standard tooling with minimal disruption to customers; participates in on-call/Designated Responsible Individual (DRI) duties.Contributes to the development or modification of network automation tools with guidance from other engineers to make efficient use of infrastructure and resources by automating performance of various tasks related to network operations, testing, and incident management.Supports the management of incidents across one or more workstreams by applying technical knowledge to diagnose and triage issues with guidance from other engineers; takes notes during incidents and participates in post mortem and root cause analysis processes.Works within a team of engineers to manage network deployments; works with a machine-readable definition of the network deployment.Qualifications
+ 
+   Required/Minimum Qualifications:
+ 
+ 
+   2+ years technical experience in network design, development, and automation 
+   
+    OR Bachelor's Degree in Electrical Engineering, Optical Engineering, Computer Science, Engineering, Information Technology, or related field
+   
+   2+ years of Optical Communications and Dense Wavelength Division Multiplexing (DWDM) experience
+ 
+ 
+   Other Requirements:
+ 
+ 
+   Ability to meet Microsoft, customer and/or government security screening requirements are required for thisrole.These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.Preferred/Additional Qualifications:
+ 
+ 
+   Knowledge of optical hardware and optical theory
+   Exposure with Python, Go, REST, YAML, and Workflow systems
+   Self-starter with proven ability to develop creative solutions that enable customers
+   Knowledge of IP/ethernet networking fundamentals
+   Interest and ability to research new and emerging technologies to better solve networking problems
+   Ability to get hands dirty to fix problems and drive dependencies
+ 
+ 
+ 
+   Cloud Network Engineering IC2 - The typical base pay range for this role across theU.S.is USD $76,400 - $151,800 per year.There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $100,300 - $165,400 per year.Certain roles may be eligible for benefits and othercompensation.Find additional benefits and pay information here:#azurecorejobs
+  Microsoft is an equal opportunityemployer.Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances.If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.Cloud Engineer - Contract 
+ Visa: W2(USC/GC/H4/L2/GC-EAD/H1-B, Hire Friendly) 
+ C2C 
+ RATE 70-90 DOE 
+ PLEASE APPLY ONLY VIA OUR WEBSITE 
+ Website Job listing here: Job Listing 1348
+  
+  Description  15+ Years Experience Required Location:Seattle,WA
+  
+  Hybrid 2-3 days a week onsite
+  
+  Business Line: Business Unit Enablement Reports to: VP, Public Cloud Transformation Services - Modernization Enablement FLSA Status: Contract Date: June 2023 
+ Basic Purpose: 
+ The Cloud Engineer is responsible for designing, implementing, and supporting the foundational AWS infrastructure including but not limited to AWS organizations/accounts, Landing Zone, networking, security, identity, and targeted businessapplications/integrations.They work as part of the larger Cloud organization consisting of Networking, IT Security, Development, Operations, and Site Reliability Engineering teams to build effective, secure, and scalable solutions to meet explosive business growth.Primary Responsibilities: Develop and maintain AWS Landing Zone resources such as accounts, VPCs, IAM,etc.Work closely with acquisition Cloud Security/Engineering staff to align security policies, IaC blueprints, and security guardrails.Implement network connectivity between various Cloud Providers and Organizations Create and maintain approved Terraform IaC modules to ensure consistency and security Assist with application migrations from acquisition AWS Orgs.Design and implement best practices for operational excellence, security, reliability, performance, efficiency, and cost optimization across Cloud platforms Create and maintain documentation related to the Cloud Program Mentor junior team members on secure Cloud Ops design principles and IaC 
+ Job Requirements: Bachelor's degree in Information Technology or equivalent experience AWS Cloud Architect Associate certification or equivalent 5+ years' AWS technical experience, preferably in Financial Services Strong knowledge of Terraform, source control, and CI/CD pipelines (Github Actions) Strong Cloud Architecture, Networking, Security, and Operations knowledge Experience with Access Management technologies, best practices, and IdP (Okta) Experience working with Linux/UNIX and Docker or other container technologies Familiarity with DMZ based network architectures and associated infrastructure Able to work as part of a high performing, collaborative team with limited supervision 
+ 
+ Go to our Website Job listing here: Job Listing 1348 
+ Please download and complete this Matrix prior tosubmission.PM 1348 
+ Then 
+ USE either "APPLY BUTTON" or "EAST APPLY BUTTON" TO SUBMIT RESUME AND SKILLS MATRIX 
+ Job Listing 1348 
+ The send an email to the listers email address with just candidate name and jobnumber.NO need to attached resume or anything else.Thanks, 
+ 
+ Jay Kernes 
+ Certec Consulting, inc 
+ Fax 888-523-7832 
+ 
+ We are certified as a Women's Business Enterprise (WBE)

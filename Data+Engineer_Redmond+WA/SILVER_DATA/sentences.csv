@@ -1,0 +1,448 @@
+Job Role	Job Location	Sentence
+About the team and role 
+   Are you passionate about leveraging large volumes of data sets to draw deep insights designed to improve business strategies and customerexperience?Currently our team owns generating critical Business Reports, Near-Real Time Operational Insights and Anomaly Detection for Microsoft’s first-party real-time conversation products, notably Skype and Teams with many millions of users, to operate with reliable and high-quality audio and video calling, meetings, and chat services that work every time, from anywhere, on any device and next year goal is to develop self-service tooling & generate smart analytics through AI.Who weare?We are the data engineering team in IC3, which is a part of the Experiences & Devices division within Microsoft and well known for its Skypehistory.Today, our focus is much broader: We are building the Intelligent Conversations & Communications Cloud (IC3) which powers communication services for millions of Microsoft customers around the world across products such as Skype, Microsoft Teams, Xbox, Windows, Azure, Dynamics and more.Our IC3 platform is one of the largest Azure deployments worldwide and growing rapidly.Together with partner teams across Microsoft we build and run an intelligent fabric of communication services to empower every person and organization to achieve more.We develop highly scalable and reliable backend services running on Azure, supporting millions of Microsoft customers every day.As a Senior Data Engineer, you will be working closely with IC3 business leaders, product managers, data scientists, analysts to build data pipelines, metrics, KPI’s that answer important questions about our business metrics and provide data on how to grow our businessfurther.Responsibilities
+ 
+   Responsibilities:
+ 
+ 
+   Ship high-quality, well-tested, secure, and maintainablecode.Design, develop, and maintain data pipelines and back-end services for real-time decisioning, reporting, optimization, data collection, and related functions.Manage automated unit and integration test suites.Work collaboratively and communicate effectively with a small, motivated team of engineers and product managers.Experiment with and recommend new technologies that simplify or improve the tech stack.Participate in an on-call rotation and work occasional off-hours.Qualifications
+ 
+   Required/Minimum Qualifications:
+ 
+ 
+   Bachelor's Degree in Computer Science, Math, Software Engineering, Computer Engineering, or related field AND 4+ years experience in business analytics, data science, software development, data modeling or data engineering work
+   
+     Master's Degree in Computer Science, Math, Software Engineering, Computer Engineering, or related field AND 3+ years experience in business analytics, data science, software development, data modeling or data engineering work
+     OR equivalentexperience.Additional or Preferred Qualifications:
+ 
+ 
+   Architecting, building, and maintaining end-to-end, high-throughput data systems and their supportingservices.Designing efficient data structures and database schemas and working with distributed systems architecture
+   Incorporating data processing and workflow management tools into pipelinedesign.Utilizing a variety of data stores, including data warehouses, relational database systems, in-memory caches, and searchable document databases.Experience working with large data sets using SQL/Azure Data Lake/Spark, etc., to derive actionable insights is highly desirable.Developing for continuous integration and automated deployments.Using profiling tools, debugging logs, performance metrics, and other data sources to make code- and application-level improvements.Data Engineering IC4 - The typical base pay range for this role across theU.S.is USD $112,000 - $218,400 per year.There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $145,800 - $238,600 per year.Certain roles may be eligible for benefits and othercompensation.Find additional benefits and pay information here:#IC3 #M365Core #IC3TeamsPhone
+  Microsoft is an equal opportunityemployer.Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances.If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicatingefforts.Job Category Software Engineering 
+ 
+ Job Details 
+ 
+ About Salesforce 
+ We’re Salesforce, the Customer Company, inspiring the future of business with AI+ Data+CRM.Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way.And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world.If you believe in business as the greatest platform for change and in companies doing well and doing good – you’ve come to the right place.SalesforceInc.seeks Customer Solutions Data Engineer in Seattle, WA: 
+ 
+ Job Duties : Build and contribute to the Customer Solutions Data Platform, helping us to expand the number of domains in theproduct.Build robust, scalable data processing and data ingestion pipelines using Python, Kafka, Spark, REST API endpoints, and microservices to ingest data from a variety of external data sources to Snowflake.Build workflow DAGs and schedule jobs utilizing Airflow.Develop data quality automations and unit tests to ensure the accuracy of the data delivered to the Analysts, Data Scientists, and Business Customers.Build solutions that scale gracefully as our data volumes grow exponentially, automating manual processes and optimizing data delivery.Define and implement monitoring and alerting policies for data solutions.Develop data models that support analytical models used by Tableau.Assemble large, complex data sets that meet functional/non-functional business requirements.Participate in code reviews and related processes.Work with internal customers to understand their needs, and author and define implementation plans and functional specifications that solve those needs.Regularly assess and improve performance in areas such as job knowledge, technical skills, productivity, accountability, quality, initiative, innovation, drive, working relationships, communications, leadership, and alignment with the Tableau core values.Mentor and coach junior members of the team.ˆAbove address additionally encompasses the following Salesforce locations in the Seattle area: 1621 North 34th Street, Seattle, WA 98103, 744 N.34th St.Seattle, WA 98103, 1000 N.Northlake Way, Seattle, WA 98103, and 400 Urban Plaza, Suite 700 Kirkland, WA 98033.The permanent position may be offered at any of these locations in the Seattle area.Telecommuting is an option.Some travel to Salesforce offices may be required.Minimum Requirements : Master’s degree (or its foreign degree equivalent) in Computer Science, Information Management, Engineering (any field), or a related quantitative discipline, and two (2) years of experience in the field of BI engineering/program analysis or two (2) years of experience in the joboffered.A related technical degree required (Computer Science, Information Management, Engineering (anyfield)).Special Skill Requirements : (1) SQL; (2) Python; (3) ETL; (4) RDBMS; (5) Data Modeling; (6) Github; (7) Snowflake; (8) Tableau/PowerBI.Any suitable combination of education, training and/or experience is acceptable.Education, experience and criminal background checks will be conducted.Telecommuting is an option.Some travel to Salesforce offices may be required.Salary :$138,861.00 - $168,700.00 per annum.Certain roles may be eligible for incentive compensation, equity, andbenefits.More details about company benefits can be found at the following link: https://www.salesforcebenefits.com .Submit a resume using the apply button on this posting or by email at:onlinejobpostings@salesforce.com at Job #21-13646.Salesforce is an Equal Opportunity & Affirmative Action Employer.Education, experience and criminal background checks will be conducted.#LI-DNI 
+ 
+ Accommodations 
+ If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form .Posting Statement 
+ At Salesforce we believe that the business of business is to improve the state of ourworld.Each of us has a responsibility to drive Equality in our communities and workplaces.We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more.Learn more about Equality at www.equality.com and explore our company benefits at www.salesforcebenefits.com .Salesforce is an Equal Employment Opportunity and Affirmative ActionEmployer.Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status.Salesforce does not accept unsolicited headhunter and agency resumes.Salesforce will not pay any third-party agency or company that does not have a signed agreement with Salesforce .Salesforce welcomesall.For Washington-based roles, the base salary hiring range for this position is $138,861 to$168,700.Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, andexperience.Certain roles may be eligible for incentive compensation, equity, benefits.More details about our company benefits can be found at the following link: https://www.salesforcebenefits.com.Company Introduction 
+  OneSource Regulatory Technology hosts a number of innovative solutions to enhance job performance in the Pharmaceuticalspace.OSR Technology is looking for an experienced and dedicated data engineer to join our product solutions team!Job Description 
+  OneSource Regulatory is trying to identify a full-time contractor with at least 4+ years of experience to assist us with ongoing R&Dprojects.We are looking for a data engineer to pull data from various sources and do all the necessary steps to clean, normalize, possibly annotate, and finally load the data intodatabases.The candidate should be able to develop and implement a strategy for testing the data integrity of the collected data.This role requires extreme attention to detail to ensure data quality is top priority.Responsibilities 
+  
+  Well versed in parsing and synthesizing of XML and/or JSONdocuments.Curating of data that can involve some intermediate to advanced webscraping.(data may need to be fetched via SFTP, FTP, Wget, Curl, REST APIs, GraphQL queries from spots on the Internet) 
+  Proficiency with Linux command line and various simple tools, such as grep, wc, sed, awk, find, ls, cat, piped commands and possibly some very light Bash shell scripting, setting up crontab schedules and programs 
+  Must have basic knowledge of SQL with the following databases: PostGres, MySQL, Google BigQuery 
+  Must have basic knowledge of No-SQL database knowledge such as MongoDB or similar 
+  Familiarity with basic Cloud technology such as storage buckets, cloud serverless functions 
+  Must have experience extracting text and images from PDF files 
+  Knowledge of Puppeteer or other automatable web client technologies 
+  Understanding JavaScript, HTML/CSS and HTTP methods (for understanding page structure for web scraping)
+ 
+  
+ Skills 
+  
+  Solid experience with Python and Python Libraries such as Pandas, requests, etc 
+  Skill set should match up with required responsibilities listed above 
+  Strong English skills(e.g.grammatical analysis and rhetorical structure) 
+  Team Player 
+  Great communication skills
+ 
+  
+  
+  Bonus Skills 
+  
+  Experience within the Pharmaceutical Space 
+  Ability to expose data via C# NETCore and/or GraphQL 
+  Google Cloud Platform (Cloud Buckets, Google Cloud FunctionsPython,Ability to parallelize data manipulation and scraping via Python multi-threading,etc.Python BeautifulSoup 
+  Scrapy 
+  Docker (setting up Kubernetes style processing if warranted for data scraping/data ingestion/normalization) 
+  Multithreading conceptsSwyfft Holdings, LLC, consists of Swyfft, LLC and Core Programs,LLC.Both are fast-growing, tech-enabled MGA’s that are disrupting the traditional insurance industry by re-imagining how you price and bind home insurance and commercial package products.From lightning-fast quotes to hassle-free claims servicing, Swyfft Holdings, LLC leverages big data to provide the very best customer service experience in the industry.We're growing, we’re expanding and we're looking for “tech-savvy” folks like you to join our team!About the Position:
+  
+  
+  As a Senior Data Engineer, you will be instrumental in supporting the development and use of our datasystems.Your goal is to ensure that information flows timely and accurately to and from the organization as well as within.As a successful Senior Data Engineer will bring forth a strong understanding of databases and data analysis procedures.You are a highly technical SQL expert with strong problem-solving skills and excellent troubleshooting capabilities.In a perfect world, you might even have some previous experience working for an insurtech or an analytics measurement platform.This position is a 100% remoteU.S.based opportunity.Some travel for day-to-day work, team meetings, and training will be required.Key Responsibilities: (What you'll be asked to do)
+  
+  
+  
+  Build efficient ways to organize, store and analyze data while maintaining availability andconsistency.Create processes and enforce policies for effective datamanagement.Formulate techniques for quality data collection to ensure adequacy, accuracy and legitimacy ofdata.Devise and implement efficient and secure procedures for data handling and analysis with attention to all technicalaspects.Establish rules and procedures for data sharing with upper management and externalstakeholders.Support others in the daily use of data systems and ensure compliance to legal and companystandards.Provide assistance with reports and data extraction whenneeded.Monitor and analyze information and data systems and evaluate their performance to discover ways of enhancing them (such as new technologies andupgrades).Ensure digital databases and archives are protected from security breaches and datalosses.Troubleshoot data-related problems and authorize maintenance or modifications
+ 
+  
+  
+  The Successful Candidate: (what we're looking for)
+  
+  
+  
+  You have a strong understanding of databases and data analysisprocedures.You have an analytical mindset and strong problem-solvingskills.You have excellent communication and collaborationskills.You have intense attention to detail and qualityassurance.Some Requirements:
+  
+  
+  
+  Expertise in SQL (MS andPostgreSQL).Familiarity with modern database and information systemtechnologies.Expertise in both Tableau Desktop andServer.7+ years of experience as a datamanager.Excellent understanding of data administration and management functions such as collection, analysis, anddistribution.Understanding of data warehousing and starschemas.Basic familiarity with predictive analysis and data visualizationtechniques.Solid understanding of R and Python environment configuration and basicprogramming.Expert level in MicrosoftExcel.Understanding of spatial database functionality is aplus.Education:
+  
+  
+  
+  Bachelors’ degree or equivalent experience required in a relatedfield.Advanced degrees or Certifications are aplus.Computer Skills:
+  
+  
+  
+  You are familiar with predictive analysis and data visualization techniques using relevant tools such as: Tableau, Dataiku, R,Python.Must be proficient with MS Office and other internal insurance related programs, systems orapplications.Ability to communicate effectively using programs such as Slack & MSTeams.You are comfortable sharing screens and video chatting.Other:
+  
+  
+  
+  Reliable high-speed internet connectivityrequired.Designated quiet work from homespace.We Have a Great BenefitsPackage!20 days of PTO annually 
+  Medical, Dental, Vision 
+  Short- and Long-Term Disability (Company Paid) 
+  Life & AD&D (Company Paid) 
+  Healthcare, Dependent Care and Transit FSA 
+  401K with a generous matching contribution and no vesting schedule
+ 
+  
+  
+  It is the policy of Swyfft to provide equal employment opportunities to all employees and applicants for employment without regard to race, religion, color, ethnic origin, gender, gender identity, age, marital status, veteran status, sexual orientation, disability, or any other basis prohibited by applicable federal, state, or locallaw.EOE/AA/M/D/V/F.Please Note: Swyfft is not accepting 3rd party agency resumes for this position, please do not forward resumes to our careers email address or Swyfftemployees.Swyfft will not be responsible for any fees related to unsolicited resumes.Crane Aerospace & Electronics seeks mid-level Data Engineer to join our Lynnwood, WAteam.This is a hybrid/remote position.The Data Engineer will be responsible for supporting and updating existing data solutions as well as creating new data solution using Microsoft Azure BIstack.The Data Engineer will partner with Senior Data Architect and our business teams to identify data analytics opportunities, define functional and non-functional requirements for technology or process solutions, and develop data workflows and processes to achieve a business solution.The candidate should be knowledgeable of a variety of techniques to provide actionable insights while familiar with manipulating, cleaning, and analyzing largedatasets.The candidate must be comfortable with ambiguity and able to converse with Data Architect/Business analyst to better understand data and business problems.They must have familiarity with software development tools and processes.Knowledge of ERP and other business systems and data models is preferred.Essential Functions: 
+   
+   Maintain/Update existing data platform solutions and data models created using Azure platform/PowerBI.Understand user requirements for how data is used to makedecisions.Includes process mapping, optimization, and technology enablement.Extract data from various data sources; perform exploratory data analysis, cleanse, massage, and aggregate data to develop end to end data and analyticssolutions.Efficiently use relevant Azure services related to data and analytics to build Enterprise Data warehouse/Data Lake 
+   Help support day to day activities of the Modern Analytics team; this may include creating knowledge base articles, updates to platform manuals and documentation, best practices and guidance, and diagnostics of issues that are raised as well as promoting and advocating for the value of advanced modelingtechniques.Participate in demos and user acceptance reviews while working with the technical team on the creation of design documents andartifacts.Collaborate with others on the team and business teams to deliver new, innovative solutions to Crane Aerospace & Electronicsusers.Desire to learn new areas and tools required to enable BIsolutions.Interact with infrastructure teams to coordinate technologydeployment.Must Have Qualifications : 
+   
+   Sound knowledge of Data Warehousing with dimensional modelling 
+   Hands on Knowledge of Azure Data Factory V2/Azure SQL server/ Azure Data Lake Gen2 
+   
+    6-7 years of demonstrated experience delivering multiple data solutions with ETL development - both on-premises and in the cloud (2+ years in Azure preferred) 
+   
+   Hands on Knowledge of Power BI data models, reports, and dashboards 
+   
+    3-4 years of demonstrated experience with report development using tools such as Power BI, QLIK 
+   
+   Data analysis training or experience working with structured and/or unstructured datasets 
+   Knowledge about Azure Services, Computation using Azure Databricks/ Synapse/Python 
+   Strong problem-solving skills with an emphasis on analysis and resolution of complex functional areas and technical issues acrossteams.Preferred Qualifications : 
+   · Knowledge of ERP and other business systems and data models 
+   
+   REST APIs, PowerShell, Azure Functions, Logic Apps 
+   Experience with analyzing telemetry data 
+   Experience with machine learning platforms and Tools 
+   Experience with Azure DevOps 
+   Familiarity with custom development, open-source products implementation, systems integration 
+   
+  Min Education: Bachelor or higher degree in computer science, Engineering, Information Systems, or other quantitative fields 
+  Eligibility Requirement: This position may require access to Controlled Data orInformation.Where the position requires such access only US persons will be considered.As a US Department of Defense contractor, we are bound by International Traffic in Arms Regulations (ITAR).Working Conditions : 
+   
+   Standard officeenvironment.Work requires substantial visual concentration ondetail.Working conditions are normal for a manufacturingenvironment.Manufacturing operations may require the use of safety equipment to include but not limited to: eye safety glasses, gowns, masks, hearing protectors, heel/wrist straps and any other requiredPPE.May be exposed to unusual environmental conditions such as loud noises, cold temperatures, confined spaces, dust, orfumes.Ability to carry laptops and other equipment weighing up to 25lbs.Ability to travel to various Crane Co locations, if and as required forprojects.Standing: 10% *percentage is approximate and may vary depending on work task 
+  Sitting: 90% *percentage is approximate and may vary depending on work task 
+  Lifting (in pounds): up to 25 pounds 
+   Pushing (in pounds): up to 10 pounds 
+   Mental/Visual: use of computer, calculator, filing cabinets 
+   Workspace (line, cube,cubicle/desk 
+   About Crane Aerospace & Electronics: 
+   Crane Aerospace & Electronics supplies critical systems and components to the aerospace and defensemarkets.You will find Crane Aerospace & Electronics in some of the toughest environments: from engines to landing gear; from satellites to medical implants and from missiles to unmanned aerial systems (UAS).Crane Aerospace offers a full line of products for sensing both position (proximity) and pressure of mechanical, flight control and air datasystems.All incorporate flight proven, highly reliable technology and are in use on many commercial and military aircraft.We are committed to operational excellence and world-classprocesses.We employ Lean manufacturing techniques to optimize manufacturing efficiency and accuracy on all product lines.Our products are known for their technical strength, proven reliability and overall value.Salary range: $114,212 to$140,000.Several factors contribute to actual salary, including experience in a similar role or performing comparable job responsibilities, skills, training, and other qualifications.Compensation packages also include comprehensive benefits, 401K contribution and match, Paid Time Off, paid holidays, tuition reimbursement and more.Some roles may be eligible for participation in performance-based bonus programs.You can see a list of our benefits ator visit our website atfor more information on our company and great opportunities 
+   In our efforts to maintain a safe and drug-free workplace, Crane Aerospace & Electronics requires that candidates complete a satisfactory backgroundcheck.FAA sensitive positions require employees to participate in a random drug test pool.This description has been designed to indicate the general nature and level of work being performed by employees within thisclassification.It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job.Crane Company is an Equal Opportunity Employer and does not discriminate on the basis of race, color, creed, religion, sex, national origin, marital status, age, sexual orientation, gender identity, disability, pregnancy, medical condition, genetic information, protected veteran status or any other characteristic protected under federal, state, or applicable locallaw.Data Engineer
+ 
+  About Us 
+  Stanley, a HAVI company, is defined by Creativity, Building andInvention.We are makers of the legendary bottle and box.Driven by purpose, passion and performance.Obsessed with making a difference.And keeping our promises.Proud of our yesterday.And focused on building the team of tomorrow.Position Overview 
+  Stanley, a HAVI company, is looking for a Data Engineer to support our current and future dataplatform.This role will be responsible for ensuring data is available and consumable by business analysts and other key business users.This includes responsibility for the ingestion of source data through CI/CD pipelines.As a member of the Enterprise Data Platform team, you will contribute to projects and initiatives across the enterprise.Key Responsibilities 
+ 
+  Develop end-to-end solutions for ingestion, storage, prepping, and modeling of data
+  
+ 
+  Test, audit, maintain and tune existing solutions
+  
+ 
+  Implement data structures using data modeling, ELT/ETL processes, and SQL technologies
+  
+ 
+  Monitor daily data loads and remedy issues within SLA
+  
+ 
+  Update and extend system documentation
+  
+ 
+  Regularly interact across functional areas to ensure objectives are met
+  
+ 
+  Exercise independent judgment in methods, techniques, and evaluation criteria for obtaining results
+ 
+ 
+  Who You Are 
+ 
+  Daily interaction with cloud-based data platforms and services
+  
+ 
+  Solid understanding of data architecture principles and practices
+  
+ 
+  Working knowledge of data warehousing concepts supporting performant access to critical business data
+  
+ 
+  Familiarity with tabular modeling to define data relationships and navigation taxonomies
+  
+ 
+  Experience with coding languages like SQL, Python and R
+ 
+ 
+  Education and Experience 
+ 
+  Bachelor’s degree in Computer Engineering, Computer Science, Mathematics or equivalent related IT-specific experience
+  
+ 
+  At least 5 years of Data Engineer experience is required, preferably in a Cloud environment
+  
+ 
+  Experience with database query and analysis languages(e.g.T-SQL, PL-SQL, R, SAS, Python) and data visualization tools (e.g.PowerBI, Tableau, D3)
+  
+ 
+  Experience working with various data sources(e.g.SQL, Oracle database, flat files, Web API, XML)
+  
+ 
+  Experience with cloud warehouse and analytics required; Azure Data Storage and Analytics(e.g.Data Lake, Data Factory, Synapse and Analysis Services)
+  
+ 
+  Experience with Oracle EBS preferred
+  
+ 
+  Experience with Synapse ML preferred
+  
+ 
+  Experience with multi-tenant infrastructure preferred
+  
+ 
+  Understanding of manufacturing, supply chain, inventory management and sales operations data and systems preferred
+  
+ 
+  Demonstrable ability to communicate, partner and deliver solutions to business customers
+  
+ 
+  Puget Sound basedonly.This is a hybrid role in our Seattle office.We are unable to provide sponsorship for thisrole.About HAVI: 
+  HAVI is a global, privately owned company that connects people with ideas, data with insights, supply with demand, restaurants with deliveries and ultimately, people with the products theylove.Whether we are sourcing, storing or delivering products, we bring unmatched category expertise and unrivaled operational excellence, combined with powerful digital analytics and insights.Founded in 1974, HAVI employs more than 10,000 people and serves customers in more than 100 countries.HAVI’s business units include Supply Chain, tms and Stanley.Our portfolio of businesses offers best-in-class sourcing and supply chain capabilities, brand-defining marketing and promotion services and innovative consumer products.For more information, please visit HAVI.com, tmsw.com and stanley1913.com.Data Engineering experience primarily on Spark.Someone who has worked on Azure cloud with knowledge on Azure DEVOPS (CI/CD & Infrastructure as a code), ADF, ADW & Power BI.Apache Nifi will be good to have.Power BI: Understand business requirements to set functional specifications for reporting applications Build automated reports and dashboards with the help of Power BI reporting tool Be experienced in tools and systems on MS SQL Server BI Stack, including SSRS and TSQL, Power Query, MDX, PowerBI, and DAX Be able to quickly shape data into reporting and analytics solutions Have knowledge of database fundamentals such as multidimensional database design, relational database design, and more Create functional reporting Study, analyze and understand business requirements in context to business intelligence.Design and map data models to shift raw data into meaningful insights.Utilize Power BI to build interactive and visually appealing dashboards and reports.Spot key performance indicators with apt objectives Run DAX queries and functions in Power BI Should have an edge over making DAX queries in Power BI desktop.Developing visual reports, KPI scorecards, and dashboards using Power BI desktop.Connecting data sources, importing data, and transforming data for Business intelligence.Spark ,Azure DEVOPS (CI/CD & Infrastructure as a code), ADF, ADW & Power
+Job Type: Full-time
+Pay:-per year
+Ability to commute/relocate:
+
+ Bellevue, WA 98004: Reliably commute or planning to relocate before starting work (Required)
+
+Experience:
+
+ Informatica: 1 year (Preferred)
+ SQL: 1 year (Preferred)
+ Data warehouse: 1 year (Preferred)
+
+Work Location: Hybrid remote in Bellevue, WA 98004Job Summary and Mission
+ 
+  
+  
+ 
+ 
+  This position contributes to Starbucks success by managing the planning and execution of activities of a Data EngineeringTeam.As a manager in data engineering, you are responsible for managing a team of data engineers through planning, delivery and operations of solutions.This is a hands on technical role.You are also responsible for the evolvement, delivery and support the technology strategy and roadmaps for new and existing applications and platforms.This role requires managerial experience, technical expertise, domain proficiency, platform depth, and leadership.Models and acts in accordance with Starbucks guiding principles.Summary of Key Responsibilities and essential job functions include but are not limited to the following:
+   
+ 
+ 
+   
+  Leadership– Setting goals for the work group, developing organizational capability, and modeling how we work together:
+   
+ 
+ 
+   
+  
+   Identifies and communicates key responsibilities and practices to ensure the immediate team of direct reports promotes a successful attitude, confidence in leadership, and teamwork to achieve businessresults.Supports the implementation of company programs to ensure the success of theCompany.Accountable for delivery of development and operational efforts of the team by ensuring efforts are staffed, structured, budgeted and prioritizedappropriately.Provides technical leadership to the team by introducing technical topics, sponsoring opportunities for innovation and recognizing technicalexcellence.Coaches and mentors cross functional team members in learning new skills and technologies 
+  
+ 
+ 
+   
+  Planning and Execution– Developing strategic and operational plans for the work group, managing execution, and measuring results:
+   
+ 
+ 
+   
+  
+   Prepares, communicates, and educates client groups and team on changes in policies and practices within theorganization.Plans and manages business unit and department processes and practices to ensure that programs are aligned with company business goals andobjectives.Collaborates effectively in planning, decomposing, estimating, scheduling, prioritization and resource allocationexercises.Organizes and leads teams through agile methodologies.Technical Design and Implementation – Providing technical expertise and executing technical responsibilities:
+   
+ 
+ 
+   
+  
+   Leads and influences cross functional teams in exploratory efforts with new technologies and solutions that are relevant to theorganization.Manages the technical team through the solution designprocess.Leverages and develops talent on the team through all phases of project efforts, including requirements gathering, assessment and backlog refinement.Shapes and guides systems approach, manages project initiation, technical design and developmentefforts.Ensures data engineering has appropriate design patterns and coding standards inplace.Directs team toward secure, durable, scalable, flexible, and accessible solutions that proactively mitigate against production support issues.Cultivates a test-driven developmentculture.Ensures application development team establishes standards and requirements for automated test coverage per platform capabilities.Grows and improves platform offering and coverage for continuous build and integration testing.Partner Development and Team Building – Providing partners with coaching, feedback, and developmental opportunities, and building effective teams:
+   
+ 
+ 
+   
+  
+   Provides partners with coaching, feedback and developmental opportunities and builds effectiveteams.Challenges and inspires team members to achieve business results.Ensures partners adhere to legal and operational compliance requirements.Oversees training and development of partners directly and indirectly managed and makes effective staffing decisions.Provides coaching, direction and leadership support to team members in order to achieve partner, business and customer results./div>
+  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protectedveteran.We are committed to creating a diverse and welcoming workplace that includes partners with diverse backgrounds and experiences.We believe that enables us to better meet our mission and values while serving customers throughout our global communities.People of color, women, LGBTQIA+, veterans and persons with disabilities are encouraged to apply.Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal state and local ordinances.Starbucks Corporation is committed to offering reasonable accommodations to job applicants with disabilities.If you need assistance or an accommodation due to a disability, please contact us at applicantaccommodation@starbucks.com.Our Opportunity: 
+  Chewy is seeking a Senior Data Engineer - Discovery for our Discovery Labs team in Bellevue,WA.In this position, you will help us build scalable, robust data solutions for Discovery at Chewy.You will demonstrate a passion for delivering outstanding customer experience, experience of building scalable solutions and will bring communication skills that allow you to instill trust in the team that you are working with.Millions of pet parents with unique needs visit Chewy.com looking for products for their beloved pets.We have the task to decide what products would be most useful to them and help them discover those products.How do we do this?Meet Personalization team @ Chewy.We use best of machine learning techniques and continuously test the outcomes to simplify product discovery for pet parents looking for their pet needs on Chewy.com.Our exceptional multi-disciplinary team of data scientists, data engineers, software engineers and product managers work together to power personalized recommendations and product discovery for pet parents.Our team has single threaded ownership of the space allowing us to decide impactful products that we can experiment, measure with metrics and deliver at a fast pace.What You'll Do: 
+  You love building tools and data pipelines, can create clear and effective reports and data visualizations, and can partner with stakeholders to answer key businessquestions.You will also have the opportunity to display your skills in the following areas: 
+  
+  Design, implement, and automate deployment of our distributed system for collecting and processing log events from multiple sources 
+  Design data schema and operate internal data warehouses and SQL/NoSQL database systems 
+  Write Extract-Transform-Load (ETL) jobs and Spark/Hadoop jobs to calculate business metrics 
+  Own the design, development, and maintenance of ongoing metrics, reports, analyses, dashboards,etc.to drive key business decisions 
+  Monitor and troubleshoot operational or data issues in the data pipelines 
+  Drive architectural plans and implementation for future data storage, reporting, and analytic solutions 
+  
+  What You'll Need: 
+  
+  Bachelor's degree in Computer Science, Mathematics, Statistics, Finance, related technical field, or equivalent work experience 
+  8+ years of Relevant work experience in analytics, data engineering, business intelligence or relatedfield.6+ years Extensive experience in implementing big data processing technology: Hadoop, Apache Spark,etc.6+ years Experience using SQL queries, experience in writing and optimizing SQL queries in a business environment with large-scale, complex datasets 
+  6+ years Detailed knowledge of data warehouse technical architecture, infrastructure components, ETL and reporting/analytic tools and environments
+ 
+  
+  
+  Bonus: 
+  
+  Graduate degree in Computer Science, Mathematics, Statistics, Finance, related technical field 
+  Experience in data visualization software (Tableau/Qlikview) or open-source project 
+  Strong ability to effectively communicate with both business and technical teams 
+  Demonstrated experience delivering actionable insights for a consumer business 
+  Proficiency with search technologies (Elasticsearch and the Elastic stack) 
+  Coding proficiency in at least one modern programming language (Python, Ruby, Java, etc) 
+  Experience with AWS technologies including Redshift, RDS, S3, EMR 
+  
+ Compensation & Benefits: 
+  The salary range for this position is$107,000-$215,000.The specific salary offered to a candidate may be influenced by a variety of factors including but not limited to the candidate’s relevant experience, education, and work location.In addition, this position is eligible for 401k and a new hire and annual equity grant.We offer different types of insurance, such as medical/Rx, vision, dental, life, disability, hospital indemnity, critical illness, andaccident.We offer parental leave, family services benefits, backup dependent care, flexible spending accounts, telemedicine, pet adoption reimbursement, employee assistance program, and many discounts including 10% off pet insurance and 20% off at Chewy.com.Non-exempt hourly team members accrue paid time off (PTO) while salaried-exempt team members have unlimited PTO, subject to managerapproval.Non-exempt hourly team members in Fulfillment Centers and Customer Service are also eligible for additional unplanned unpaid time off (UTO).Team members will receive six paid holidays per year.Team members may be eligible for paid sick and family leave in compliance with applicable state and local regulations.#LI-Hybrid
+ 
+   Chewy is committed to equalopportunity.We value and embrace diversity and inclusion of all Team Members.If you have a disability under the Americans with Disabilities Act or similar law, and you need an accommodation during the application process or to perform these job requirements, or if you need a religious accommodation, please contact CAAR@chewy.com.If you have a question regarding your application, please contactHR@chewy.com.To access Chewy's Customer Privacy Policy, please clickhere.To access Chewy's California CPRA Job Applicant Privacy Policy, please click here.System1 is one of the largest customer acquisition companies in the world whose growth depends heavily on a very talented data engineeringteam.The Data Engineering team at System1 is focused on building frameworks, processes, and automation to ensure smooth running data pipelines andinfrastructure.We process billions of records per day, for the benefit of multiple business functions like business intelligence, data science & machine learning, traffic quality and analytics.You would be working in a fast-paced environment where system scalability, reliability, usability, efficiency are thegoals.Come join us!The Role You Will Have:
+ 
+   Designing and developing data processinginfrastructure.Developing new and improving existing data pipelines, extracting from external API sources or internal events.Developing self-serve data solutions, self-correcting robust ETL pipelines.Continuously improving monitoring and alerting coverage.Self-driving proof of concept for new technologies, new patterns and writing technical specifications for data architecture projects.Identifying scaling bottlenecks and how to prevent them.Performing maintenance of existing infrastructure, investigating issues and failures.Conducting SQL data investigations, and optimizations..Participate in peer code reviews and produce high quality documentation
+ 
+ 
+  What You Will Bring:
+ 
+   Bachelors or Masters degree in ComputerScience/Engineering.Programming proficiency in Python is required.Experience in Cloud ecosystems like AWS is required.GCP, Azure are preferred.SQL expertise, and preferably SQL query optimization experience.Database design skills, both relational and non-relational, SQL and NoSQL.Experience with Cloud data warehouses like BigQuery, Snowflake, Redshift preferred.Modern orchestration platforms such as Airflow.Good data engineering fundamentals, ETL experience and analytics skills required.~Knowledge of data engineering mechanics, flow, distribution, optimization.~Data organization, distribution, latency, observability.~Distributed big data processing and storage systems.Kubernetes, docker, containerization strategies, Linux/UNIX would be good.Experience with Kafka would be a plus.What We Have to Offer:
+ 
+   Competitive salary + bonus + equity
+   Generous PTO + 11 company holidays
+   Open sick time
+   100% covered Medical, Dental, Vision for employees
+   401k with match
+   Health & Dependent Care Flex Spending Account
+   Paid professional development
+   Leadership & growth opportunities
+   Virtual company and team building events
+   #LI-Remote
+   #LI-Hybrid
+   #BI-Hybrid
+   #BI-Remote
+   #LI-AW1
+ 
+ 
+ 
+   TheU.S.base salary range for this full-time position is 
+  $116,500 - $186,600 + bonus + equity +benefits.Our salary ranges are determined by role, level, and location.The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations.Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training.Your recruiter can share more about the specific salary range for your preferred location during the hiring process.Please note that the compensation details listed in U.S.role postings reflect the base salary only, and do not include bonus, equity, or benefits.System1 offers flexible work arrangements for most employees (unless they hold positions which are identified as having to be 100% onsite in Marina del Rey, CA, Bellevue, WA or Guelph, ONCanada).Most System1 full-time employees choose to work in a hybrid environment, splitting their time between working in our offices and working remotely.System1 allows fully-remote work in the following approved locations: Arizona, Colorado, Georgia, Hawaii, Minnesota, Missouri, New Jersey, New York, North Carolina, Oklahoma, Oregon, Pennsylvania, Tennessee, Texas and Virginia.Prospective U.S.employees who live outside of any of these states will need to establish residency in one of the approved states prior to employment.Role :- Data Engineer- AZURE with Strong SPARK
+Location:-Bellevue, WA
+Full Time 
+No C2C & NO H1B
+Responsibilities
+Data Engineering experience primarily onSpark.Someone who has worked on Azure cloud with knowledge on Azure DEVOPS (CI/CD & Infrastructure as a code), ADF, ADW & Power BI.Apache Nifi will be good to have.Power BI: Understand business requirements to set functional specifications for reporting applications Build automated reports and dashboards with the help of Power BI reporting tool Be experienced in tools and systems on MS SQL Server BI Stack, including SSRS and TSQL, Power Query, MDX, PowerBI, and DAX Be able to quickly shape data into reporting and analytics solutions Have knowledge of database fundamentals such as multidimensional database design, relational database design, and more Create functional reporting Study, analyze and understand business requirements in context to business intelligence.Design and map data models to shift raw data into meaningful insights.Utilize Power BI to build interactive and visually appealing dashboards and reports.Spot key performance indicators with apt objectives Run DAX queries and functions in Power BI Should have an edge over making DAX queries in Power BI desktop.Developing visual reports, KPI scorecards, and dashboards using Power BI desktop.Connecting data sources, importing data, and transforming data for Business intelligence.Required Skills
+Spark ,Azure DEVOPS (CI/CD & Infrastructure as a code), ADF, ADW & Power
+Good to have skills
+Good Communication, ownership and presentation skills
+Job Type: Full-time
+Salary:-per year
+Experience:
+
+ Data Engineer: 6 years (Preferred)
+ Azure: 5 years (Preferred)
+ Spark: 5 years (Preferred)
+
+Work Location: On the roadAbout Assurance
+  
+  
+    Assurance IQ is a technology company headquartered inSeattle.We were acquired by Prudential (NYSE: PRU) to further the joint mission of improving financial wellness across the world.Our team of world class software engineers, data scientists, and business professionals work every day to expand our product offerings and the reach of ourplatform.We simplify the complex world of insurance and financial services into straightforward, valuable solutions to improve people's lives.We start by asking customers a few questions, so our system can learn about their needs; from there, our ground-breaking, proprietary platform takes over and analyzes the thousands of data points that make customers unique.This is how we create custom-tailored plans for each customer; plans built precisely for their needs and budget.Our platform serves as the intersection between customer and seller, technology, and the human touch.At Assurance, we are innovative, persevering, collaborative, calculated, and authentic, and we're working together to improve the lives ofmillions!About the Position
+  
+  
+    As we build the future of consumer insurance in a modern age, data is at the core of everything that wedo.The role requires team members who are adept at building software tools to move and organize data with an approach that is rooted in improving the insights and efficiency of the business.Our team uses a variety of data mining and analysis methods, a variety of data tools, builds and implements models, develops algorithms, and creates simulations.Our Data Engineers design and build the backbone that makes this development possible with no support from engineering (we own our stack end to end).At Assurance, we hire experts in their field, and we give them the independence and trust to build based on their expertise.To be successful in this role, you must possess the following:
+   
+    
+      Experience with Python and SQL
+      Experience in data modelling
+      Business Acumen – you are always eager to understand how the business works, and more specifically, how your work impacts thebusiness.Comfort with QA’ing your own data, to include ‘menial tasks’ like listening to calls or scrubbing excel files to ensure everything is correct
+      Comfort with learning new technologies to help the team explore new solutions to existing problems
+      Excellent communication ability – you can explain your work in a way that anyone on the team can understand, and you can frame problems in a way that ensures the right question is beingasked.Enthusiastic yet humble – you are excited about the work you do, but you are also humble enough to embrace feedback – you don’t need to be the smartest person in the room.Bachelors degree in mathematics, statistics, data science or related field of study.The following additional experience is desired: 
+   
+    
+     You have a proven ability to drive business results by building the right infrastructure that enables data-basedinsights.You are comfortable working with a wide range of stakeholders and functional teams.The right candidate will have a passion for enabling the discovery of solutions hidden in large data sets and working with stakeholders to improve business outcomes.We’re growing at a rapid pace, so it’s important that you embrace the opportunity to blaze your owntrail.You thrive in a fast-paced environment where priorities can shift rapidly as we corneropportunity.You can work independently, with little oversight orguidance.Note: Assurance is required by multiple state and city laws to include the salary range on position postings when hiring in those specificlocals.The salary range for this position will be between $130,000-$170,000 and may be eligible for additional bonus or commission plans + benefits.Eligibility to participate in the bonus or commission plans is subject to the rules governing those programs, whereby an award, if any, depends on various factors including, without limitation, individual and/or organizational performance.In addition, employees are eligible for standard benefits package including paid time off, medical, dental and retirement.Data Engineer - Experience Data Science 16642 - 133578 (H)
+  A leading tech company is seeking a Data Engineer - Experience DataScience.The successful candidate will support our data scientists and product teams on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects.The ideal is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up and is willing to help out with other team data tasks as needed.The company offers a great work environment!Data Engineer - Experience Data Science Pay and Benefits:
+  
+   Hourly pay:$30/hr.Worksite: Leading technology and data solutions company (Remote for candidates in theUS.Must work PST hours) 
+  W2 Employment, Group Medical, Dental, Vision, Life, Retirement Savings Program 
+  40 hours/week, 9 Month Assignment 
+ 
+  Data Engineer - Experience Data Science Responsibilities: 
+ 
+  Formulate technical requirements, define overarching solution architecture, and document specific tasks for effective, reliable, and GDPR-compliant telemetry data infrastructure built with the company's internal datastack.Defines and guides partner product engineering teams on the technical standards of the telemetry data pipeline, ensuring high quality and consistent delivery from the partner teams, and supporting ease of collaboration and consistency acrossproducts.Maintains a deep understanding of multiple internal and external data platforms, technologies, and techniques on which to build data logging, storage, analysis, and modeling solutions, and continues to expand and learn as new capabilitiesemerge.Identifies and effectively documents new, innovative data techniques and standards to expand the capability and value offerings of the Experience Analyticsteam.Regularly reviews with the Experience Data Science Lead on team structure, process, technical approach, and effectiveness, and implements improvements asnecessary.Collaborate with other teams within the wider C+AI org, and externally, on shared data-related objectives andsolutions.Able to help with various one cosmos/Kusto queries asneeded.Data Engineer - Experience Data Science Qualifications: 
+ 
+  5-7 years of related workexperience.5+ years of industry experience in a data engineering or data solution architect-focused role, ideally within an enterprise-levelenvironment.5+ years of proven experience designing, implementing, and deploying data pipelines - must have proven experience pulling data using Cosmos and/or Kusto and should be able to set up dashboards and telemetrypipelines.5+ years of client-facing experience - candidate must have strong communication skills and should have experience driving projects with teams at various levels of engagement withdata/telemetry.Bachelor’s degree in computer science or engineering, database systems, mathematics, or of 3+ years of industry experience in a data engineering or data solution architect-focusedrole.The ability to be self-directed when it comes to exploring and understanding a dataset, especially when it comes to finding and fixing issues in thedata.The ability to interact with partners and driveengagement.A large portion of the role will be client-facing so strong communication skills and project management capabilities are a must-have.Clear communication and effectivecollaboration.Ability to effectively articulate complex concepts and conclusions tonon-experts.Prioritizes clean, sustainable, engineeringpractices.Additional experience (though not required): 
+  Project management, collaboration, and organizational skills, guiding product teams to improve data infrastructure 
+  Leading or mentoring less experienced engineers or data engineers in partnerteams.Data Science, machine learning, statistical models, concepts, andapplication.Agile developmentpractices.Experience working with product designdisciplines.Needs to pull data using Cosmos queries (strong in SQL, C#) andThis is a remoteposition.Crane Aerospace & Electronics seeks mid-level Data Engineer to join our Lynnwood, WAteam.This is a hybrid/remote position.The Data Engineer will be responsible for supporting and updating existing data solutions as well as creating new data solution using Microsoft Azure BIstack.The Data Engineer will partner with Senior Data Architect and our business teams to identify data analytics opportunities, define functional and non-functional requirements for technology or process solutions, and develop data workflows and processes to achieve a business solution.The candidate should be knowledgeable of a variety of techniques to provide actionable insights while familiar with manipulating, cleaning, and analyzing largedatasets.The candidate must be comfortable with ambiguity and able to converse with Data Architect/Business analyst to better understand data and business problems.They must have familiarity with software development tools and processes.Knowledge of ERP and other business systems and data models is preferred.Essential Functions: 
+   
+   Maintain/Update existing data platform solutions and data models created using Azure platform/PowerBI.Understand user requirements for how data is used to makedecisions.Includes process mapping, optimization, and technology enablement.Extract data from various data sources; perform exploratory data analysis, cleanse, massage, and aggregate data to develop end to end data and analyticssolutions.Efficiently use relevant Azure services related to data and analytics to build Enterprise Data warehouse/Data Lake 
+   Help support day to day activities of the Modern Analytics team; this may include creating knowledge base articles, updates to platform manuals and documentation, best practices and guidance, and diagnostics of issues that are raised as well as promoting and advocating for the value of advanced modelingtechniques.Participate in demos and user acceptance reviews while working with the technical team on the creation of design documents andartifacts.Collaborate with others on the team and business teams to deliver new, innovative solutions to Crane Aerospace & Electronicsusers.Desire to learn new areas and tools required to enable BIsolutions.Interact with infrastructure teams to coordinate technologydeployment.Must Have Qualifications : 
+   
+   Sound knowledge of Data Warehousing with dimensional modelling 
+   Hands on Knowledge of Azure Data Factory V2/Azure SQL server/ Azure Data Lake Gen2 
+   
+    6-7 years of demonstrated experience delivering multiple data solutions with ETL development - both on-premises and in the cloud (2+ years in Azure preferred) 
+   
+   Hands on Knowledge of Power BI data models, reports, and dashboards 
+   
+    3-4 years of demonstrated experience with report development using tools such as Power BI, QLIK 
+   
+   Data analysis training or experience working with structured and/or unstructured datasets 
+   Knowledge about Azure Services, Computation using Azure Databricks/ Synapse/Python 
+   Strong problem-solving skills with an emphasis on analysis and resolution of complex functional areas and technical issues acrossteams.Preferred Qualifications : 
+   · Knowledge of ERP and other business systems and data models 
+   
+   REST APIs, PowerShell, Azure Functions, Logic Apps 
+   Experience with analyzing telemetry data 
+   Experience with machine learning platforms and Tools 
+   Experience with Azure DevOps 
+   Familiarity with custom development, open-source products implementation, systems integration 
+   
+  Min Education: Bachelor or higher degree in computer science, Engineering, Information Systems, or other quantitative fields 
+  Eligibility Requirement: This position may require access to Controlled Data orInformation.Where the position requires such access only US persons will be considered.As a US Department of Defense contractor, we are bound by International Traffic in Arms Regulations (ITAR).Working Conditions : 
+   
+   Standard officeenvironment.Work requires substantial visual concentration ondetail.Working conditions are normal for a manufacturingenvironment.Manufacturing operations may require the use of safety equipment to include but not limited to: eye safety glasses, gowns, masks, hearing protectors, heel/wrist straps and any other requiredPPE.May be exposed to unusual environmental conditions such as loud noises, cold temperatures, confined spaces, dust, orfumes.Ability to carry laptops and other equipment weighing up to 25lbs.Ability to travel to various Crane Co locations, if and as required forprojects.Standing: 10% *percentage is approximate and may vary depending on work task 
+  Sitting: 90% *percentage is approximate and may vary depending on work task 
+  Lifting (in pounds): up to 25 pounds 
+   Pushing (in pounds): up to 10 pounds 
+   Mental/Visual: use of computer, calculator, filing cabinets 
+   Workspace (line, cube,cubicle/desk 
+   About Crane Aerospace & Electronics: 
+   Crane Aerospace & Electronics supplies critical systems and components to the aerospace and defensemarkets.You will find Crane Aerospace & Electronics in some of the toughest environments: from engines to landing gear; from satellites to medical implants and from missiles to unmanned aerial systems (UAS).Crane Aerospace offers a full line of products for sensing both position (proximity) and pressure of mechanical, flight control and air datasystems.All incorporate flight proven, highly reliable technology and are in use on many commercial and military aircraft.We are committed to operational excellence and world-classprocesses.We employ Lean manufacturing techniques to optimize manufacturing efficiency and accuracy on all product lines.Our products are known for their technical strength, proven reliability and overall value.Salary range: $114,212 to$140,000.Several factors contribute to actual salary, including experience in a similar role or performing comparable job responsibilities, skills, training, and other qualifications.Compensation packages also include comprehensive benefits, 401K contribution and match, Paid Time Off, paid holidays, tuition reimbursement and more.Some roles may be eligible for participation in performance-based bonus programs.You can see a list of our benefits ator visit our website atfor more information on our company and great opportunities 
+   In our efforts to maintain a safe and drug-free workplace, Crane Aerospace & Electronics requires that candidates complete a satisfactory backgroundcheck.FAA sensitive positions require employees to participate in a random drug test pool.This description has been designed to indicate the general nature and level of work being performed by employees within thisclassification.It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job.Crane Company is an Equal Opportunity Employer and does not discriminate on the basis of race, color, creed, religion, sex, national origin, marital status, age, sexual orientation, gender identity, disability, pregnancy, medical condition, genetic information, protected veteran status or any other characteristic protected under federal, state, or applicable locallaw.Responsibilities
+The candidate should be strong in analyzing the business and providingsolutions.The candidate will play a critical role in Analyzing the existing applications and building data models using Azure Data Stack(e.g., ADF, ADL, Azure SQL, Azure Analytics, Synapse, etc.), COSMOS, Kusto & Power BI.Responsible for overall design, development, and team coordination on BI systems/applications.Communicate standards, defend technology, scoping decisions to information technology management and developmentteams.Participate in Business Requirements and Functional Requirements meetings, identify gaps in requirements, and drive discussion around appropriate solutions.Design and code high quality database solutions within a fast-paced monthly release cycle.Manage errors gracefully.Document code and work completed.Conduct thorough unit testing of code and document the unit test cases.Conduct appropriate performance testing to ensure all solutions will meet SLAs and performance criteria.Provide support as needed throughout Test and User Acceptance Testing phases.Create Technical Design Specification documentation that clearly articulates the design and code being implemented.Provide client communication as appropriate to project.Develop new reports and provide technical support for the applications.Strong technical background 1) Kusto 2)Comsos 3) PowerBI 4)PowerShell 5) Sql 6)Azure Data Factory 7) Scope Scripting
+ Ability to work independently and as part of ateam.Excellent communication skills.Ability to understand business problem and produce solutions.Expert in Advanced Analytics through Python.Preparing data flows and building pipeline using Azure Data stack
+
+Required
+
+ SQL Server 2012 Analysis Services (SSAS);
+ Synapse;
+ Microsoft SQL Server 2019;
+ Microsoft Power BI;
+ Cosmos;
+ SQL Server Database Administration;
+ SQL Server 2012 Development;
+ Agile Software Development;
+ Business Intelligence(BI)
+
+Job Type: Full-time
+Pay:-per hour
+Benefits:
+
+ Dental insurance
+ Health insurance
+ Vision insurance
+
+Experience level:
+
+ 5 years
+
+Schedule:
+
+ 8 hour shift
+
+Experience:
+
+ Microsoft SQL Server: 3 years (Preferred)
+ Agile: 3 years (Preferred)
+
+Work Location: In person
