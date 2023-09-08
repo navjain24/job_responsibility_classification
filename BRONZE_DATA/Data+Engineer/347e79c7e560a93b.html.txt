@@ -1,0 +1,122 @@
+
+ 
+  
+   About Omnidian
+  
+  
+    Omnidian is building a more sustainable future for the planet. We assure that IoT-enabled distributed energy assets perform at their best through our passionate teams, our innovative technology, and by creating an amazing customer experience. We're a well-funded, growth-stage company offering the potential for enormous impact, both on our products and on the world.
+  
+  
+  
+    We are headquartered in Seattle, but are open to remote location depending on role and if a candidate resides in a state we currently employ in. 
+  
+  
+   
+  
+   The Role
+  
+  
+  
+    We are seeking a passionate and self-driven Senior Data Engineer to join our data science team. As a Senior Data Engineer, you will play a crucial role in building and maintaining robust data ingestion pipelines, performing feature engineering, and facilitating knowledge transfer within the team. Your expertise in data acquisition, ETL pipelines, and modern data lake architectures will be essential in supporting our data-driven initiatives and enhancing our data science capabilities.
+  
+  
+ 
+  
+   What You’ll Do
+   
+    
+      Build and maintain data ingestion pipelines: Design, develop, and optimize scalable and efficient data ingestion pipelines. Ensure the pipelines are reliable, secure, and capable of handling large volumes of data from various sources.
+      Perform feature engineering: Collaborate with the data science team to identify, extract, and transform relevant features from raw data sources. Implement feature engineering techniques to enhance the quality and usefulness of the data for modeling and analysis purposes. Make those features available to online and offline processes.
+      Provide knowledge transfer and support: Share your expertise in writing pipelines and leveraging our data lake with the wider data science team. Conduct training sessions, workshops, or one-on-one mentoring to help team members enhance their skills and understanding of pipeline development and data lake usage.
+      Collaborate with cross-functional teams: Work closely with data scientists, data analysts, and other stakeholders to understand their requirements and provide technical solutions. Participate in discussions and contribute ideas for optimizing data engineering processes and enhancing data-driven decision-making.
+      Ensure data quality and security of your work: Work closely with our Data management team to implement best practices and standards for data quality assurance, data governance, and data security. Identify and address any data-related issues or anomalies that may impact the accuracy and reliability of analytical outcomes.
+      Stay updated with industry trends: Keep up-to-date with the latest advancements in data engineering, data science, and related technologies. Share knowledge and insights with the team to drive innovation and continuous improvement.
+    
+   
+  
+  
+ 
+  
+   Who You Are
+   
+    
+      Excellent communication and collaboration skills to work effectively in a cross-functional team environment.
+      Strong problem-solving skills and ability to troubleshoot data-related issues.
+      Ability to rapidly and independently learn new technologies and skills.
+    
+   
+  
+ 
+  
+  
+ 
+  
+    Education and Experience
+   
+    
+      Bachelor's or Master's degree in Computer Science, Data Engineering, or a related field, or equivalent experience.
+      Proven experience as a Data Engineer, working on complex data projects.
+      Strong expertise in building data ingestion pipelines.
+      Excellent programming skills in Python, SQL, or other relevant languages.
+      Strong understanding of data structures, data modeling, and data warehousing concepts.
+      Familiarity with cloud platforms (such as AWS, Azure, or GCP) and big data technologies.
+    
+   
+  
+  
+ 
+  
+   Experience with any of the following is a plus, but not required
+   
+    
+      Experience in building and maintaining pipelines in Databricks
+      Knowledge of feature engineering techniques and best practices.
+      Experience with feature serving mechanisms and real-time data access.
+      Experience in distributed Spark, Spark Streaming, and related technologies.
+    
+   
+  
+  
+ 
+  
+   Work-Life at Omnidian
+   
+    
+      If you are in the Seattle, WA area, we offer a vibrant and creative workspace in the heart of downtown Seattle
+      We provide outstanding benefits that we are continually improving upon, including family medical, dental, vision, disability, parental leave, unlimited PTO, paid sabbatical leave, transit and 401(k)
+      We offer a competitive total compensation package that includes a bonus and equity for every employee
+      We are dog lovers and our offices and many of our events are dog-friendly
+      We are a passionate, mission driven team that believes in collaboration, mutual respect and trust
+    
+   
+  
+  
+ 
+  
+   $125,000 - $155,000 a year
+  
+  
+    Up to 15% bonus, paid quarterly
+    Salary Band and Philosophy: We place candidates within the band based on professional experience, not negotiating skills, as part of our overall effort to avoid gender pay discrepancy.
+    100% of health insurance monthly premiums paid for employees, and 50% health insurance premiums covered for dependents
+    Stock options
+    Up to $500 annual learning reimbursement
+  
+ 
+ 
+ 
+  
+    We strongly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better product for our customers. We are committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. We value diversity and inclusion and are committed to ensuring our hiring and retention practices, as well as our office culture, reflects this value.
+  
+  
+    
+  
+  
+    We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation. 
+  
+  
+   
+  
+   Omnidian is an equal opportunity employer. We are committed to diversity in the workplace. We make employment decisions on the basis of merit and business need. We hire without consideration to age, ancestry, citizenship, disability, gender expression, gender identity, marital status, national origin, political activity or affiliation, race, religion, sexual orientation, veteran status, or any other basis protected by law.
+  
+ 

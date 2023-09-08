@@ -26,12 +26,12 @@ async function processJobRole(jobRole, location) {
   console.log(`Processing Job Role: ${jobRole}\nLocation: ${location}\n`);
 
   //RAW
-  //Scrape raw data from the URL
-  await scrapeRawData(jobRole, location);
+  //Scrape raw data to RAW_JOB_DATA folder
+  //await scrapeRawData(jobRole, location);
 
   //SILVER
   //Extract responsibilities to Silver data folder
-  //await extractResponsibilities(RAW_JOB_DATA);
+  await extractResponsibilities(RAW_JOB_DATA);
 
   console.log(`Finished processing Job Role: ${jobRole}\nLocation: ${location}\n`);
 }

@@ -1,0 +1,67 @@
+
+ We are reinventing global trade. 
+  Flexport helps more than 10,000 clients and suppliers lead all aspects of their supply chain operations. Started in 2013, we've raised over $1.3B from investors that include the Founders Fund, Google Ventures, First Round Capital, Bloomberg Beta, Y Combinator, Wells Fargo, & Softbank.
+  
+  With offices on three continents, our team is as global as our client base and we're excited to continue building a product and service they love. Wherever you are, whichever role you play, you're guaranteed to share your day with committed, encouraging, and resourceful team members.
+  
+  The Core Infrastructure team is expanding and we are looking for devops and infrastructure engineers to join and help build the next generation of infrastructure for Flexport! 
+  What you'll do: 
+ 
+  Build and maintain a fleet of AWS Elastic Kubernetes Service (EKS) clusters across production and development environments. 
+  Support our developers running applications on Kubernetes by utilizing Cloud Native technologies. 
+  Leverage Infrastructure as Code patterns for infrastructure deployments and management. 
+  Utilize security best practices for all designed infrastructure. 
+  Deliver cloud infrastructure strategies that align with business objectives. 
+ 
+ What you'll need: 
+ 
+  Bachelor's degree in Computer Science or equivalent practical experience. 
+  Experience designing, building, and deploying scalable cloud-based architectures. 
+  Experience with containers and the AWS ecosystem, including the benefits and challenges. 
+  Experience with cloud-native technologies like Kubernetes and Helm. 
+  Experience with infrastructure provisioning using Infrastructure-as-Code based solutions such as Terraform. 
+  Demonstrable skills in at least one programming language.
+ 
+  
+  
+ If you are a self-motivated individual who is passionate about building and maintaining cloud-based infrastructure, we encourage you to apply.
+   
+ Culture & Values 
+ 
+  Learn more at www.keyvalues.com/flexport 
+ 
+ About Flexport: 
+  We believe global trade can move the human race forward. That's why it's our mission to make global trade easier for everyone. We aim to do this by building the Operating System for Global trade - a strategic model combining advanced technology and data analytics, logistics infrastructure, and supply chain expertise. Flexport today connects almost 10,000 clients and suppliers across 109 countries, including established global brands like Georgia-Pacific as well as emerging innovators like Sonos. Started in 2013, we've raised over $1.3B in funding from SoftBank Vision Fund, Founders Fund, GV, First Round Capital and Y Combinator. We're excited about the three big ways we're moving forward after our recent $1B investment from SoftBank Vision Fund in February 2019. 
+  Worried about not having any freight forwarding experience? 
+ 
+  Don't be! We're building the first Operating System for Global Trade. That's why it's incredibly important for us to bring people from diverse backgrounds and experiences together with our industry veterans to help move the freight forwarding industry forward. 
+  What's freight forwarding and why does it matter? Freight forwarding is the coordination and shipment of goods from one place to another and it's what makes global trade possible. Flexport is on a mission to make global trade easier for everyone because we believe it can help connect the world and break down economic barriers. 
+ 
+ We know this industry is complex. That's why we invest in education starting day one with Flexport Academy, a one-week intensive onboarding program designed specifically to set every new Flexport employee up for success.
+ 
+  
+    
+    
+     
+      
+       
+        
+         
+          
+           
+            The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Our salary ranges are determined by role, level, and location. Within the range displayed, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education and / or training. 
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  The US base salary range for this full-time position: (exclusive of bonus, equity and benefits.)
+  
+    $206,200—$229,100 USD
+  
+ 

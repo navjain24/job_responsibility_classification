@@ -1,0 +1,86 @@
+Cloud Software Engineer
+At Altriva Solutions, you will have the opportunity to build a career as a Cloud Software Engineer where you will deliver technical solutions for Altriva clients across various industries using Microsoft-centric platforms including Microsoft Azure, .NET, and the Power Platform (Dynamics 365 Customer Engagement, Microsoft Power Apps, Power Automate, Power BI, and related technologies). With the rapid growth Altriva is experiencing, this critical role will help execute on solutions that have already been designed and scoped and eventually lead to mentoring junior technical resources and solution architect responsibilities. You will be on a team of senior engineers and architects with decades of experience where you’ll collaborate on design, development, and technical strategies that address critical business requirements.
+Responsibilities
+
+ Effectively communicate, self-manage, and complete assigned projects and project deliverables in a timely manner.
+ Work with peers and client resources in a team environment to complete tasks and achieve goals.
+ Understand business need, technical environment, and solution requirements to design the best solutions for Altriva Clients.
+ Lead and manage the technical delivery for client solution development projects through the design, build, test and deploy activities.
+ Design and implement system integration, data migration, and testing strategies.
+ Create and maintain SDLC documentation.
+ Proactively highlight product architecture and deployment issues or risks.
+
+Qualifications
+
+ Bachelor’s degree (CS, MIS, Engineering or Math preferred) or equivalent work experience.
+ 3+ years’ experience as a software development professional with a minimum of 1 year leading the technical delivery of development projects.
+ Ability and interest to learn new related technologies quickly.
+
+Required Skills
+
+ Strong verbal and written communication skills with the ability to present both business and technical information.
+ Deep understanding of Microsoft platform architecture and technologies.
+ Full Stack development with the .NET Framework, Visual Studio, Postman, and DevOps/Git.
+ Expertise in 1 or more of the following: ASP.NET and client web development (XML, XSL, ASP.NET, AJAX, HTML, Java Script), Enterprise integration technologies (Web Services, Azure Logic Apps, Dell Boomi, Tibco Scribe), Microsoft SQL Server Database, Analysis, Integration and Reporting Services.
+
+Preferred Skills and Experience
+
+ Microsoft/Office 365 Cloud Services, Security, and Networking.
+ Application architecture, multi-tiered applications and integration designs between applications and Microsoft products.
+ Solution development / delivery in a consulting environment.
+ Developing on Business Application platforms (e.g., Dynamics 365 Customer Engagement, Salesforce.com) using available functionality and extensions.
+ Designing, planning, and executing data migrations.
+ Azure Web Applications, Logic Apps, Functions, Storage, Data Factory, Synapse, API Development.
+ Microsoft Certifications.
+
+Salary Information
+Altriva Solutions is required by Washington State law to include a reasonable estimate of the compensation range for this role. This base compensation range is specific to Washington State. Altriva Solutions will take into consideration additional factors when determining compensation for each individual, which will include but is not limited to, skill set, experience in industry, and organizational needs. While each application will have unique circumstances and considerations, a reasonable estimate of the current base range for this role is $85,000 - $140,000.
+This role may also be eligible to participate in an incentive compensation program which would be dependent on multiple factors, including but not limited, to performance.
+Benefits Information
+We are dedicated to attracting and sustaining a talented team of consultants by offering outstanding benefits, investments in employee development, and opportunity for advancement to full-time employees.
+Hybrid Details
+Altriva is in the process of returning to a hybrid work model, encouraging employees to utilize the office 2-3 days during the work week. We are excited to offer our employees the opportunity to work remotely, while also offering our outstanding in-person company culture once again.
+About the Company
+Altriva is a business and technology consultancy that partners with clients to deliver successful business initiatives. We are an award-winning organization delivering strategy, process, and implementation of integrated, customer engagement focused solutions. Altriva Solutions has been named one of Washington’s 100 Best Companies to Work For five years in a row.
+Key services include:
+
+ Solution Strategy and Planning
+ Designing, planning, and implementing solutions on Microsoft-centric platforms
+ Analytics, Reporting and Dashboards (Power BI, SQL, Synapse)
+ Application and Data Integration (Azure Logic Apps, Dell Boomi, Scribe, Kingswaysoft)
+ Cloud Application Development (Azure App Services, PowerApps, Flow)
+
+Job Type: Full-time
+Pay: $85,000.00 - $140,000.00 per year
+Benefits:
+
+ Dental insurance
+ Health insurance
+ Health savings account
+ Paid time off
+ Professional development assistance
+ Retirement plan
+ Vision insurance
+
+Compensation package:
+
+ Quarterly bonus
+ Yearly pay
+
+Experience level:
+
+ 3 years
+
+Schedule:
+
+ Monday to Friday
+
+Ability to commute/relocate:
+
+ Bellevue, WA 98005: Reliably commute or planning to relocate before starting work (Required)
+
+Application Question(s):
+
+ Will you now, or in the future, require sponsorship for employment visa status?
+
+Work Location: Hybrid remote in Bellevue, WA 98005

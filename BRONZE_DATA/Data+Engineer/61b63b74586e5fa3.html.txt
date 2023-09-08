@@ -1,0 +1,44 @@
+
+ Looking for a company that inspires passion, courage and creativity, where you can be on the team shaping the future of global commerce? Want to shape how millions of people buy, sell, connect, and share around the world? If you’re interested in joining a purpose driven community that is dedicated to crafting an ambitious and inclusive work environment, join eBay – a company you can be proud to be with.
+ 
+  Core Technology (CT) is a global team responsible for the end-to-end eBay technology platform. This platform runs our entire infrastructure and all the services that come together to form ebay.com.
+ 
+  We are looking for an outstanding and passionate Data Platform Engineer with full stack experience to join the Data and Analytics platform (DAP) team to build data platforms. You will be directly involved in the design and implementation of the core feature set of DAP portfolio products. This is a unique opportunity to be a part of a team building brand-new platforms and have a huge impact on eBay customers.
+ 
+  **Open to hiring multiple locations across the U.S. and will consider full time remote**
+  Responsibilities:
+ 
+   Design, implement the next generation of platforms, tools and products
+   Responsible for detailed architecture, POC, detailed design, advising and often hands-on implementation of complex systems including software and integration with existing systems at eBay
+   Help in transforming a culture of point data engineering solutions to Repeatable Software engineering platforms and tools
+   Architect scalable solutions and making it implementable with principles of extensibility, scalability, modular and easy to use with generalization principles
+   Responsible for operational stability & quality along with Engineering teams
+ 
+  Requirements:
+ 
+   Prefer BS, MS, or Ph. D. in Computer Science with 5+ years of proven relevant industry experience
+   Experience with full stack development using Java, JavaScript and frameworks like Angular, React, Vue.js
+   Hands-on programmer with a good knowledge of data-structures and CS algorithms
+   Good technical knowledge of Cloud and open-source technologies
+   Great understanding of building scalable Data models on Hadoop and Relational systems to solve e2e customer journey problems
+   Experience in defining and developing high-volume, horizontally scalable web architectures
+   Experience with system software design and development with an understanding of computer architecture, storage, network, and IO subsystems
+   Experience with large-scale, distributed systems design and development with an understanding of scaling, replication, consistency, and high availability
+   Background in performance tuning, identifying performance bottlenecks, and implementing performance optimizations
+   Experience using projects in the Apache Hadoop ecosystem such as MapReduce, HBase, Hive, Spark, etc.
+   Experience using Realtime technologies like Apache Kafka, Flink, etc.
+ 
+ 
+  Benefits are an essential part of your total compensation for the work you do every day. Whether you’re single, in a growing family, or nearing retirement, eBay offers a variety of comprehensive and competitive benefit programs to meet your needs. Including maternal & paternal leave, paid sabbatical, and plans to help ensure your financial security today and in the years ahead because we know feeling financially secure during your working years and through retirement is important.
+ 
+  Here at eBay, we love creating opportunities for others by connecting people from widely diverse backgrounds, perspectives, and geographies. So, being diverse and inclusive isn’t just something we strive for, it is who we are, and part of what we do each and every single day. We want to ensure that as an employee, you feel eBay is a place where, no matter who you are, you feel safe, included, and that you have the opportunity to bring your unique self to work. To learn about eBay’s Diversity & Inclusion click here: https://www.ebayinc.com/company/diversity-inclusion/
+ 
+  The pay range for this position at commencement of employment in California, Washington, or New York City is expected in the range below. $149,200 - $234,850
+  Base pay offered may vary depending on multiple individualized factors, including location, skills, and experience. The total compensation package for this position may also include other elements, including a target bonus and restricted stock units (as applicable) in addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as PTO and parental leave). Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+  If hired, employees will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.
+ 
+  eBay Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at talent@ebay.com. We will make every effort to respond to your request for disability assistance as soon as possible. View our accessibility info to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities. For more information see: EEO is the Law Poster and EEO is the Law Poster Supplement.
+ 
+  Jobs posted with location as "Remote - United States (Excludes: HI, NM)" excludes residents of Hawaii and New Mexico.
+ 
+  This website uses cookies to enhance your experience. By continuing to browse the site, you agree to our use of cookies. Visit our Privacy Center for more information.

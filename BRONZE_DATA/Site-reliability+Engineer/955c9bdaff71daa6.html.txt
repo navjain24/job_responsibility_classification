@@ -1,0 +1,62 @@
+
+ 
+  Microsoft is on a mission to empower every person and every organization on the planet to achieve more. Our culture is centered on embracing a growth mindset, a theme of inspiring excellence, and encouraging teams and leaders to bring their best each day. In doing so, we create life-changing innovations that impact billions of lives around the world. You can help us to achieve our mission. To learn more please visit: https://careers.microsoft.com/mission-culture
+ 
+ 
+   We value people who can bring a diverse perspective to our product and where a developer will not just write code but will have a real meaningful impact on the direction of the product and which features to build. We are building a team where diversity of thought and background is valued as strongly as technical skills, and where everyone is encouraged to come up with new ideas to make our customers’ lives better.
+   
+   We are looking for talented Principal Software Engineer to help us deliver highly scalable services and world-class product experiences. You will have opportunities to work on multiple layers of the technology stack, ranging from customer-focused user experience work, building scalable distributed cloud services, working with big data, machine learning, and everything in between. You will learn how to design services and experiences that are required to work around the globe. You will collaborate with team members and other engineering groups in Microsoft to build full stack web applications and services using the latest web technologies in a dynamic and agile environment. You will be part of a diverse team that seeks challenges, loves learning and values teamwork. You will have opportunities for mentorship, career growth, and work in high-business impact areas.
+ 
+  Responsibilities
+ 
+   Building scalable systems and services for managing millions of resources in a massively scalable microservice architecture
+   Design and develop large scale distributed software services and solutions.
+   Experience with C#/Java/C/C++/Golang,
+   Experience with data technologies (SQL/NoSQL/etc.),
+   Experience building and operating, knowledge, large scale distributed systems.
+   Develop “best-in-class” engineering for our services by ensuring that the services and the components are well-defined, modularized, secure, reliable, testable, diagnosable, actively monitored, and reusable.
+   Take end-to-end responsibility for the development, testing, release, monitoring, and support of production services
+   Experience in building, shipping and operating reliable, distributed solutions
+   Work closely with our internal/external partners to support the team’s mission
+   Experience with open-source projects, Kubernetes, Linux and containers is desired.
+   Experience with Azure is a plus.
+   Balance pragmatism with vision; deliver continuous improvements to the team’s process and codebase.
+   Build automation to prevent and/or remediate service problems from becoming production incidents.
+   Gain a working understanding of Microsoft businesses and collaborate with mentors and leaders to contribute to cohesive, end-to-end experiences for our users.
+   Ability to engage in site-reliability engineering practices. (preferred)
+ 
+  Qualifications
+ 
+   Re
+  quired Qualifications:
+ 
+ 
+   Bachelor's Degree in Computer Science, or related technical discipline AND 6+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python 
+   
+     OR equivalent experience.
+   
+ 
+ 
+ 
+   Preferred Qualifications:
+ 
+ 
+   Bachelor's Degree in Computer Science or related technical field AND 10+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+   
+     OR Master's Degree in Computer Science or related technical field AND 8+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python 
+    OR equivalent experience.
+   
+ 
+ 
+   Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
+ 
+ 
+   Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+ 
+ 
+   Software Engineering IC5 - The typical base pay range for this role across the U.S. is USD $133,600 - $256,800 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $173,200 - $282,200 per year.
+   
+   Learn more about base pay ranges and pay equity: https://careers.microsoft.com/us/en/us-corporate-pay
+ 
+  
+  Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.

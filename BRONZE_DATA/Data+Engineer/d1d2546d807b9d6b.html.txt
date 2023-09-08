@@ -1,0 +1,78 @@
+
+ 
+  Senior data engineer 
+  Job Summary and Mission 
+  This position contributes to Starbuck's success by building enterprise data services for analytic solutions. This position is responsible for design, development, testing, and support for data pipelines and data products to enable continuous data processing for data exploration, data preparation, and real-time business analytics. 
+  Summary of Key Responsibilities 
+  Responsibilities and essential job functions include but are not limited to the following: 
+  
+   
+    Demonstrate deep knowledge of the data engineering domain, including non-interactive (batch, distributed) & real-time, highly available data, data pipelines
+    
+   
+    Deep knowledge of data as a concept and the development of domain driven data products.
+    
+   
+    Optimization of data products to service customer personas, Data science, AI/ML and data visualization.
+    
+   
+    Knowledge of semantic data concepts.
+    
+   
+    Build fault-tolerant, self-healing, adaptive, and highly accurate data computational pipelines
+    
+   
+    Provide consultation and lead the implementation of complex programs
+    
+   
+    Develop and maintain documentation relating to all assigned systems and projects
+    
+   
+    Perform root cause analysis to identify permanent resolutions to software or business process issues
+    
+  
+  Basic Qualifications 
+  Bachelor’s degree in computer science, management information systems, or related discipline, or equivalent work experience 
+  MUST HAVE Technology skills (7/10 or higher): 
+  
+   
+    Strong/expert Spark (PySpark) Using Jupyter Notebooks, Colab or DataBricks
+    
+   
+    Hands-on data pipeline development, ingest patterns in Azure
+    
+   
+    Orchestration tools, ADF or Airflow
+    
+   
+    SQL
+    
+   
+    Denormalized Data modeling for big data systems
+    
+   
+  MUST HAVE competencies: 
+  
+   
+    Collaborative, able to work remotely, and still be an engaging team member.
+    
+   
+    Strong analytical and design skills.
+    
+   
+  Years 
+  Architect and design large scale high performance distributed systems 7-10 
+  SQL Platform 7-10 
+  No-SQL Platform 3+ 
+  Spark 3+ 
+  Data platform implementation on Azure or AWS 3+ 
+  CI/CD experience 2+ 
+  Exposure to SOA architecture 2+
+ 
+ 
+ 
+
+ 
+  div> 
+   All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.   We are committed to creating a diverse and welcoming workplace that includes partners with diverse backgrounds and experiences. We believe that enables us to better meet our mission and values while serving customers throughout our global communities. People of color, women, LGBTQIA+, veterans and persons with disabilities are encouraged to apply.   Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal state and local ordinances. Starbucks Corporation is committed to offering reasonable accommodations to job applicants with disabilities. If you need assistance or an accommodation due to a disability, please contact us at applicantaccommodation@starbucks.com.
+ 

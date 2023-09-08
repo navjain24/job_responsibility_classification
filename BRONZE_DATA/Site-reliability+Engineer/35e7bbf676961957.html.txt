@@ -1,0 +1,77 @@
+
+ Company Description
+  Improving healthcare through innovative technology is at the core of Intelerad’s work. Our scalable medical imaging platform connects clinicians to a powerful imaging ecosystem that is fast, smart, and tapped into the data they need, no matter their location. We’re focused on delivering a best-in-class medical image management solution that improves provider efficiency, decreases the cost of healthcare, and improves the overall health of populations.
+  Intelerad offers one of healthcare’s most comprehensive imaging and analytics platforms. Headquartered in Raleigh, NC and Montreal, Intelerad has nearly 700 employees located in offices across six countries. The company empowers nearly 2,000 healthcare organizations around the world with the speed, scalability, and simplicity needed to increase business performance while, most importantly, improving patient outcomes. Intelerad’s modern enterprise solutions have been acknowledged by a Best in KLAS recognition, ranking #1 for PACS Asia/Oceania in the 2021 Best in KLAS: Global Software (Non-US) report. To learn more, visit intelerad.com and follow Intelerad on LinkedIn and Twitter.
+ 
+ 
+
+ Job Description
+  The Site Reliability Engineer - PACS is responsible for meeting the agreed upon SLO’s for the Enterprise Imaging systems in their area of responsibility.
+  You will plan and assign all maintenance and deployment work, will train and guide multi competency teams on how to work on the systems, will ensure the improvement of tools and procedures necessary for the operation of the systems and will perform work such as troubleshooting, root cause analysis and some complex maintenance tasks themselves.
+  Supervisory Responsibilities:
+ 
+   Direct work of Operations, Infrastructure and Monitoring Teams in a matrix environment
+   Train and Guide of Operations, Infrastructure, Monitoring and Support staff Enterprise Imaging System operating procedures and best practices
+ 
+  Responsibilities:
+ 
+   Participate in defining SLIs, SLOs and SLAs for Enterprise Imaging Systems
+   Own system designs, documentation, platform management, and capacity planning for Enterprise Imaging Systems in your area of responsibility
+   Collaborate with System Architecture to develop Solution Architectures for your area of responsibility
+   Direct and collaborate with multiple teams in a matrix environment to perform maintenance, troubleshooting and deployment to meet the specified SLO’s
+   Collaborate with R&D, Monitoring and other Teams as necessary to develop and implement effective mechanisms to monitor SLO’s
+   Perform Troubleshooting, deploy systems or execute maintenance tasks as necessary to meet the specified SLO’s
+   Improve reliability, quality, and time-to-market of our suite of software solutions
+   Build software and systems to manage platform infrastructure and applications
+   Partner with architecture and development teams to improve services through rigorous testing and release procedures
+   Create sustainable systems and services through automation and process improvements
+ 
+ 
+ 
+
+ Qualifications
+  Required Experience/Skills:
+ 
+   University or college education in science, technology, engineering, or equivalent industry experience
+   Knowledge of systems design, performance tuning, DevOps, and site-reliability engineering
+   Ability to program with one or more high level languages, such as Python, Go, Java, C/C++
+   Knowledge of VMware Enterprise, Windows Server, Linux
+   Knowledge of Databases
+   Knowledge of Automation and Monitoring technologies and principles
+   Experience with networking, firewall configuration, and troubleshooting
+ 
+  
+ 
+ 
+   Strong sense of ownership and dedication to results
+   Willingness to do entry level work, if it's necessary for success
+   Approaches challenges as opportunities and sees every day as an opportunity to become a little bit better
+   Team player with high levels of emotional intelligence, that can work with and influence others without direct authority
+   A proactive approach to spotting problems, areas of improvement, and bottlenecks
+   Ability to adapt to working with a wide array of technologies and languages
+   Excellent verbal and written communication skills and ability to communicate technical subjects to a broad range of stakeholders
+ 
+  Preferred Requirements:
+ 
+   3+ years working with Enterprise Imaging Systems
+   Experience in a Leadership role without direct authority
+   Experience working in an SRE environment
+   Strong understanding of medical imaging, radiology workflow, and integration using industry concepts:
+   
+     PACS
+     RIS
+     DICOM
+     HL7 and interface engines
+     HIPAA/HITECH
+     IHE profiles
+     EMR/EHR
+     3rd party vendor integrations
+     Regulatory and security requirements
+   
+ 
+  Additional Information
+  All applicants meeting minimum qualifications will be required to complete a 30 minute online assessment as part of your application. 
+ Intelerad and Ambra Health Combine to Form the Global Industry Leader in Cloud PACS and Enterprise Imaging 
+ Intelerad Partners with Strategic Radiology to Bring Innovative Medical Image Management Solutions to More than 1,300 Radiologists Across the US
+  Meet Intelerad’s Leadership Team: https://www.intelerad.com/en/about/leadership-team/
+  #LI-Remote #remoteUSA

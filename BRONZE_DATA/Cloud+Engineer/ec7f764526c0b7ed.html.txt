@@ -1,0 +1,69 @@
+
+ 
+  The Azure Backbone Networking Team is growing and we’re looking for a creative and hard-working Cloud Network Engineer who can combine networking experience with software development fundamentals to help build the world’s best private backbone network. We’re passionate about automating every facet of the network to converge on a self-growing, self-healing network. We want engineers that are equally passionate and can look at the problems with a Customer's perspective to create user experiences that truly enable and empower Technicians, Engineers and Planners.
+ 
+ 
+ 
+   Focusing on the global optical network, and working closely with partner teams in Azure Networking, you’ll be a critical part of developing the hardware, network design and large-scale services that drive our network to autonomy. This will include owning components from design through to deployment, operations, and automation. This is a high visibile position in an area of expanding investment for Microsoft and offers a terrific opportunity for technical and career growth.
+ 
+ 
+ 
+   Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+ 
+  Responsibilities
+  Network Design and Implementation
+ 
+   Develops knowledge of optical network technologies to draw insights that aid in network design, standards, implementation, and operation. 
+  Develops an understanding of quality assurance and network or code review processes by assisting in identifying risks and classes of bugs and becoming familiar with essential details related to network implementation (e.g., physical connectivity, power, protocols, telemetry) and design qualification with guidance from other engineers.
+ 
+  Maintain and Operate Networks
+ 
+   Monitors optical network telemetry and performs basic analyses to triangulate failures, with guidance from other engineers; makes suggestions on possible monitoring improvements; participate in all efforts to automate repetitive tasks to reduce implementation time and avoid failures due to human error.
+   Triages, troubleshoots, and repairs basic live site issues using troubleshooting guides and standard tooling with minimal disruption to customers; participates in on-call/Designated Responsible Individual (DRI) duties.
+   Contributes to the development or modification of network automation tools with guidance from other engineers to make efficient use of infrastructure and resources by automating performance of various tasks related to network operations, testing, and incident management.
+   Supports the management of incidents across one or more workstreams by applying technical knowledge to diagnose and triage issues with guidance from other engineers; takes notes during incidents and participates in post mortem and root cause analysis processes.
+   Works within a team of engineers to manage network deployments; works with a machine-readable definition of the network deployment.
+ 
+  Qualifications
+ 
+   Required/Minimum Qualifications:
+ 
+ 
+   2+ years technical experience in network design, development, and automation 
+   
+    OR Bachelor's Degree in Electrical Engineering, Optical Engineering, Computer Science, Engineering, Information Technology, or related field
+   
+   2+ years of Optical Communications and Dense Wavelength Division Multiplexing (DWDM) experience
+ 
+ 
+   Other Requirements:
+ 
+ 
+   Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+ 
+ 
+ 
+   Preferred/Additional Qualifications:
+ 
+ 
+   Knowledge of optical hardware and optical theory
+   Exposure with Python, Go, REST, YAML, and Workflow systems
+   Self-starter with proven ability to develop creative solutions that enable customers
+   Knowledge of IP/ethernet networking fundamentals
+   Interest and ability to research new and emerging technologies to better solve networking problems
+   Ability to get hands dirty to fix problems and drive dependencies
+ 
+ 
+ 
+   Cloud Network Engineering IC2 - The typical base pay range for this role across the U.S. is USD $76,400 - $151,800 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $100,300 - $165,400 per year.
+ 
+ 
+   
+ 
+ 
+  Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay
+ 
+ 
+ 
+   #azurecorejobs
+  Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.

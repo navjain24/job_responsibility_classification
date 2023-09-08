@@ -1,0 +1,60 @@
+
+ 
+  The Siteimprove Data Platform team is responsible for creating and managing the integrated technologies supporting the end-to-end lifecycle of data across the enterprise. Our engineers are building an event-driven, API first platform that will enable internal and external business partners to acquire, retain, process, govern, and secure data at a global scale.
+ 
+  
+ 
+ 
+   Our team is looking for an excellent senior software engineer who is a highly collaborative and broad-minded problem solver willing to architect and build solutions that are scalable, resilient, and adaptable to the future needs of the business.
+  
+ What you will be doing
+ 
+   Directly contributes to designing software systems, writing code, and designing APIs
+   Provides technical guidance and mentoring to peers and engineers, helping to overcome obstacles and foster growth opportunities 
+  Collaborates with engineering leaders in creating a vision for evolving the Siteimprove Data Platform
+   Maintains, monitors, and improves our solutions and systems with a focus on service excellence; apply industry standards and new technologies to improve efficiency, quality, and system performance
+   Proposes initial technical implementation which supports architectural changes that solve scaling and performance problems
+   Looks for innovation opportunities between several teams with a willingness to experiment and to boldly confront problems of large complexity and scope
+   Participates in multiple Agile teams as an individual contributor, helping with estimation, proto-typing, bug fixing, and support of deployed services; emphasis on ensuring the team is building software to the highest standards
+   Perform other related duties as assigned
+ 
+  What we will require of you
+ 
+   Bachelor’s/Master’s in Computer Science or any related technical field; or equivalent related professional experience
+   5+ years of professional, post-college software development
+   3+ years experience designing and building APIs, scalable distributed systems, and developing data intensive services or applications on AWS infrastructure
+   3+ years providing software and/or system architecture to solve complex, multi-discipline problems
+   Strong technical proficiency, capable of problem solving and applying critical thinking. A deep understanding of software design principles, algorithms and data structures and commitment to technical excellence
+   Travel as needed
+ 
+  What we will love about you
+ 
+   Knowledge of modern data processing and storage paradigms
+   Experience writing ETL processes using Spark or similar (PySpark/Python, Java, Scala)
+   Experience with big-data technologies such as Hive, Hadoop, Presto/Trino, Spark, Iceberg and Avro
+   Experience with IAC Technologies such as Terraform, Cloudformation, and CDK
+   Advanced understanding of cloud native services, including AWS managed offerings such as Glue, Athena, EMR
+   Strong communication skills and highly effective as a collaborator. Ability to clearly articulate ideas to teammates, peers, and leaders, providing details and supporting with data where applicable. Incorporates input and feedback from others in a selfless manner
+ 
+ 
+   Base pay will depend on the position, individual qualifications, market and other operational business needs.
+ 
+ 
+   How to apply
+ 
+ 
+ 
+   Click on the APPLY FOR THIS JOB button to submit your application.
+ 
+ 
+ 
+   Siteimprove is an equal-opportunity employer
+ 
+ 
+ 
+   All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status.
+ 
+ 
+ 
+   Siteimprove is a global corporation and has developed data practices designed to assure your personally identifiable information is appropriately protected. Please note that personal information may be transferred, accessed, and stored globally as necessary for the uses and disclosures stated in accordance with our Privacy Policy at https://siteimprove.com/en/privacy/.
+ 

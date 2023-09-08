@@ -1,0 +1,39 @@
+ 
+ A Bachelor's degree in Computer Science, Engineering, Mathematics, or a related field, or three or more years of work experience in service operations as an equivalent. 
+ 2+ years of experience in scripting or programming languages such as C/C++, Go, Python. 
+ 3+ years of experience in operating large-scale distributed systems. 
+ 2+ years of experience in operating or developing large scale infrastructure and automation (CICD). 
+ Project Kuiper is an initiative to launch a constellation of Low Earth Orbit satellites that will provide low-latency, high-speed broadband connectivity to unserved and underserved communities around the world. As part of this role you will join DevOps team building automated CICD pipeline for satellite software. 
+
+ Key job responsibilities 
+
+ 
+ Continuously collaborating with various satellite software teams teams to automate build, test and deploy pipelines. 
+ Build software solutions to manage infrastructure needed to operate our system at large scale. 
+ Participate in major engineering projects end-to-end with cross-functional stakeholders. 
+ Lead design, implementation, and delivery of software build in ambiguous and complex problem spaces. 
+ Take lead in identifying and solving architecture deficiencies or areas where your team’s software bottlenecks the innovation of other teams. You help your team deliver higher quality software faster (or fail faster to get to the right solution). 
+ Communicate your ideas effectively to achieve the right outcome for your team and customer. Seek diverse perspectives, and incorporate feedback to create a better outcome. 
+ Drive software best practices (e.g., security, quality, operational excellence, etc.). 
+ 
+Export Control Requirement:
+ Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum. 
+
+ A day in the life 
+Build software for CICD to automated satellite software build, deploy and test for multiple cross-functional teams. 
+
+ About the team 
+The Builder Operations Team is looking for a DevOps engineer who has experience building CICD infrastructure and SDLC pipelines for satellite software built on proprietary hardware with various test equipment controlling it. Your technical expertise will be used to create, execute, and optimize builds and automate satellites SDLC through CICD functional testing, spacecraft validation, and chart the path to reliably integrating and launching thousands of satellites. 
+
+ We are open to hiring candidates to work out of one of the following locations: 
+
+ Redmond, WA, USA 
+
+ 
+ 
+ Strong knowledge of test methodology and tools, with demonstrated experience in a DevOps role. 
+ Coding experience with automated build and testing frameworks, tools, and services. 
+ Experienced in Agile or Scrum software development methodologies. 
+ Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us. 
+
+ Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $103,400/year in our lowest geographic market up to $201,200/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site.

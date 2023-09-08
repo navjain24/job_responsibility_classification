@@ -1,0 +1,44 @@
+Inclusively is partnering with a one of the largest transportation networks to hire a Software Engineer, Data Platform.
+ABOUT INCLUSIVELY:
+Inclusively is a digital tech platform that connects candidates with disabilities, who may benefit from workplace accommodations, to inclusive employers. This includes all disabilities under the ADA, including mental health conditions (e.g. anxiety, depression, PTSD), chronic illnesses (e.g. diabetes, Long COVID), and neurodivergence (e.g. autism, ADHD). Applicants with one or more of these conditions are encouraged to apply; Inclusively does not require applicants to disclose their specific disability.
+Responsibilities:
+
+ Design, develop, deploy, monitor, operate and maintain existing or new elements of our platform
+ Help establish roadmap and architecture based on technology and our needs
+ Write well-crafted, well-tested, readable, maintainable code
+ Analyze our internal systems and processes and locate areas for improvement/automation
+ Collaborate with product org stakeholders to address and prioritize custom edge cases
+ Help lead large projects from inception to positive execution
+ Unblock, support and communicate with internal partners to achieve results
+
+Experience:
+
+ 3+ years of software engineering industry experience and with data structures/algorithms
+ 2+ years of experience building and developing large-scale infrastructure, distributed systems or networks, and/or experience with data infrastructure
+ Experience working with kubernetes and container technologies (e.g. Docker, cri-o, etc)
+ Familiar with a cloud-based environments such as AWS/GCP/Azure
+
+Benefits:
+
+ Great medical, dental, and vision insurance options
+ Mental health benefits
+ Family building benefits
+ In addition to 12 observed holidays, salaried team members have unlimited paid time off, hourly team members have 15 days paid time off
+ 401(k) plan to help save for your future
+ 18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+ Pre-tax commuter benefits
+ Out team members get an exclusive opportunity to test new benefits of our Ridership Program
+
+Job Type: Full-time
+Benefits:
+
+ 401(k)
+ Health insurance
+ Paid time off
+ Parental leave
+
+Schedule:
+
+ Monday to Friday
+
+Work Location: In person
